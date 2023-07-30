@@ -1,0 +1,637 @@
+chris philp	conservative party	R	89307992	http://www.wikidata.org/entity/Q16972528
+kirsten oswald	scottish national party	L	2707851346	http://www.wikidata.org/entity/Q19874839
+alison thewliss	scottish national party	L	116459535	http://www.wikidata.org/entity/Q19882771
+naz shah	labour party	L	355623405	http://www.wikidata.org/entity/Q19882845
+ronnie cowan	scottish national party	L	132490359	http://www.wikidata.org/entity/Q19883025
+patricia gibson	scottish national party	L	3030111953	http://www.wikidata.org/entity/Q19883132
+wendy morton	conservative party	R	813678139	http://www.wikidata.org/entity/Q19917814
+chris green	conservative party	R	1305528373	http://www.wikidata.org/entity/Q19957945
+luke hall	conservative party	R	4490851456	http://www.wikidata.org/entity/Q19957996
+daniel zeichner	labour party	L	454933267	http://www.wikidata.org/entity/Q20128211
+damien moore	conservative party	R	2902135256	http://www.wikidata.org/entity/Q30163703
+anna mcmorrin	labour party	L	14590758	http://www.wikidata.org/entity/Q30164279
+wera hobhouse	liberal democrats	L	19915728	http://www.wikidata.org/entity/Q30164280
+christine jardine	liberal democrats	L	87647640	http://www.wikidata.org/entity/Q30164696
+tanmanjeet singh dhesi	labour party	L	1865540413	http://www.wikidata.org/entity/Q30169287
+darren jones	labour party	L	20392734	http://www.wikidata.org/entity/Q30174665
+gillian keegan	conservative party	R	2986235404	http://www.wikidata.org/entity/Q30232942
+alex burghart	conservative party	R	22474050	http://www.wikidata.org/entity/Q30234239
+ellie reeves	labour party	L	52124856	http://www.wikidata.org/entity/Q30234240
+emma hardy	labour party	L	499590887	http://www.wikidata.org/entity/Q30234242
+natalie elphicke	conservative party	R	1154535918	http://www.wikidata.org/entity/Q42846975
+sara britcliffe	conservative party	R	1207018014077575169	http://www.wikidata.org/entity/Q76363563
+david simmonds	conservative party	R	1170457166	http://www.wikidata.org/entity/Q76363601
+elliot colburn	conservative party	R	277969601	http://www.wikidata.org/entity/Q76363641
+mick whitley	labour party	L	1206924720794406913	http://www.wikidata.org/entity/Q76363909
+ben everitt	conservative party	R	119356526	http://www.wikidata.org/entity/Q76364469
+simon jupp	conservative party	R	215778638	http://www.wikidata.org/entity/Q76449017
+jane hunt	conservative party	R	36154400	http://www.wikidata.org/entity/Q76450642
+greg smith	conservative party	R	195752750	http://www.wikidata.org/entity/Q76736577
+tom hunt	conservative party	R	370033792	http://www.wikidata.org/entity/Q76736580
+stuart andrew	conservative party	R	20424362	http://www.wikidata.org/entity/Q259707
+robin walker	conservative party	R	1978270322	http://www.wikidata.org/entity/Q263076
+jake berry	conservative party	R	217148014	http://www.wikidata.org/entity/Q263350
+crispin blunt	conservative party	R	76579281	http://www.wikidata.org/entity/Q264305
+karen bradley	conservative party	R	796764331266473984	http://www.wikidata.org/entity/Q264560
+ben bradshaw	labour party	L	24211594	http://www.wikidata.org/entity/Q264618
+john whittingdale	conservative party	R	129569947	http://www.wikidata.org/entity/Q264684
+kevin brennan	labour party	L	21746513	http://www.wikidata.org/entity/Q264964
+andrew bridgen	conservative party	R	309587728	http://www.wikidata.org/entity/Q265028
+lyn brown	labour party	L	1478483473	http://www.wikidata.org/entity/Q265870
+greg clark	conservative party	R	224655400	http://www.wikidata.org/entity/Q271800
+edward timpson	conservative party	R	3306903539	http://www.wikidata.org/entity/Q272318
+rosie cooper	labour party	L	110767433	http://www.wikidata.org/entity/Q290855
+john cryer	labour party	L	2979904613	http://www.wikidata.org/entity/Q291615
+geraint davies	labour party	L	144791011	http://www.wikidata.org/entity/Q296866
+caroline dinenage	conservative party	R	383238347	http://www.wikidata.org/entity/Q300107
+angela eagle	labour party	L	124270074	http://www.wikidata.org/entity/Q302763
+maria eagle	labour party	L	192935794	http://www.wikidata.org/entity/Q302815
+julie elliott	labour party	L	776022362	http://www.wikidata.org/entity/Q303011
+nigel evans	conservative party	R	121070777; 9260332	http://www.wikidata.org/entity/Q303814
+cheryl gillan	conservative party	R	295807687	http://www.wikidata.org/entity/Q333852
+michael gove	conservative party	R	748453510048518145	http://www.wikidata.org/entity/Q333937
+mary glindon	labour party	L	1191274965783531520	http://www.wikidata.org/entity/Q391483
+alec shelbrooke	conservative party	R	130092487	http://www.wikidata.org/entity/Q393751
+andrew percy	conservative party	R	754763748208967680	http://www.wikidata.org/entity/Q575493
+mark pawsey	conservative party	R	52412027	http://www.wikidata.org/entity/Q575693
+guy opperman	conservative party	R	143386976	http://www.wikidata.org/entity/Q576195
+james morris	conservative party	R	155892458	http://www.wikidata.org/entity/Q580086
+grahame morris	labour party	L	58821256	http://www.wikidata.org/entity/Q580215
+jessica morden	labour party	L	43312141	http://www.wikidata.org/entity/Q580431
+nigel mills	conservative party	R	995322806	http://www.wikidata.org/entity/Q580847
+karl mccartney	conservative party	R	26796376	http://www.wikidata.org/entity/Q694811
+paul maskey	sinn féin	L	80812413	http://www.wikidata.org/entity/Q694929
+tim loughton	conservative party	R	108587399	http://www.wikidata.org/entity/Q695228
+sajid javid	conservative party	R	20052899	http://www.wikidata.org/entity/Q727798
+bernard jenkin	conservative party	R	222762589	http://www.wikidata.org/entity/Q727852
+chris hazzard	sinn féin	L	349075382	http://www.wikidata.org/entity/Q5106839
+colum eastwood	social democratic and labour party	L	20924620	http://www.wikidata.org/entity/Q5149523
+conor mcginn	labour party	L	36158689	http://www.wikidata.org/entity/Q5162256
+dawn butler	labour party	L	114505454	http://www.wikidata.org/entity/Q5242429
+gavin robinson	democratic unionist party	R	249845912	http://www.wikidata.org/entity/Q5528262
+afzal khan	labour party	L	202610289	http://www.wikidata.org/entity/Q6712373
+mickey brady	sinn féin	L	2982986710	http://www.wikidata.org/entity/Q6838584
+paul girvan	democratic unionist party	R	1374937922	http://www.wikidata.org/entity/Q7150909
+rupa huq	labour party	L	706747004	http://www.wikidata.org/entity/Q7380182
+steve reed	labour co-operative	L	23749162	http://www.wikidata.org/entity/Q7613711
+john nicolson	scottish national party	L	2327654917	http://www.wikidata.org/entity/Q14948811
+karin smyth	labour party	L	485146783	http://www.wikidata.org/entity/Q17057181
+kirsty blackman	scottish national party	L	2616215901	http://www.wikidata.org/entity/Q19868554
+chris law	scottish national party	L	2205165174	http://www.wikidata.org/entity/Q19875413
+tommy sheppard	scottish national party	L	280574046	http://www.wikidata.org/entity/Q19880278
+owen thompson	scottish national party	L	28354217	http://www.wikidata.org/entity/Q19883152
+judith cummins	labour party	L	401568431	http://www.wikidata.org/entity/Q19957188
+steve double	conservative party	R	21174263	http://www.wikidata.org/entity/Q19957580
+suella braverman	conservative party	R	1722829178	http://www.wikidata.org/entity/Q19957769
+vicky foxcroft	labour party	L	174396155	http://www.wikidata.org/entity/Q19957802
+nus ghani	conservative party	R	1513382018	http://www.wikidata.org/entity/Q19957887
+margaret greenwood	labour party	L	1464467370	http://www.wikidata.org/entity/Q19957949
+louise haigh	labour party	L	143508762	http://www.wikidata.org/entity/Q19957992
+carolyn harris	labour party	L	2406093795	http://www.wikidata.org/entity/Q19958026
+rachael maskell	labour co-operative	L	80151292	http://www.wikidata.org/entity/Q20127923
+johnny mercer	conservative party	R	97402576	http://www.wikidata.org/entity/Q20127929
+claire hanna	social democratic and labour party	L	20508666	http://www.wikidata.org/entity/Q20631177
+maggie throup	conservative party	R	1082258629116465152	http://www.wikidata.org/entity/Q20647819
+michael tomlinson	conservative party	R	200519122	http://www.wikidata.org/entity/Q20647896
+tom tugendhat	conservative party	R	2173779986	http://www.wikidata.org/entity/Q20648385
+amanda solloway	conservative party	R	4439444062	http://www.wikidata.org/entity/Q20648487
+alex sobel	labour co-operative	L	15726425	http://www.wikidata.org/entity/Q30164792
+jack brereton	conservative party	R	1722565140	http://www.wikidata.org/entity/Q30165535
+andrew bowie	conservative party	R	893178169380962304	http://www.wikidata.org/entity/Q30224657
+eddie hughes	conservative party	R	857669618772713473	http://www.wikidata.org/entity/Q30234253
+ruth jones	labour party	L	1093899576329801729	http://www.wikidata.org/entity/Q62764975
+joy morrissey	conservative party	R	536479831	http://www.wikidata.org/entity/Q63929106
+brendan clarke-smith	conservative party	R	1189293292686630912	http://www.wikidata.org/entity/Q63929253
+james murray	labour co-operative	L	175512020	http://www.wikidata.org/entity/Q75292880
+simon baynes	conservative party	R	3817818435	http://www.wikidata.org/entity/Q75427885
+navendu mishra	labour party	L	873636843627196416	http://www.wikidata.org/entity/Q75720091
+simon fell	conservative party	R	16454546	http://www.wikidata.org/entity/Q76362924
+lia nici	conservative party	R	863848156739629056	http://www.wikidata.org/entity/Q76363431
+cherilyn mackrory	conservative party	R	366525113	http://www.wikidata.org/entity/Q76364111
+paul bristow	conservative party	R	68357219	http://www.wikidata.org/entity/Q76364834
+kieran mullan	conservative party	R	2834640796	http://www.wikidata.org/entity/Q76364848
+jacob young	conservative party	R	3318522880	http://www.wikidata.org/entity/Q76450659
+diane abbott	labour party	L	153810216	http://www.wikidata.org/entity/Q153454
+peter bone	conservative party	R	871469846	http://www.wikidata.org/entity/Q264426
+theresa may	conservative party	R	747807250819981312	http://www.wikidata.org/entity/Q264766
+karen buck	labour party	L	259215762	http://www.wikidata.org/entity/Q266238
+alun cairns	conservative party	R	76650839	http://www.wikidata.org/entity/Q268030
+rehman chishti	conservative party	R	2863865170	http://www.wikidata.org/entity/Q271683
+justin tomlinson	conservative party	R	250311545	http://www.wikidata.org/entity/Q272288
+stella creasy	labour co-operative	L	15580900	http://www.wikidata.org/entity/Q291502
+david davis	conservative party	R	2797521996	http://www.wikidata.org/entity/Q300023
+iain duncan smith	conservative party	R	1133305785910550528	http://www.wikidata.org/entity/Q302486
+jeremy hunt	conservative party	R	112398730	http://www.wikidata.org/entity/Q333533
+chloe smith	conservative party	R	386776248	http://www.wikidata.org/entity/Q333680
+roger gale	conservative party	R	1064912412736917504	http://www.wikidata.org/entity/Q391094
+mark garnier	conservative party	R	20226550	http://www.wikidata.org/entity/Q391222
+nick gibb	conservative party	R	3036280263	http://www.wikidata.org/entity/Q391300
+helen grant	conservative party	R	24727170	http://www.wikidata.org/entity/Q391792
+vicky ford	conservative party	R	14691032	http://www.wikidata.org/entity/Q441532
+barry sheerman	labour co-operative	L	250091875	http://www.wikidata.org/entity/Q477464
+jonathan reynolds	labour co-operative	L	18632946	http://www.wikidata.org/entity/Q501926
+rachel reeves	labour party	L	34374472	http://www.wikidata.org/entity/Q574896
+bridget phillipson	labour party	L	19295262	http://www.wikidata.org/entity/Q575337
+caroline nokes	conservative party	R	209029473	http://www.wikidata.org/entity/Q577227
+esther mcvey	conservative party	R	761499948890329088	http://www.wikidata.org/entity/Q584062
+chris heaton-harris	conservative party	R	80943076	http://www.wikidata.org/entity/Q673322
+mark hendrick	labour co-operative	L	1302003805	http://www.wikidata.org/entity/Q673628
+george howarth	labour party	L	60931095	http://www.wikidata.org/entity/Q689546
+jason mccartney	conservative party	R	19619404	http://www.wikidata.org/entity/Q694825
+tony lloyd	labour party	L	23452834	http://www.wikidata.org/entity/Q695295
+sarah champion	labour party	L	948015937	http://www.wikidata.org/entity/Q7422176
+wes streeting	labour party	L	20362684	http://www.wikidata.org/entity/Q7983764
+ian blackford	scottish national party	L	1325563478	http://www.wikidata.org/entity/Q18921442
+chris stephens	scottish national party	L	244540519	http://www.wikidata.org/entity/Q19059345
+kate hollern	labour party	L	191074455	http://www.wikidata.org/entity/Q19874280
+hannah bardell	scottish national party	L	2981900049	http://www.wikidata.org/entity/Q19882420
+neil gray	scottish national party	L	287212988	http://www.wikidata.org/entity/Q19882694
+thangam debbonaire	labour party	L	262163061	http://www.wikidata.org/entity/Q19882875
+joanna cherry	scottish national party	L	2583270112	http://www.wikidata.org/entity/Q19882967
+martin docherty-hughes	scottish national party	L	24909650	http://www.wikidata.org/entity/Q19883117
+james davies	conservative party	R	22378075	http://www.wikidata.org/entity/Q19957303
+peter dowd	labour party	L	883173469	http://www.wikidata.org/entity/Q19957586
+simon hoare	conservative party	R	3012159189	http://www.wikidata.org/entity/Q19958093
+rebecca long-bailey	labour party	L	385306338	http://www.wikidata.org/entity/Q19979355
+stewart mcdonald	scottish national party	L	19608199	http://www.wikidata.org/entity/Q20011564
+victoria prentis	conservative party	R	2862527512	http://www.wikidata.org/entity/Q20054083
+kelly tolhurst	conservative party	R	218789670	http://www.wikidata.org/entity/Q20055581
+gerald jones	labour party	L	496060628	http://www.wikidata.org/entity/Q20647531
+rebecca pow	conservative party	R	371201577	http://www.wikidata.org/entity/Q20647855
+craig williams	conservative party	R	1344130148	http://www.wikidata.org/entity/Q20647978
+anne-marie trevelyan	conservative party	R	20229729	http://www.wikidata.org/entity/Q20648244
+royston smith	conservative party	R	75562171	http://www.wikidata.org/entity/Q20648372
+mary robinson	conservative party	R	1048278487	http://www.wikidata.org/entity/Q20648564
+nick thomas-symonds	labour party	L	3092429597	http://www.wikidata.org/entity/Q20648913
+william wragg	conservative party	R	1606157958	http://www.wikidata.org/entity/Q20732037
+helen whately	conservative party	R	130280613	http://www.wikidata.org/entity/Q20747098
+matt western	labour party	L	243306810	http://www.wikidata.org/entity/Q30164376
+stephanie peacock	labour party	L	51062977	http://www.wikidata.org/entity/Q30164451
+lloyd russell-moyle	labour co-operative	L	38880112	http://www.wikidata.org/entity/Q30165113
+ben lake	plaid cymru	L	456537189	http://www.wikidata.org/entity/Q30172752
+stephen morgan	labour party	L	24045870	http://www.wikidata.org/entity/Q30179008
+sarah jones	labour party	L	1337725045	http://www.wikidata.org/entity/Q30179052
+ben bradley	conservative party	R	918031841759780864	http://www.wikidata.org/entity/Q30223599
+órfhlaith begley	sinn féin	L	406646373	http://www.wikidata.org/entity/Q52587398
+sarah owen	labour party	L	250601094	http://www.wikidata.org/entity/Q75621688
+amy callaghan	scottish national party	L	401469367	http://www.wikidata.org/entity/Q75818988
+daisy cooper	liberal democrats	L	113476721	http://www.wikidata.org/entity/Q75838761
+jerome mayhew	conservative party	R	370700221	http://www.wikidata.org/entity/Q76237363
+selaine saxby	conservative party	R	265280042	http://www.wikidata.org/entity/Q76362953
+sarah atherton	conservative party	R	928672211883495425	http://www.wikidata.org/entity/Q76363249
+alicia kearns	conservative party	R	41195676	http://www.wikidata.org/entity/Q76363294
+siobhan baillie	conservative party	R	129951559	http://www.wikidata.org/entity/Q76363409
+alexander stafford	conservative party	R	221562616	http://www.wikidata.org/entity/Q76449027
+luke evans	conservative party	R	475138726	http://www.wikidata.org/entity/Q76450645
+chris clarkson	conservative party	R	1235267259922296833	http://www.wikidata.org/entity/Q76729340
+caroline lucas	green party of england and wales	L	80802900	http://www.wikidata.org/entity/Q9670
+debbie abrahams	labour party	L	225857392	http://www.wikidata.org/entity/Q258088
+mark tami	labour party	L	2278921206	http://www.wikidata.org/entity/Q272569
+yvette cooper	labour party	L	328634628	http://www.wikidata.org/entity/Q291057
+jon cruddas	labour party	L	499781930	http://www.wikidata.org/entity/Q291591
+wayne david	labour party	L	415449314	http://www.wikidata.org/entity/Q296716
+david davies	conservative party	R	550076077	http://www.wikidata.org/entity/Q296797
+david evennett	conservative party	R	17298241	http://www.wikidata.org/entity/Q303883
+mel stride	conservative party	R	3183943337	http://www.wikidata.org/entity/Q328769
+andrew stephenson	conservative party	R	131517399	http://www.wikidata.org/entity/Q341570
+john glen	conservative party	R	36664451	http://www.wikidata.org/entity/Q391465
+chris skidmore	conservative party	R	436576452	http://www.wikidata.org/entity/Q391526
+andrew gwynne	labour party	L	54351001	http://www.wikidata.org/entity/Q392216
+jacob rees-mogg	conservative party	R	885838630928994304	http://www.wikidata.org/entity/Q574980
+john penrose	conservative party	R	158315486	http://www.wikidata.org/entity/Q575513
+lisa nandy	labour party	L	94701778	http://www.wikidata.org/entity/Q578037
+kerry mccarthy	labour party	L	18099795	http://www.wikidata.org/entity/Q581095
+stephen mcpartland	conservative party	R	397160160	http://www.wikidata.org/entity/Q584156
+jonathan lord	conservative party	R	2787943494	http://www.wikidata.org/entity/Q695241
+diana johnson	labour party	L	68659708	http://www.wikidata.org/entity/Q727933
+greg knight	conservative party	R	15453062	http://www.wikidata.org/entity/Q750219
+francie molloy	sinn féin	L	1006402848	http://www.wikidata.org/entity/Q5479812
+keir starmer	labour party	L	2425571623	http://www.wikidata.org/entity/Q6383803
+kit malthouse	conservative party	R	19407599	http://www.wikidata.org/entity/Q6417459
+nigel huddleston	conservative party	R	568249574	http://www.wikidata.org/entity/Q16211496
+tom pursglove	conservative party	R	1418358025	http://www.wikidata.org/entity/Q16232474
+jim mcmahon	labour co-operative	L	154661114	http://www.wikidata.org/entity/Q17306267
+angela rayner	labour party	L	222748037	http://www.wikidata.org/entity/Q18164278
+catherine west	labour party	L	351812038	http://www.wikidata.org/entity/Q19871931
+alan brown	scottish national party	L	3011043981	http://www.wikidata.org/entity/Q19883288
+james cartlidge	conservative party	R	2776689260	http://www.wikidata.org/entity/Q19956787
+alberto costa	conservative party	R	3005893073	http://www.wikidata.org/entity/Q19957124
+matthew pennycook	labour party	L	21084719	http://www.wikidata.org/entity/Q20203414
+justin madders	labour party	L	2999868527	http://www.wikidata.org/entity/Q20647673
+chris matheson	labour party	L	2472200292	http://www.wikidata.org/entity/Q20647738
+amanda milling	conservative party	R	381433782	http://www.wikidata.org/entity/Q20648982
+bim afolami	conservative party	R	311956971	http://www.wikidata.org/entity/Q30174692
+julia lopez	conservative party	R	859339993810161664	http://www.wikidata.org/entity/Q30174734
+mohammad yasin	labour party	L	887252498054033408	http://www.wikidata.org/entity/Q30234247
+suzanne webb	conservative party	R	1469672990	http://www.wikidata.org/entity/Q63929121
+fay jones	conservative party	R	134257511	http://www.wikidata.org/entity/Q63929463
+stephen flynn	scottish national party	L	487655647	http://www.wikidata.org/entity/Q75818973
+munira wilson	liberal democrats	L	397566701	http://www.wikidata.org/entity/Q75838676
+duncan baker	conservative party	R	24963373	http://www.wikidata.org/entity/Q76363201
+robert largan	conservative party	R	862282069153599488	http://www.wikidata.org/entity/Q76363319
+marco longhi	conservative party	R	1179055854794018816	http://www.wikidata.org/entity/Q76363678
+rob roberts	conservative party	R	1179046208398123008	http://www.wikidata.org/entity/Q76363923
+claire coutinho	conservative party	R	336529567	http://www.wikidata.org/entity/Q76364263
+paul holmes	conservative party	R	172090468	http://www.wikidata.org/entity/Q76450648
+dean russell	conservative party	R	1189861431048622080	http://www.wikidata.org/entity/Q76450658
+owen paterson	conservative party	R	2660755152	http://www.wikidata.org/entity/Q197894
+adam afriyie	conservative party	R	22031058	http://www.wikidata.org/entity/Q258473
+stephen barclay	conservative party	R	269788397	http://www.wikidata.org/entity/Q260546
+hilary benn	labour party	L	408454349	http://www.wikidata.org/entity/Q262742
+steve brine	conservative party	R	11564602	http://www.wikidata.org/entity/Q265088
+chris bryant	labour party	L	20995648	http://www.wikidata.org/entity/Q266146
+yasmin qureshi	labour party	L	72341341	http://www.wikidata.org/entity/Q267930
+gareth thomas	labour co-operative	L	219976700	http://www.wikidata.org/entity/Q272452
+jonathan djanogly	conservative party	R	131120978	http://www.wikidata.org/entity/Q300142
+jeffrey donaldson	democratic unionist party	R	277499481	http://www.wikidata.org/entity/Q300292
+michael fabricant	conservative party	R	19058678	http://www.wikidata.org/entity/Q304027
+tim farron	liberal democrats	L	80021045	http://www.wikidata.org/entity/Q304251
+julian sturdy	conservative party	R	8558522	http://www.wikidata.org/entity/Q328608
+neil parish	conservative party	R	3164087579	http://www.wikidata.org/entity/Q333714
+michelle gildernew	sinn féin	L	127619354	http://www.wikidata.org/entity/Q337970
+julian smith	conservative party	R	728039018	http://www.wikidata.org/entity/Q390794
+robert goodwill	conservative party	R	3198099357	http://www.wikidata.org/entity/Q391644
+damian green	conservative party	R	422184091	http://www.wikidata.org/entity/Q391960
+lilian greenwood	labour party	L	20148039	http://www.wikidata.org/entity/Q392064
+nia griffith	labour party	L	481120639	http://www.wikidata.org/entity/Q392101
+greg hands	conservative party	R	125270251	http://www.wikidata.org/entity/Q478227
+mark harper	conservative party	R	429751008	http://www.wikidata.org/entity/Q478276
+david lammy	labour party	L	18020612	http://www.wikidata.org/entity/Q534727
+alison mcgovern	labour party	L	21713090	http://www.wikidata.org/entity/Q694639
+john mcdonnell	labour party	L	77234984	http://www.wikidata.org/entity/Q694695
+edward leigh	conservative party	R	474180693	http://www.wikidata.org/entity/Q749980
+liz kendall	labour party	L	105800463	http://www.wikidata.org/entity/Q750260
+marcus jones	conservative party	R	1469686752	http://www.wikidata.org/entity/Q750398
+stephen kinnock	labour party	L	722347303	http://www.wikidata.org/entity/Q3377178
+richard bacon	conservative party	R	570197439; 859724846787416064	http://www.wikidata.org/entity/Q3409441
+tulip siddiq	labour party	L	113491007	http://www.wikidata.org/entity/Q7852071
+robert jenrick	conservative party	R	2323710210	http://www.wikidata.org/entity/Q17180679
+alan mak	conservative party	R	2157036506; 118209749	http://www.wikidata.org/entity/Q19868483
+liz saville roberts	plaid cymru	L	2350624098	http://www.wikidata.org/entity/Q19868633
+jamie stone	liberal democrats	L	868787843510013953; 4210164801	http://www.wikidata.org/entity/Q1681420
+andy mcdonald	labour party	L	927480949	http://www.wikidata.org/entity/Q4761018
+drew hendry	scottish national party	L	252077991	http://www.wikidata.org/entity/Q5307191
+lucy powell	labour co-operative	L	32439211	http://www.wikidata.org/entity/Q6698469
+will quince	conservative party	R	20473134	http://www.wikidata.org/entity/Q16751766
+andrew lewer	conservative party	R	3320682953	http://www.wikidata.org/entity/Q16980037
+michelle donelan	conservative party	R	116864791	http://www.wikidata.org/entity/Q19872694
+philippa whitford	scottish national party	L	2932558313	http://www.wikidata.org/entity/Q19874405
+andrea jenkyns	conservative party	R	1350441445	http://www.wikidata.org/entity/Q19874642
+peter grant	scottish national party	L	3028314515	http://www.wikidata.org/entity/Q19882721
+stuart mcdonald	scottish national party	L	211883434	http://www.wikidata.org/entity/Q19883251
+neil coyle	labour party	L	248186795	http://www.wikidata.org/entity/Q19957144
+mims davies	conservative party	R	236588290	http://www.wikidata.org/entity/Q19957306
+oliver dowden	conservative party	R	1172535926209298432	http://www.wikidata.org/entity/Q19957590
+kate osamor	labour co-operative	L	415910519	http://www.wikidata.org/entity/Q20022488
+rishi sunak	conservative party	R	1168968080690749441	http://www.wikidata.org/entity/Q20055561
+peter kyle	labour party	L	21769986	http://www.wikidata.org/entity/Q20113749
+jo stevens	labour party	L	1328897358	http://www.wikidata.org/entity/Q20128115
+derek thomas	conservative party	R	3252801106	http://www.wikidata.org/entity/Q20177497
+jeff smith	labour party	L	18951643	http://www.wikidata.org/entity/Q20648365
+rosena allin-khan	labour party	L	2382227424	http://www.wikidata.org/entity/Q24668273
+robert courts	conservative party	R	20238327	http://www.wikidata.org/entity/Q27671735
+tonia antoniazzi	labour party	L	2855602085	http://www.wikidata.org/entity/Q30165536
+liz twist	labour party	L	857641376628043778	http://www.wikidata.org/entity/Q30165748
+david duguid	conservative party	R	854280215601840128	http://www.wikidata.org/entity/Q30176559
+alex norris	labour co-operative	L	20142835	http://www.wikidata.org/entity/Q30234243
+tom randall	conservative party	R	131268401	http://www.wikidata.org/entity/Q63929382
+fleur anderson	labour party	L	2583099904	http://www.wikidata.org/entity/Q75410647
+feryal clark	labour party	L	67289397	http://www.wikidata.org/entity/Q75621766
+matt vickers	conservative party	R	136436065	http://www.wikidata.org/entity/Q76362976
+mary foy	labour party	L	1858780626	http://www.wikidata.org/entity/Q76363590
+dehenna davison	conservative party	R	28306725	http://www.wikidata.org/entity/Q76364853
+richard holden	conservative party	R	2209331701	http://www.wikidata.org/entity/Q76729336
+rob butler	conservative party	R	415451238	http://www.wikidata.org/entity/Q76736645
+harriett baldwin	conservative party	R	19177609	http://www.wikidata.org/entity/Q260429
+sammy wilson	democratic unionist party	R	2979630241	http://www.wikidata.org/entity/Q262040
+ben wallace	conservative party	R	143405324	http://www.wikidata.org/entity/Q263166
+craig whittaker	conservative party	R	134738764	http://www.wikidata.org/entity/Q264636
+liam byrne	labour party	L	27212119	http://www.wikidata.org/entity/Q269697
+conor burns	conservative party	R	388250401	http://www.wikidata.org/entity/Q269925
+stephen timms	labour party	L	102107018	http://www.wikidata.org/entity/Q272346
+stephen metcalfe	conservative party	R	435980092	http://www.wikidata.org/entity/Q272643
+damian collins	conservative party	R	14758838	http://www.wikidata.org/entity/Q290646
+geoffrey cox	conservative party	R	103879974	http://www.wikidata.org/entity/Q291303
+philip dunne	conservative party	R	1650144662	http://www.wikidata.org/entity/Q302546
+michael ellis	conservative party	R	19858924	http://www.wikidata.org/entity/Q303085
+bill esterson	labour party	L	120720108	http://www.wikidata.org/entity/Q303465
+john redwood	conservative party	R	93880122	http://www.wikidata.org/entity/Q333846
+maria miller	conservative party	R	830775721	http://www.wikidata.org/entity/Q334261
+john stevenson	conservative party	R	222419520	http://www.wikidata.org/entity/Q341538
+yvonne fovargue	labour party	L	568174146	http://www.wikidata.org/entity/Q390756
+nick smith	labour party	L	124152473; 532351874	http://www.wikidata.org/entity/Q390760
+james gray	conservative party	R	86192099	http://www.wikidata.org/entity/Q391839
+kate green	labour party	L	105838665	http://www.wikidata.org/entity/Q391986
+matt hancock	conservative party	R	19825835	http://www.wikidata.org/entity/Q478161
+rebecca harris	conservative party	R	515520108	http://www.wikidata.org/entity/Q478305
+alok sharma	conservative party	R	1731554581	http://www.wikidata.org/entity/Q478531
+chi onwurah	labour party	L	82093305	http://www.wikidata.org/entity/Q576208
+andrew murrison	conservative party	R	759067032	http://www.wikidata.org/entity/Q578234
+sheryll murray	conservative party	R	18627119	http://www.wikidata.org/entity/Q578272
+daniel kawczynski	conservative party	R	2286550590	http://www.wikidata.org/entity/Q692315
+pat mcfadden	labour party	L	25091518	http://www.wikidata.org/entity/Q694676
+paul maynard	conservative party	R	15133808	http://www.wikidata.org/entity/Q694881
+seema malhotra	labour co-operative	L	32369044	http://www.wikidata.org/entity/Q694984
+angus macneil	scottish national party	L	46609085	http://www.wikidata.org/entity/Q695092
+caroline ansell	conservative party	R	608008015	http://www.wikidata.org/entity/Q19870758
+ranil jayawardena	conservative party	R	930829985241280512	http://www.wikidata.org/entity/Q19870873
+deidre brock	scottish national party	L	425774290	http://www.wikidata.org/entity/Q19871637
+ruth cadbury	labour party	L	108654496	http://www.wikidata.org/entity/Q19871785
+marcus fysh	conservative party	R	1655569938	http://www.wikidata.org/entity/Q19873418
+helen hayes	labour party	L	261886643	http://www.wikidata.org/entity/Q19874017
+john mcnally	scottish national party	L	3037079585	http://www.wikidata.org/entity/Q19882661
+cat smith	labour party	L	31756041	http://www.wikidata.org/entity/Q19930597
+lucy frazer	conservative party	R	3823970661	http://www.wikidata.org/entity/Q19957811
+clive lewis	labour party	L	36924726	http://www.wikidata.org/entity/Q20127903
+holly lynch	labour party	L	382181117	http://www.wikidata.org/entity/Q20127909
+huw merriman	conservative party	R	2902930059	http://www.wikidata.org/entity/Q20195263
+scott mann	conservative party	R	112761860	http://www.wikidata.org/entity/Q20647692
+marie rimmer	labour party	L	2350948635	http://www.wikidata.org/entity/Q20648527
+florence eshalomi	labour co-operative	L	20763907	http://www.wikidata.org/entity/Q24061230
+trudy harrison	conservative party	R	292798516	http://www.wikidata.org/entity/Q28834855
+mike hill	labour party	L	495068194	http://www.wikidata.org/entity/Q30164739
+david linden	scottish national party	L	22505462	http://www.wikidata.org/entity/Q30224361
+simon clarke	conservative party	R	1715832776	http://www.wikidata.org/entity/Q30228118
+rachel maclean	conservative party	R	860896517737119747	http://www.wikidata.org/entity/Q30234241
+leo docherty	conservative party	R	562385310	http://www.wikidata.org/entity/Q30234245
+janet daby	labour party	L	1114681081	http://www.wikidata.org/entity/Q55003337
+john finucane	sinn féin	L	255277792	http://www.wikidata.org/entity/Q55615175
+dave doogan	scottish national party	L	398627964	http://www.wikidata.org/entity/Q75818967
+virginia crosbie	conservative party	R	855455848377798657	http://www.wikidata.org/entity/Q76363411
+stuart anderson	conservative party	R	727494797490049024	http://www.wikidata.org/entity/Q76363439
+antony higginbotham	conservative party	R	3401851379	http://www.wikidata.org/entity/Q76363542
+bell ribeiro-addy	labour party	L	237341484	http://www.wikidata.org/entity/Q76364048
+taiwo owatemi	labour party	L	802599212194131968	http://www.wikidata.org/entity/Q76364051
+charlotte nichols	labour party	L	342187925	http://www.wikidata.org/entity/Q76364081
+sally-ann hart	conservative party	R	1193173567313240075	http://www.wikidata.org/entity/Q76364330
+sarah dines	conservative party	R	1197569645261283329	http://www.wikidata.org/entity/Q76364344
+alex davies-jones	labour party	L	33031863	http://www.wikidata.org/entity/Q76364874
+rachel hopkins	labour party	L	952069440	http://www.wikidata.org/entity/Q76448943
+andy carter	conservative party	R	26035809	http://www.wikidata.org/entity/Q76448984
+saqib bhatti	conservative party	R	431730103	http://www.wikidata.org/entity/Q76449003
+james sunderland	conservative party	R	1184244273245573120	http://www.wikidata.org/entity/Q76449014
+andrew griffith	conservative party	R	136398656	http://www.wikidata.org/entity/Q76736652
+aaron bell	conservative party	R	240808845	http://www.wikidata.org/entity/Q76736935
+rushanara ali	labour party	L	245849058	http://www.wikidata.org/entity/Q259423
+david amess	conservative party	R	951838283780194304	http://www.wikidata.org/entity/Q259646
+jonathan ashworth	labour party	L	143212610	http://www.wikidata.org/entity/Q259895
+pete wishart	scottish national party	L	276868661	http://www.wikidata.org/entity/Q261675
+gavin williamson	conservative party	R	368314502	http://www.wikidata.org/entity/Q262409
+bill wiggin	conservative party	R	496906695	http://www.wikidata.org/entity/Q265900
+martin vickers	conservative party	R	831250927	http://www.wikidata.org/entity/Q266905
+shailesh vara	conservative party	R	1014072131666276354	http://www.wikidata.org/entity/Q267234
+gregory campbell	democratic unionist party	R	50859251	http://www.wikidata.org/entity/Q268465
+bill cash	conservative party	R	100520303	http://www.wikidata.org/entity/Q269449
+karl turner	labour party	L	432396682	http://www.wikidata.org/entity/Q272123
+alex cunningham	labour party	L	143739561	http://www.wikidata.org/entity/Q291649
+philip davies	conservative party	R	125312818	http://www.wikidata.org/entity/Q300004
+jackie doyle-price	conservative party	R	38671387	http://www.wikidata.org/entity/Q302036
+clive efford	labour party	L	393436815	http://www.wikidata.org/entity/Q302939
+tobias ellwood	conservative party	R	482866177	http://www.wikidata.org/entity/Q303299
+desmond swayne	conservative party	R	1633543440	http://www.wikidata.org/entity/Q327823
+graham stuart	conservative party	R	14395178	http://www.wikidata.org/entity/Q328641
+fabian hamilton	labour party	L	859433240452583424	http://www.wikidata.org/entity/Q337812
+mark spencer	conservative party	R	154943205	http://www.wikidata.org/entity/Q389189
+george freeman	conservative party	R	101712079	http://www.wikidata.org/entity/Q390983
+oliver heald	conservative party	R	206263631	http://www.wikidata.org/entity/Q478711
+andrew selous	conservative party	R	90646214	http://www.wikidata.org/entity/Q478714
+david rutley	conservative party	R	606306570	http://www.wikidata.org/entity/Q479064
+christopher pincher	conservative party	R	166598394	http://www.wikidata.org/entity/Q575266
+matthew offord	conservative party	R	236395049	http://www.wikidata.org/entity/Q576537
+bob neill	conservative party	R	2271025438	http://www.wikidata.org/entity/Q577771
+steve mccabe	labour party	L	21408041	http://www.wikidata.org/entity/Q694869
+khalid mahmood	labour party	L	3030160806	http://www.wikidata.org/entity/Q695028
+andrea leadsom	conservative party	R	38281180	http://www.wikidata.org/entity/Q750091
+eleanor laing	conservative party	R	3031080322	http://www.wikidata.org/entity/Q750188
+barbara keeley	labour party	L	331178901	http://www.wikidata.org/entity/Q750293
+kenny macaskill	scottish national party	L	240243637	http://www.wikidata.org/entity/Q983174
+james duddridge	conservative party	R	124170781	http://www.wikidata.org/entity/Q302309
+robert syms	conservative party	R	2202981242	http://www.wikidata.org/entity/Q306250
+gary streeter	conservative party	R	4785228995	http://www.wikidata.org/entity/Q328791
+stephen hammond	conservative party	R	47916280	http://www.wikidata.org/entity/Q332979
+john spellar	labour party	L	21736214	http://www.wikidata.org/entity/Q389677
+henry smith	conservative party	R	873819098	http://www.wikidata.org/entity/Q390849
+barry gardiner	labour party	L	107722321	http://www.wikidata.org/entity/Q391169
+robert halfon	conservative party	R	19758148	http://www.wikidata.org/entity/Q392375
+alyn smith	scottish national party	L	23056912; 1183549375	http://www.wikidata.org/entity/Q450298
+simon hart	conservative party	R	1442028488	http://www.wikidata.org/entity/Q478345
+virendra sharma	labour party	L	23452598	http://www.wikidata.org/entity/Q478387
+grant shapps	conservative party	R	14104027	http://www.wikidata.org/entity/Q478596
+andrew rosindell	conservative party	R	20132840	http://www.wikidata.org/entity/Q480092
+mark pritchard	conservative party	R	804596460	http://www.wikidata.org/entity/Q575183
+toby perkins	labour party	L	61733092	http://www.wikidata.org/entity/Q575462
+ian murray	labour party	L	77981490	http://www.wikidata.org/entity/Q578432
+margaret hodge	labour party	L	111411358	http://www.wikidata.org/entity/Q688913
+adam holloway	conservative party	R	47779867	http://www.wikidata.org/entity/Q689348
+stewart hosie	scottish national party	L	3130764755; 219298196	http://www.wikidata.org/entity/Q689514
+john howell	conservative party	R	993161678	http://www.wikidata.org/entity/Q689627
+lindsay hoyle	speaker of the house of commons	L	609096352	http://www.wikidata.org/entity/Q689660
+dan jarvis	labour party	L	240202308	http://www.wikidata.org/entity/Q727587
+david jones	conservative party	R	700950895840854017; 16970757	http://www.wikidata.org/entity/Q728167
+brandon lewis	conservative party	R	16884084	http://www.wikidata.org/entity/Q749687
+kwasi kwarteng	conservative party	R	707967655031005186	http://www.wikidata.org/entity/Q750204
+anthony browne	conservative party	R	1153342828149379074	http://www.wikidata.org/entity/Q4772161
+craig mackinlay	conservative party	R	185790986	http://www.wikidata.org/entity/Q5181182
+gareth johnson	conservative party	R	3202369007	http://www.wikidata.org/entity/Q727981
+ian lavery	labour party	L	300872531	http://www.wikidata.org/entity/Q750129
+pauline latham	conservative party	R	19087569	http://www.wikidata.org/entity/Q750135
+john lamont	conservative party	R	130133607	http://www.wikidata.org/entity/Q1700778
+catherine mckinnell	labour party	L	77808680	http://www.wikidata.org/entity/Q3411409
+david warburton	conservative party	R	164208335	http://www.wikidata.org/entity/Q5240825
+james cleverly	conservative party	R	14077382	http://www.wikidata.org/entity/Q6131460
+neil o'brien	conservative party	R	64679759	http://www.wikidata.org/entity/Q6989101
+stephen doughty	labour co-operative	L	622426905	http://www.wikidata.org/entity/Q7609085
+tracy brabin	labour co-operative	L	48280657	http://www.wikidata.org/entity/Q7831699
+danny kruger	conservative party	R	295948042	http://www.wikidata.org/entity/Q16515053
+jo churchill	conservative party	R	2855674449	http://www.wikidata.org/entity/Q19872133
+kevin foster	conservative party	R	43865757	http://www.wikidata.org/entity/Q19873325
+alex chalk	conservative party	R	1407768792	http://www.wikidata.org/entity/Q19956858
+kevin hollinrake	conservative party	R	49619469	http://www.wikidata.org/entity/Q19958100
+paul scully	conservative party	R	17484283	http://www.wikidata.org/entity/Q20647800
+mike wood	conservative party	R	14728535	http://www.wikidata.org/entity/Q20648325
+carla lockhart	democratic unionist party	R	22645918	http://www.wikidata.org/entity/Q24052782
+caroline johnson	conservative party	R	797021745563766785	http://www.wikidata.org/entity/Q27979810
+marsha de cordova	labour party	L	189280488	http://www.wikidata.org/entity/Q30163501
+rosie duffield	labour party	L	2528020694	http://www.wikidata.org/entity/Q30164380
+luke pollard	labour co-operative	L	10955042	http://www.wikidata.org/entity/Q30164902
+lee rowley	conservative party	R	1216506050	http://www.wikidata.org/entity/Q30165327
+preet gill	labour co-operative	L	620007630; 896925888251604992	http://www.wikidata.org/entity/Q30173119
+layla moran	liberal democrats	L	23424533	http://www.wikidata.org/entity/Q30223601
+dan carden	labour party	L	860188105982320644	http://www.wikidata.org/entity/Q30226321
+bob seely	conservative party	R	713022379065221121	http://www.wikidata.org/entity/Q30234248
+zarah sultana	labour party	L	3056307455	http://www.wikidata.org/entity/Q63929279
+theo clarke	conservative party	R	61052508	http://www.wikidata.org/entity/Q75583507
+steven bonnar	scottish national party	L	3369212393	http://www.wikidata.org/entity/Q75818978
+wendy chamberlain	liberal democrats	L	2785648892	http://www.wikidata.org/entity/Q75838898
+katherine fletcher	conservative party	R	2318830022	http://www.wikidata.org/entity/Q76362908
+julie marson	conservative party	R	20995745	http://www.wikidata.org/entity/Q76362964
+mark eastwood	conservative party	R	1154951216	http://www.wikidata.org/entity/Q76362999
+jamie wallis	conservative party	R	4285605677	http://www.wikidata.org/entity/Q76363017
+olivia blake	labour party	L	990891818	http://www.wikidata.org/entity/Q76363044
+nadia whittome	labour party	L	576682647	http://www.wikidata.org/entity/Q76363111
+jonathan gullis	conservative party	R	4049141417	http://www.wikidata.org/entity/Q76363124
+abena oppong-asare	labour party	L	350223904	http://www.wikidata.org/entity/Q76364044
+mark jenkinson	conservative party	R	1205288546606694400	http://www.wikidata.org/entity/Q76450655
+jo gideon	conservative party	R	67323615	http://www.wikidata.org/entity/Q76450664
+anthony mangnall	conservative party	R	861628345041244160	http://www.wikidata.org/entity/Q76450714
+jane stevenson	conservative party	R	911729779820433408	http://www.wikidata.org/entity/Q76736659
+ed miliband	labour party	L	61781260	http://www.wikidata.org/entity/Q216594
+harriet harman	labour party	L	19977759	http://www.wikidata.org/entity/Q234182
+nadine dorries	conservative party	R	457060718	http://www.wikidata.org/entity/Q258586
+nadhim zahawi	conservative party	R	121127090	http://www.wikidata.org/entity/Q259361
+paul blomfield	labour party	L	377319290	http://www.wikidata.org/entity/Q264132
+graham brady	conservative party	R	1136266851883859968	http://www.wikidata.org/entity/Q264662
+hywel williams	plaid cymru	L	21188077	http://www.wikidata.org/entity/Q266189
+valerie vaz	labour party	L	315283542	http://www.wikidata.org/entity/Q266978
+alan campbell	labour party	L	2601366250	http://www.wikidata.org/entity/Q268196
+alistair carmichael	liberal democrats	L	91786287	http://www.wikidata.org/entity/Q269124
+robert buckland	conservative party	R	14284260	http://www.wikidata.org/entity/Q269853
+tracey crouch	conservative party	R	62613162	http://www.wikidata.org/entity/Q291557
+ed davey	liberal democrats	L	1179455215	http://www.wikidata.org/entity/Q296689
+iain stewart	conservative party	R	100260784	http://www.wikidata.org/entity/Q328953
+liam fox	conservative party	R	532241033	http://www.wikidata.org/entity/Q332374
+david mundell	conservative party	R	19589280	http://www.wikidata.org/entity/Q333520
+anne mclaughlin	scottish national party	L	23364828	http://www.wikidata.org/entity/Q373047
+mike freer	conservative party	R	2706892461	http://www.wikidata.org/entity/Q391008
+andy slaughter	labour party	L	66078636	http://www.wikidata.org/entity/Q391341
+richard graham	conservative party	R	1530621674	http://www.wikidata.org/entity/Q391756
+jim shannon	democratic unionist party	R	4104745522	http://www.wikidata.org/entity/Q478702
+laurence robertson	conservative party	R	2795272097	http://www.wikidata.org/entity/Q480148
+priti patel	conservative party	R	61660254	http://www.wikidata.org/entity/Q575733
+jesse norman	conservative party	R	78702900	http://www.wikidata.org/entity/Q577024
+anne marie morris	conservative party	R	80968760	http://www.wikidata.org/entity/Q580321
+ian mearns	labour party	L	624746312	http://www.wikidata.org/entity/Q583906
+john healey	labour party	L	376161322	http://www.wikidata.org/entity/Q615077
+meg hillier	labour co-operative	L	297967419	http://www.wikidata.org/entity/Q676658
+damian hinds	conservative party	R	14561015	http://www.wikidata.org/entity/Q676947
+sharon hodgson	labour party	L	200700960	http://www.wikidata.org/entity/Q689041
+siobhain mcdonagh	labour party	L	580749365	http://www.wikidata.org/entity/Q694759
+shabana mahmood	labour party	L	407741330	http://www.wikidata.org/entity/Q695007
+jack lopresti	conservative party	R	1067829343	http://www.wikidata.org/entity/Q695257
+andrew jones	conservative party	R	806388620	http://www.wikidata.org/entity/Q728119
+giles watling	conservative party	R	37891233	http://www.wikidata.org/entity/Q5561727
+stephen farry	alliance party of northern ireland	L	583327329	http://www.wikidata.org/entity/Q7609180
+lucy allan	conservative party	R	16134235	http://www.wikidata.org/entity/Q16150309
+mike kane	labour party	L	71777646	http://www.wikidata.org/entity/Q16190632
+emma lewell-buck	labour party	L	737066858	http://www.wikidata.org/entity/Q16190712
+anneliese dodds	labour co-operative	L	518660800	http://www.wikidata.org/entity/Q16529268
+mhairi black	scottish national party	L	120236641	http://www.wikidata.org/entity/Q19863151
+richard burgon	labour party	L	545081356	http://www.wikidata.org/entity/Q19871710
+lisa cameron	scottish national party	L	1253634587915403264	http://www.wikidata.org/entity/Q19871819
+flick drummond	conservative party	R	20225578	http://www.wikidata.org/entity/Q19872756
+carol monaghan	scottish national party	L	2916227068	http://www.wikidata.org/entity/Q19875589
+marion fellows	scottish national party	L	79550633	http://www.wikidata.org/entity/Q19881816
+douglas chapman	scottish national party	L	251783210	http://www.wikidata.org/entity/Q19882922
+angela crawley	scottish national party	L	389421264	http://www.wikidata.org/entity/Q19883053
+martyn day	scottish national party	L	92091625	http://www.wikidata.org/entity/Q19883087
+patrick grady	scottish national party	L	3000261466	http://www.wikidata.org/entity/Q19883135
+gavin newlands	scottish national party	L	140604687	http://www.wikidata.org/entity/Q19883145
+maria caulfield	conservative party	R	207697553	http://www.wikidata.org/entity/Q19956815
+james heappey	conservative party	R	446633079	http://www.wikidata.org/entity/Q19958052
+imran hussain	labour party	L	2979642791	http://www.wikidata.org/entity/Q19958134
+jess phillips	labour party	L	20000725	http://www.wikidata.org/entity/Q19979409
+craig tracey	conservative party	R	140020746	http://www.wikidata.org/entity/Q20195470
+julian knight	conservative party	R	1271714653	http://www.wikidata.org/entity/Q20647567
+christina rees	labour co-operative	L	1351389578	http://www.wikidata.org/entity/Q20648332
+matt warman	conservative party	R	17685009	http://www.wikidata.org/entity/Q20648556
+kemi badenoch	conservative party	R	4010545737	http://www.wikidata.org/entity/Q21592171
+douglas ross	conservative party	R	2890801661	http://www.wikidata.org/entity/Q24039769
+chris elmore	labour party	L	169898513	http://www.wikidata.org/entity/Q24053857
+sarah olney	liberal democrats	L	4453006828	http://www.wikidata.org/entity/Q27942399
+matt rodda	labour party	L	216516145	http://www.wikidata.org/entity/Q30164903
+mike amesbury	labour party	L	20325923	http://www.wikidata.org/entity/Q30223596
+felicity buchan	conservative party	R	32361590	http://www.wikidata.org/entity/Q76362972
+gary sambrook	conservative party	R	372251146	http://www.wikidata.org/entity/Q76363034
+christian wakeford	conservative party	R	1156498325056696320	http://www.wikidata.org/entity/Q76363097
+robbie moore	conservative party	R	1158490894028460032	http://www.wikidata.org/entity/Q76363206
+laura farris	conservative party	R	3240259683	http://www.wikidata.org/entity/Q76363401
+nicola richards	conservative party	R	1337283895	http://www.wikidata.org/entity/Q76363721
+sam tarry	labour party	L	25718389	http://www.wikidata.org/entity/Q76363937
+chris loder	conservative party	R	195808903	http://www.wikidata.org/entity/Q76364033
+neil hudson	conservative party	R	1133792320040701953	http://www.wikidata.org/entity/Q76364169
+robin millar	conservative party	R	1194628676081483777	http://www.wikidata.org/entity/Q76450637
+ben spencer	conservative party	R	2788637049	http://www.wikidata.org/entity/Q76450770
+boris johnson	conservative party	R	3131144855	http://www.wikidata.org/entity/Q180589
+nigel adams	conservative party	R	3369594003	http://www.wikidata.org/entity/Q258292
+peter aldous	conservative party	R	255998767	http://www.wikidata.org/entity/Q258963
+steve baker	conservative party	R	15157283	http://www.wikidata.org/entity/Q260111
+jeremy wright	conservative party	R	3133531325	http://www.wikidata.org/entity/Q260489
+bob blackman	conservative party	R	805185025	http://www.wikidata.org/entity/Q263875
+heather wheeler	conservative party	R	21744895	http://www.wikidata.org/entity/Q264374
+peter bottomley	conservative party	R	110405901	http://www.wikidata.org/entity/Q264477
+alan whitehead	labour party	L	389443487	http://www.wikidata.org/entity/Q264585
+james brokenshire	conservative party	R	92498317	http://www.wikidata.org/entity/Q265140
+dominic raab	conservative party	R	4764882552	http://www.wikidata.org/entity/Q268584
+derek twigg	labour party	L	2245759171	http://www.wikidata.org/entity/Q272098
+liz truss	conservative party	R	65357102; 14224719	http://www.wikidata.org/entity/Q272201
+jon trickett	labour party	L	191807697	http://www.wikidata.org/entity/Q272234
+emily thornberry	labour party	L	164226176	http://www.wikidata.org/entity/Q272408
+thérèse coffey	conservative party	R	50714939	http://www.wikidata.org/entity/Q290554
+stephen crabb	conservative party	R	810372954	http://www.wikidata.org/entity/Q291393
+jack dromey	labour party	L	387054267	http://www.wikidata.org/entity/Q302244
+angela smith, baroness smith of basildon	labour party	L	334683142	http://www.wikidata.org/entity/Q168606
+sebastian coe	conservative party	R	20768539	http://www.wikidata.org/entity/Q188502
+patricia scotland, baroness scotland of asthal	labour party	L	343364405	http://www.wikidata.org/entity/Q194713
+gavin barwell	conservative party	R	3107104589	http://www.wikidata.org/entity/Q260651
+nicola blackwood	conservative party	R	60585651	http://www.wikidata.org/entity/Q263969
+james wharton	conservative party	R	160856730	http://www.wikidata.org/entity/Q264337
+ed vaizey	conservative party	R	18096679	http://www.wikidata.org/entity/Q267485
+lorely burt	liberal democrats	L	595553662	http://www.wikidata.org/entity/Q270042
+katy clark	labour party	L	625484747	http://www.wikidata.org/entity/Q271828
+nigel dodds	democratic unionist party	R	104845115	http://www.wikidata.org/entity/Q300243
+lynne featherstone	liberal democrats	L	14197060	http://www.wikidata.org/entity/Q304302
+frank field	labour party	L	20688804	http://www.wikidata.org/entity/Q304388
+gisela stuart	labour party	L	26584956	http://www.wikidata.org/entity/Q328682
+john prescott	labour party	L	19335378	http://www.wikidata.org/entity/Q332393
+philip hammond	conservative party	R	2653613168	http://www.wikidata.org/entity/Q332987
+patrick mcloughlin	conservative party	R	3144626321	http://www.wikidata.org/entity/Q333267
+andrew lansley	conservative party	R	2786236928	http://www.wikidata.org/entity/Q333276
+eric pickles	conservative party	R	58836363	http://www.wikidata.org/entity/Q333493
+dafydd wigley	plaid cymru	L	1965380101	http://www.wikidata.org/entity/Q333600
+emma nicholson	conservative party	R	4835347079	http://www.wikidata.org/entity/Q334097
+edward garnier	conservative party	R	2370680635	http://www.wikidata.org/entity/Q334339
+jim knight	labour party	L	21528045	http://www.wikidata.org/entity/Q334359
+robert winston	labour party	L	187909268	http://www.wikidata.org/entity/Q335760
+conrad black	conservative party	R	2381246233	http://www.wikidata.org/entity/Q336444
+sayeeda warsi, baroness warsi	conservative party	R	245513323	http://www.wikidata.org/entity/Q336455
+eluned morgan, baroness morgan of ely	labour party	L	277927587	http://www.wikidata.org/entity/Q336521
+helena kennedy, baroness kennedy of the shaws	labour party	L	447158722	http://www.wikidata.org/entity/Q337151
+zac goldsmith	conservative party	R	22159580	http://www.wikidata.org/entity/Q391562
+nicky morgan	conservative party	R	34940114	http://www.wikidata.org/entity/Q580375
+kate hoey	labour party	L	1284146730	http://www.wikidata.org/entity/Q689166
+jo johnson	conservative party	R	237700394	http://www.wikidata.org/entity/Q728063
+mark lancaster	conservative party	R	175005016	http://www.wikidata.org/entity/Q750161
+matt ridley	conservative party	R	51837775	http://www.wikidata.org/entity/Q961972
+bryony worthington, baroness worthington	labour party	L	220935113	http://www.wikidata.org/entity/Q995315
+tariq ahmad, baron ahmad of wimbledon	conservative party	R	81851893	http://www.wikidata.org/entity/Q1237673
+george foulkes, baron foulkes of cumnock	labour party	L	18725209	http://www.wikidata.org/entity/Q1507362
+james palumbo	liberal democrats	L	64526427	http://www.wikidata.org/entity/Q1556278
+jenny randerson	liberal democrats	L	74770333	http://www.wikidata.org/entity/Q1687064
+jonathan hill, baron hill of oareford	conservative party	R	2650351980	http://www.wikidata.org/entity/Q1703194
+michael bates, baron bates	conservative party	R	866230718	http://www.wikidata.org/entity/Q1926893
+philip hunt, baron hunt of kings heath	labour party	L	473083490	http://www.wikidata.org/entity/Q2086241
+tina stowell, baroness stowell of beeston	conservative party	R	29075172	http://www.wikidata.org/entity/Q2435579
+byron davies	conservative party	R	240039595	http://www.wikidata.org/entity/Q5004338
+claire fox	brexit party	R	278656915	http://www.wikidata.org/entity/Q5125204
+daniel finkelstein	conservative party	R	56169454	http://www.wikidata.org/entity/Q5217138
+david frost	conservative party	R	967900364	http://www.wikidata.org/entity/Q5233879
+edward llewellyn	conservative party	R	796375792099979265	http://www.wikidata.org/entity/Q5344177
+jenny jones	green party of england and wales	L	20589511	http://www.wikidata.org/entity/Q6179340
+natalie bennett	green party of england and wales	L	16596200	http://www.wikidata.org/entity/Q6968126
+nick bourne	conservative party	R	196093572	http://www.wikidata.org/entity/Q7026799
+sue hayman	labour party	L	580947925	http://www.wikidata.org/entity/Q19874021
+charlotte vere, baroness vere of norbiton	conservative party	R	4192681	http://www.wikidata.org/entity/Q26923548
+pauline bryan	labour party	L	624730557	http://www.wikidata.org/entity/Q53750096
+diana barran	conservative party	R	131844769	http://www.wikidata.org/entity/Q53870714
+peter lilley	conservative party	R	501698806	http://www.wikidata.org/entity/Q19831
+floella benjamin	liberal democrats	L	58283237	http://www.wikidata.org/entity/Q58237
+william hague	conservative party	R	122994639	http://www.wikidata.org/entity/Q58282
+boris johnson	conservative party	R	3131144855
+arlene foster	democratic unionist party	R	275799277
+michelle o'neill	sinn féin	L	216006612
+nicola sturgeon	scottish national party	L	160952087
+mark drakeford	welsh labour	L	207667494
+edward david burt	progressive labour party	L	2654708274
+alden mclaughlin	people's progressive movement	L	1240196737
+fabian picardo	gibraltar socialist labour party	L	67858711
+sharlene cartwright-robinson	people's democratic movement	R	1144352916523966466

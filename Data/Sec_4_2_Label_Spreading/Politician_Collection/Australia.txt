@@ -1,0 +1,176 @@
+richard di natale	australian greens	L	37611292	http://www.wikidata.org/entity/Q186010
+katy gallagher	australian labor party	L	227531567	http://www.wikidata.org/entity/Q463507
+kim carr	australian labor party	L	711691441	http://www.wikidata.org/entity/Q1639334
+richard colbeck	coalition	R	170526680	http://www.wikidata.org/entity/Q7324825
+mehreen faruqi	australian greens	L	236713668	http://www.wikidata.org/entity/Q16728926
+mathias cormann	coalition	R	43304756	http://www.wikidata.org/entity/Q1813692
+anne ruston	coalition	R	44302241	http://www.wikidata.org/entity/Q4768766
+glenn sterle	australian labor party	L	570513390	http://www.wikidata.org/entity/Q5569124
+helen polley	australian labor party	L	929373746	http://www.wikidata.org/entity/Q16189453
+marise payne	coalition	R	2300779218	http://www.wikidata.org/entity/Q16191011
+jenny mcallister	australian labor party	L	44288405	http://www.wikidata.org/entity/Q16732210
+lidia thorpe	australian greens	L	844141009210556416	http://www.wikidata.org/entity/Q43285578
+tim ayres	australian labor party	L	192875959	http://www.wikidata.org/entity/Q64152293
+dean smith	coalition	R	538191458	http://www.wikidata.org/entity/Q5246470
+murray watt	australian labor party	L	304856790	http://www.wikidata.org/entity/Q6939517
+sue lines	australian labor party	L	133599328	http://www.wikidata.org/entity/Q16185446
+anthony chisholm	australian labor party	L	108922449	http://www.wikidata.org/entity/Q18719336
+amanda stoker	coalition	R	996359407939174401	http://www.wikidata.org/entity/Q50808634
+penny wong	australian labor party	L	529147678	http://www.wikidata.org/entity/Q456759
+carol brown	australian labor party	L	540485961	http://www.wikidata.org/entity/Q5044273
+deborah o'neill	australian labor party	L	145444495	http://www.wikidata.org/entity/Q5248341
+scott ryan	coalition	R	36872712	http://www.wikidata.org/entity/Q7437180
+simon birmingham	coalition	R	22196776	http://www.wikidata.org/entity/Q7518284
+janet rice	australian greens	L	77209956	http://www.wikidata.org/entity/Q16193816
+james mcgrath	coalition	R	2757922069	http://www.wikidata.org/entity/Q16732314
+sam mcmahon	coalition	R	1144124508061622272	http://www.wikidata.org/entity/Q64152348
+pauline hanson	one nation	R	1471232930	http://www.wikidata.org/entity/Q466220
+michaelia cash	coalition	R	274249799	http://www.wikidata.org/entity/Q572783
+larissa waters	australian greens	L	62776140	http://www.wikidata.org/entity/Q6489515
+malarndirri mccarthy	australian labor party	L	760359549295484928	http://www.wikidata.org/entity/Q6741359
+zed seselja	coalition	R	338036917	http://www.wikidata.org/entity/Q8068367
+jane hume	coalition	R	2899264434	http://www.wikidata.org/entity/Q26703243
+malcolm roberts	one nation	R	728391019369140225	http://www.wikidata.org/entity/Q26848575
+jordon steele-john	australian greens	L	179129274	http://www.wikidata.org/entity/Q33139188
+andrew bragg	coalition	R	92430575	http://www.wikidata.org/entity/Q64152252
+jess walsh	australian labor party	L	222350420	http://www.wikidata.org/entity/Q64711059
+eric abetz	coalition	R	128440862	http://www.wikidata.org/entity/Q964840
+louise pratt	australian labor party	L	27647260	http://www.wikidata.org/entity/Q1872184
+anne urquhart	australian labor party	L	786867271	http://www.wikidata.org/entity/Q4768857
+catryna bilyk	australian labor party	L	108209937	http://www.wikidata.org/entity/Q5053981
+concetta fierravanti-wells	coalition	R	1929717391	http://www.wikidata.org/entity/Q5158602
+nick mckim	australian greens	L	156077839	http://www.wikidata.org/entity/Q14201517
+linda reynolds	coalition	R	2393844469	http://www.wikidata.org/entity/Q16735152
+kimberley kitching	australian labor party	L	20494141	http://www.wikidata.org/entity/Q27450592
+raff ciccone	australian labor party	L	171888155	http://www.wikidata.org/entity/Q61983642
+kristina keneally	australian labor party	L	18925120	http://www.wikidata.org/entity/Q442238
+sarah hanson-young	australian greens	L	4553061	http://www.wikidata.org/entity/Q2224379
+alex gallacher	australian labor party	L	252986202	http://www.wikidata.org/entity/Q4717023
+bridget mckenzie	coalition	R	525812268	http://www.wikidata.org/entity/Q4966734
+pat dodson	australian labor party	L	954263782070484992	http://www.wikidata.org/entity/Q7146371
+peter whish-wilson	australian greens	L	573244782	http://www.wikidata.org/entity/Q7177677
+rachel siewert	australian greens	L	25298878	http://www.wikidata.org/entity/Q2125232
+jim molan	coalition	R	961051403098537984	http://www.wikidata.org/entity/Q6196985
+matthew canavan	coalition	R	632817143	http://www.wikidata.org/entity/Q16202391
+james paterson	coalition	R	28791311	http://www.wikidata.org/entity/Q23016290
+hollie hughes	coalition	R	383676736	http://www.wikidata.org/entity/Q60734047
+marielle smith	australian labor party	L	304834944	http://www.wikidata.org/entity/Q63531157
+tony smith	coalition	R	2932863030	http://www.wikidata.org/entity/Q16197257
+david littleproud	coalition	R	780554980847517696	http://www.wikidata.org/entity/Q25756209
+emma mcbride	australian labor party	L	702698265695760384	http://www.wikidata.org/entity/Q25844494
+brian mitchell	australian labor party	L	16663973	http://www.wikidata.org/entity/Q26695681
+julian hill	australian labor party	L	750658704949678081	http://www.wikidata.org/entity/Q27435059
+james stevens	coalition	R	16780488	http://www.wikidata.org/entity/Q63509173
+anne stanley	australian labor party	L	718781363898322944	http://www.wikidata.org/entity/Q25768264
+peter khalil	australian labor party	L	253342973	http://www.wikidata.org/entity/Q25756187
+kristy mcbain	australian labor party	L	2397620882	http://www.wikidata.org/entity/Q96970848
+melissa mcintosh	coalition	R	286559955	http://www.wikidata.org/entity/Q64038211
+fiona phillips	australian labor party	L	526287118	http://www.wikidata.org/entity/Q64038637
+bridget archer	coalition	R	174466784	http://www.wikidata.org/entity/Q64225996
+ted o'brien	coalition	R	3241171038	http://www.wikidata.org/entity/Q27435056
+phillip thompson	coalition	R	929896339307053056	http://www.wikidata.org/entity/Q64009045
+anne webster	coalition	R	561565763	http://www.wikidata.org/entity/Q64216519
+anika wells	australian labor party	L	19204267	http://www.wikidata.org/entity/Q64205577
+nicolle flint	coalition	R	2400738924	http://www.wikidata.org/entity/Q25756083
+madeleine king	australian labor party	L	2902145304	http://www.wikidata.org/entity/Q25756137
+chris bowen	australian labor party	L	150856088	http://www.wikidata.org/entity/Q1077015
+linda burney	australian labor party	L	157861165	http://www.wikidata.org/entity/Q6551428
+maria vamvakinou	australian labor party	L	308935814	http://www.wikidata.org/entity/Q6761645
+nick champion	australian labor party	L	85951515	http://www.wikidata.org/entity/Q7026894
+richard marles	australian labor party	L	485139839	http://www.wikidata.org/entity/Q7327642
+stephen jones	australian labor party	L	284933456	http://www.wikidata.org/entity/Q7609616
+steve georganas	australian labor party	L	104087034	http://www.wikidata.org/entity/Q7612638
+stuart robert	coalition	R	21961243	http://www.wikidata.org/entity/Q7627022
+sussan ley	coalition	R	92862419	http://www.wikidata.org/entity/Q7649377
+tanya plibersek	australian labor party	L	307755781	http://www.wikidata.org/entity/Q7684036
+tim wilson	coalition	R	958558050528432128	http://www.wikidata.org/entity/Q16205919
+david coleman	coalition	R	1924883101	http://www.wikidata.org/entity/Q16214788
+luke howarth	coalition	R	4882704458	http://www.wikidata.org/entity/Q16729935
+meryl swanson	australian labor party	L	1586960762	http://www.wikidata.org/entity/Q25350223
+anthony albanese	australian labor party	L	254515782	http://www.wikidata.org/entity/Q335697
+andrew laming	coalition	R	49499855	http://www.wikidata.org/entity/Q4757684
+barnaby joyce	coalition	R	114936799	http://www.wikidata.org/entity/Q4861362
+christian porter	coalition	R	1559788717	http://www.wikidata.org/entity/Q5110039
+karen andrews	coalition	R	47318173	http://www.wikidata.org/entity/Q6369482
+dave sharma	coalition	R	799911790398373888	http://www.wikidata.org/entity/Q15999973
+tony pasin	coalition	R	1918770822	http://www.wikidata.org/entity/Q16216713
+andrew gee	coalition	R	1209241064948658177	http://www.wikidata.org/entity/Q4757071
+darren chester	coalition	R	514866289	http://www.wikidata.org/entity/Q5224839
+michelle rowland	australian labor party	L	210702383	http://www.wikidata.org/entity/Q6837228
+nola marino	coalition	R	569737805	http://www.wikidata.org/entity/Q7048144
+shayne neumann	australian labor party	L	117717402	http://www.wikidata.org/entity/Q7491712
+ged kearney	australian labor party	L	163767099	http://www.wikidata.org/entity/Q14954679
+sharon claydon	australian labor party	L	1075527246	http://www.wikidata.org/entity/Q16195468
+tim watts	australian labor party	L	14294400	http://www.wikidata.org/entity/Q16222127
+jason falinski	coalition	R	759921684543451136	http://www.wikidata.org/entity/Q23939864
+mike kelly	australian labor party	L	167699332	http://www.wikidata.org/entity/Q3857414
+anthony byrne	australian labor party	L	259477075	http://www.wikidata.org/entity/Q4772190
+catherine king	australian labor party	L	47273818	http://www.wikidata.org/entity/Q5052776
+dan tehan	coalition	R	139052672	http://www.wikidata.org/entity/Q5214486
+graham perrett	australian labor party	L	251976625	http://www.wikidata.org/entity/Q5593142
+greg hunt	coalition	R	60483082	http://www.wikidata.org/entity/Q5605742
+john mcveigh	coalition	R	929086908	http://www.wikidata.org/entity/Q6248320
+josh frydenberg	coalition	R	63942152	http://www.wikidata.org/entity/Q6288876
+jim chalmers	australian labor party	L	258124400	http://www.wikidata.org/entity/Q16217223
+michael sukkar	coalition	R	1796057425	http://www.wikidata.org/entity/Q16221628
+susan templeman	australian labor party	L	850633596	http://www.wikidata.org/entity/Q25753992
+tony burke	australian labor party	L	22887941	http://www.wikidata.org/entity/Q1449483
+joel fitzgibbon	australian labor party	L	147869440	http://www.wikidata.org/entity/Q3180236
+andrew leigh	australian labor party	L	322866759	http://www.wikidata.org/entity/Q4757734
+george christensen	coalition	R	1483596139727560705	http://www.wikidata.org/entity/Q5537893
+matt thistlethwaite	australian labor party	L	87395643	http://www.wikidata.org/entity/Q6789423
+pat conroy	australian labor party	L	419903034	http://www.wikidata.org/entity/Q16218414
+daniel mulino	australian labor party	L	2939270366	http://www.wikidata.org/entity/Q19518195
+milton dick	australian labor party	L	243944570	http://www.wikidata.org/entity/Q20983429
+alex hawke	coalition	R	18864066	http://www.wikidata.org/entity/Q4717151
+amanda rishworth	australian labor party	L	86257323	http://www.wikidata.org/entity/Q4739745
+clare o'neil	australian labor party	L	57906313	http://www.wikidata.org/entity/Q5126228
+justine elliot	australian labor party	L	2464473097	http://www.wikidata.org/entity/Q6318352
+peter dutton	coalition	R	20559705	http://www.wikidata.org/entity/Q7173778
+rob mitchell	australian labor party	L	198056642	http://www.wikidata.org/entity/Q7340383
+scott morrison	coalition	R	34116377	http://www.wikidata.org/entity/Q7436908
+warren snowdon	australian labor party	L	619738680	http://www.wikidata.org/entity/Q7970485
+ian goodenough	coalition	R	2579671633	http://www.wikidata.org/entity/Q16215281
+lucy wicks	coalition	R	2293950596	http://www.wikidata.org/entity/Q16751614
+julian leeser	coalition	R	2594661042	http://www.wikidata.org/entity/Q24191457
+ken wyatt	coalition	R	196039332	http://www.wikidata.org/entity/Q3195101
+bill shorten	australian labor party	L	137198586	http://www.wikidata.org/entity/Q4910865
+brendan o'connor	australian labor party	L	611598902	http://www.wikidata.org/entity/Q4961047
+craig kelly	united australia party	R	211371719	http://www.wikidata.org/entity/Q5181115
+jason clare	australian labor party	L	88859872	http://www.wikidata.org/entity/Q6162219
+jason wood	coalition	R	74049076	http://www.wikidata.org/entity/Q6163809
+mark butler	australian labor party	L	220883243	http://www.wikidata.org/entity/Q6766947
+mark coulton	coalition	R	481708709	http://www.wikidata.org/entity/Q6767168
+mark dreyfus	australian labor party	L	4846185439	http://www.wikidata.org/entity/Q6767411
+paul fletcher	coalition	R	77896983	http://www.wikidata.org/entity/Q7150671
+scott buchholz	coalition	R	252833329	http://www.wikidata.org/entity/Q7436060
+david gillespie	coalition	R	127083666	http://www.wikidata.org/entity/Q16189272
+joanne ryan	australian labor party	L	1631812358	http://www.wikidata.org/entity/Q16194303
+melissa price	coalition	R	753759070750998529	http://www.wikidata.org/entity/Q16195275
+terri butler	australian labor party	L	44334649	http://www.wikidata.org/entity/Q16216498
+lisa chesters	australian labor party	L	96088711	http://www.wikidata.org/entity/Q16727986
+luke gosling	australian labor party	L	249616322	http://www.wikidata.org/entity/Q25288450
+john alexander	coalition	R	930234593990414336	http://www.wikidata.org/entity/Q1281683
+adam bandt	australian greens	L	25960714	http://www.wikidata.org/entity/Q4678672
+alan tudge	coalition	R	185932331	http://www.wikidata.org/entity/Q4707935
+bert van manen	coalition	R	131986906	http://www.wikidata.org/entity/Q4895353
+bob katter	katter's australian party	R	310726037	http://www.wikidata.org/entity/Q4932983
+chris hayes	australian labor party	L	812382313	http://www.wikidata.org/entity/Q5106836
+ken o'dowd	coalition	R	3252206005	http://www.wikidata.org/entity/Q6388253
+kevin andrews	coalition	R	252331819	http://www.wikidata.org/entity/Q6395733
+michael mccormack	coalition	R	1195051945	http://www.wikidata.org/entity/Q6832641
+russell broadbent	coalition	R	2388106568	http://www.wikidata.org/entity/Q7381382
+kevin hogan	coalition	R	859024531	http://www.wikidata.org/entity/Q16195119
+angus taylor	coalition	R	84750011	http://www.wikidata.org/entity/Q16196728
+keith pitt	coalition	R	399832616	http://www.wikidata.org/entity/Q16206609
+andrew giles	australian labor party	L	713582779	http://www.wikidata.org/entity/Q16214422
+julie owens	australian labor party	L	114596660	http://www.wikidata.org/entity/Q6308446
+sharon bird	australian labor party	L	92648503	http://www.wikidata.org/entity/Q7489994
+daniel andrews	australian labor party	L	228535666
+annastacia palaszczuk	australian labor party	L	256833444
+gladys berejiklian	liberal party of australia	R	704882735815401472
+mark mcgowan	australian labor party	L	430452224
+steven marshall	liberal party of australia	R	93818188
+peter gutwein	liberal party of australia	R	1537385638043197440
+andrew barr	australian labor party	L	43311928
+michael gunner	australian labor party	L	32886283

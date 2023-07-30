@@ -1,0 +1,65 @@
+jacinda ardern	new zealand labour party	L	22959763	http://www.wikidata.org/entity/Q3606816
+clare curran	new zealand labour party	L	29406343	http://www.wikidata.org/entity/Q5126149
+willie jackson	new zealand labour party	L	896533028029177856	http://www.wikidata.org/entity/Q8021596
+meka whaitiri	new zealand labour party	L	559823431	http://www.wikidata.org/entity/Q13566358
+todd mcclay	new zealand national party	R	2858594918	http://www.wikidata.org/entity/Q16200287
+su'a william sio	new zealand labour party	L	26209461	http://www.wikidata.org/entity/Q16208070
+marama davidson	green party of aotearoa new zealand	L	147406561	http://www.wikidata.org/entity/Q20983272
+hamish walker	new zealand national party	R	928376122256977921	http://www.wikidata.org/entity/Q41673587
+golriz ghahraman	green party of aotearoa new zealand	L	870447381006868480	http://www.wikidata.org/entity/Q41689955
+nanaia mahuta	new zealand labour party	L	292220830	http://www.wikidata.org/entity/Q3798833
+kelvin davis	new zealand labour party	L	607152697	http://www.wikidata.org/entity/Q6386648
+phil twyford	new zealand labour party	L	40409545	http://www.wikidata.org/entity/Q7182502
+denise lee	new zealand national party	R	1542220560	http://www.wikidata.org/entity/Q16731071
+david seymour	act new zealand	R	23352383	http://www.wikidata.org/entity/Q17055796
+todd muller	new zealand national party	R	2543108298	http://www.wikidata.org/entity/Q18098673
+shane reti	new zealand national party	R	3094694155	http://www.wikidata.org/entity/Q18167135
+jan tinetti	new zealand labour party	L	16674327	http://www.wikidata.org/entity/Q41498735
+tim van de molen	new zealand national party	R	1330276267	http://www.wikidata.org/entity/Q41672227
+damien o'connor	new zealand labour party	L	760842698	http://www.wikidata.org/entity/Q5212493
+paula bennett	new zealand national party	R	28409997	http://www.wikidata.org/entity/Q6416051
+tracey martin	new zealand first	R 	587284588	http://www.wikidata.org/entity/Q7831246
+david parker	new zealand labour party	L	768286632	http://www.wikidata.org/entity/Q15196319
+parmjeet parmar	new zealand national party	R	779137505979342848	http://www.wikidata.org/entity/Q18098730
+fletcher tabuteau	new zealand first	R 	1969962980	http://www.wikidata.org/entity/Q18167393
+jenny marcroft	new zealand first	R 	2839638932	http://www.wikidata.org/entity/Q41674202
+david clark	new zealand labour party	L	322976025	http://www.wikidata.org/entity/Q3561074
+chris bishop	new zealand national party	R	181012160	http://www.wikidata.org/entity/Q18097593
+james shaw	green party of aotearoa new zealand	L	31583101	http://www.wikidata.org/entity/Q18167139
+michael wood	new zealand labour party	L	184374575	http://www.wikidata.org/entity/Q27950864
+simeon brown	new zealand national party	R	847369591483277320	http://www.wikidata.org/entity/Q41672277
+andrew falloon	new zealand national party	R	30193388	http://www.wikidata.org/entity/Q41673608
+anne tolley	new zealand national party	R	1281726260	http://www.wikidata.org/entity/Q540420
+andrew little	new zealand labour party	L	368842056	http://www.wikidata.org/entity/Q3561087
+chris hipkins	new zealand labour party	L	25754056	http://www.wikidata.org/entity/Q5106890
+eugenie sage	green party of aotearoa new zealand	L	429452117	http://www.wikidata.org/entity/Q5408237
+david carter	new zealand national party	R	18750581	http://www.wikidata.org/entity/Q6128819
+jan logie	green party of aotearoa new zealand	L	121553239	http://www.wikidata.org/entity/Q6149394
+judith collins	new zealand national party	R	756227808	http://www.wikidata.org/entity/Q6303349
+julie anne genter	green party of aotearoa new zealand	L	129943834	http://www.wikidata.org/entity/Q6308013
+simon bridges	new zealand national party	R	1180370792	http://www.wikidata.org/entity/Q6336063
+ron mark	new zealand first	R 	920748947764789248	http://www.wikidata.org/entity/Q7364115
+stuart nash	new zealand labour party	L	3036870865	http://www.wikidata.org/entity/Q7626890
+maureen pugh	new zealand national party	R	2384426755	http://www.wikidata.org/entity/Q17466674
+chlöe swarbrick	green party of aotearoa new zealand	L	229711860	http://www.wikidata.org/entity/Q28137192
+priyanca radhakrishnan	new zealand labour party	L	2617089288	http://www.wikidata.org/entity/Q41498722
+matt king	new zealand national party	R	245193812	http://www.wikidata.org/entity/Q41699562
+carmel sepuloni	new zealand labour party	L	611683035	http://www.wikidata.org/entity/Q5043325
+jacqui dean	new zealand national party	R	1186465000472231938	http://www.wikidata.org/entity/Q6121023
+ruth dyson	new zealand labour party	L	103494259	http://www.wikidata.org/entity/Q7382960
+trevor mallard	new zealand labour party	L	33394729	http://www.wikidata.org/entity/Q7839303
+jenny salesa	new zealand labour party	L	2401210076	http://www.wikidata.org/entity/Q18167638
+nicola willis	new zealand national party	R	421375843	http://www.wikidata.org/entity/Q41424038
+winston peters	new zealand first	R 	346944092	http://www.wikidata.org/entity/Q1396178
+grant robertson	new zealand labour party	L	24149001	http://www.wikidata.org/entity/Q1543207
+nathan guy	new zealand national party	R	1132212984	http://www.wikidata.org/entity/Q6969095
+nicky wagner	new zealand national party	R	25770641	http://www.wikidata.org/entity/Q7028713
+lawrence yule	new zealand national party	R	904631947875336192; 1440322177	http://www.wikidata.org/entity/Q28839760
+judith collins	new zealand national party	R	756227808
+jacinda ardern	new zealand labour party	L	22959763
+winston peters	new zealand first	R	346944092
+james shaw	green party of aotearoa new zealand	L	318455984
+marama davidson	green party of aotearoa new zealand	L	147406561
+david seymour	act new zealand	R	23352383
+debbie ngarewa-packer	māori party	L	1613567335
+hannah tamaki	vision nz	R	248872309

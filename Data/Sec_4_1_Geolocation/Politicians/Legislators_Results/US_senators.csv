@@ -1,0 +1,101 @@
+countryCode,name,wikidataID,gender,twitterScreenname,twitterID,positionHeld,group,groupFromState,district
+US,Lindsey Graham,http://www.wikidata.org/entity/Q22212,male,lindseygrahamsc,432895323,United States senator,Republican Party,Republican Party,South Carolina Class 2 senate seat
+US,Maria Cantwell,http://www.wikidata.org/entity/Q22250,female,senatorcantwell,117501995,United States senator,Democratic Party,Democratic Party,Washington Class 1 senate seat
+US,Jeanne Shaheen,http://www.wikidata.org/entity/Q270316,female,senatorshaheen,109287731,United States senator,Democratic Party,Democratic Party,New Hampshire Class 2 senate seat
+US,Sherrod Brown,http://www.wikidata.org/entity/Q381880,male,sensherrodbrown,43910797,United States senator,Democratic Party,Democratic Party,Ohio Class 1 senate seat
+US,Jon Tester,http://www.wikidata.org/entity/Q529351,male,senatortester,515822213,United States senator,Democratic Party,Democratic Party,Montana Class 1 senate seat
+US,Pat Roberts,http://www.wikidata.org/entity/Q538375,male,senpatroberts,75364211,United States senator,Republican Party,Republican Party,Kansas Class 2 senate seat
+US,John Barrasso,http://www.wikidata.org/entity/Q720521,male,senjohnbarrasso,202206694,United States senator,Republican Party,Republican Party,Wyoming Class 1 senate seat
+US,Tom Udall,http://www.wikidata.org/entity/Q957690,male,senatortomudall,60828944,United States senator,Democratic Party,Democratic Party,New Mexico Class 2 senate seat
+US,Cory Booker,http://www.wikidata.org/entity/Q1135767,male,corybooker,15808765,United States senator,Democratic Party,Democratic Party,New Jersey Class 2 senate seat
+US,Deb Fischer,http://www.wikidata.org/entity/Q2580649,female,senatorfischer,1071402577,United States senator,Republican Party,Republican Party,Nebraska Class 1 senate seat
+US,Steve Daines,http://www.wikidata.org/entity/Q3200900,male,stevedaines,11651202,United States senator,Republican Party,Republican Party,Montana Class 2 senate seat
+US,Kevin Cramer,http://www.wikidata.org/entity/Q3957020,male,kevincramer,28267055,United States senator,Republican Party || North Dakota Republican Party,Republican Party,North Dakota Class 1 senate seat
+US,John Neely Kennedy,http://www.wikidata.org/entity/Q6250211,male,johnkennedyla || senjohnkennedy,26594419 || 816683274076614656,United States senator,Republican Party || Democratic Party,Republican Party,Louisiana Class 3 senate seat
+US,Susan Collins,http://www.wikidata.org/entity/Q22279,female,senatorcollins,19726613,United States senator,Republican Party,Republican Party,Maine Class 2 senate seat
+US,Maggie Hassan,http://www.wikidata.org/entity/Q24053,female,maggie_hassan || senatorhassan,361569788 || 946549322,United States senator,Democratic Party,Democratic Party,New Hampshire Class 3 senate seat
+US,Marco Rubio,http://www.wikidata.org/entity/Q324546,male,marcorubio,15745368,United States senator,Republican Party,Republican Party,Florida Class 3 senate seat
+US,Ron Wyden,http://www.wikidata.org/entity/Q529344,male,ronwyden || wydenpress || wydenfororegon,250188760 || 292495654 || 122124607,United States senator,Democratic Party,Democratic Party,Oregon Class 3 senate seat
+US,Angus King,http://www.wikidata.org/entity/Q544464,male,senangusking,1068481578,United States senator,independent politician,independent politician,Maine Class 1 senate seat
+US,Chris Coons,http://www.wikidata.org/entity/Q923242,male,sencoonsoffice || chriscoons,435500714 || 15324851,United States senator,Democratic Party,Democratic Party,Delaware Class 2 senate seat
+US,Cory Gardner,http://www.wikidata.org/entity/Q1135774,male,corygardner || sencorygardner,20879626 || 235217558,United States senator,Republican Party || Colorado Republican Party,Republican Party,Colorado Class 2 senate seat
+US,Catherine Cortez Masto,http://www.wikidata.org/entity/Q5052604,female,sencortezmasto || cortezmasto,811313565760163844 || 3145735852,United States senator,Democratic Party,Democratic Party,Nevada Class 3 senate seat
+US,Ben Sasse,http://www.wikidata.org/entity/Q16192221,male,sensasse,2962923040,United States senator,Republican Party,Republican Party,Nebraska Class 2 senate seat
+US,Mike Braun,http://www.wikidata.org/entity/Q42804470,male,senatorbraun || braun4indiana,1080870981877534720 || 1861019372,United States senator,Republican Party,Republican Party,Indiana Class 1 senate seat
+US,Mitt Romney,http://www.wikidata.org/entity/Q4496,male,mittromney,50055701,United States senator,Republican Party,Republican Party,Utah Class 1 senate seat
+US,Todd Young,http://www.wikidata.org/entity/Q25483,male,sentoddyoung || toddyoungin,234128524 || 59969802,United States senator,Republican Party,Republican Party,Indiana Class 3 senate seat
+US,Tammy Baldwin,http://www.wikidata.org/entity/Q40628,female,tammybaldwin || senatorbaldwin,87510313 || 1074518754,United States senator,Democratic Party,Democratic Party,Wisconsin Class 1 senate seat
+US,Debbie Stabenow,http://www.wikidata.org/entity/Q241092,female,senstabenow,76456274,United States senator,Democratic Party,Democratic Party,Michigan Class 1 senate seat
+US,Chuck Schumer,http://www.wikidata.org/entity/Q380900,male,senschumer || chuckschumer,17494010 || 1872999342,United States senator,Democratic Party,Democratic Party,New York Class 3 senate seat
+US,Sheldon Whitehouse,http://www.wikidata.org/entity/Q652066,male,senwhitehouse,242555999,United States senator,Democratic Party,Democratic Party,Rhode Island Class 1 senate seat
+US,Chris Murphy,http://www.wikidata.org/entity/Q1077594,male,chrismurphyct,150078976,United States senator,Democratic Party,Democratic Party,Connecticut Class 1 senate seat
+US,Chris Van Hollen,http://www.wikidata.org/entity/Q1077819,male,chrisvanhollen || vanhollenformd,18137749 || 3067974778,United States senator,Democratic Party,Democratic Party,Maryland Class 3 senate seat
+US,Gary Peters,http://www.wikidata.org/entity/Q1494930,male,sengarypeters,236511574,United States senator,Democratic Party,Democratic Party,Michigan Class 2 senate seat
+US,Kyrsten Sinema,http://www.wikidata.org/entity/Q1556541,female,kyrstensinema || senatorsinema,20747881 || 1080844782,United States senator,Democratic Party || independent politician || Green Party of the United States,Democratic Party,Arizona Class 1 senate seat
+US,Dianne Feinstein,http://www.wikidata.org/entity/Q230733,female,senfeinstein,476256944,United States senator,Democratic Party,Democratic Party,California Class 1 senate seat
+US,Mitch McConnell,http://www.wikidata.org/entity/Q355522,male,mcconnellpress || leadermcconnell,339822881 || 1249982359,United States senator,Republican Party,Republican Party,Kentucky Class 2 senate seat
+US,Bernie Sanders,http://www.wikidata.org/entity/Q359442,male,berniesanders || sensanders,216776631 || 29442313,United States senator,Democratic Party || independent politician || Liberty Union Party,independent politician,Vermont Class 1 senate seat
+US,Roger Wicker,http://www.wikidata.org/entity/Q390491,male,senatorwicker,264219447,United States senator,Republican Party,Republican Party,Mississippi Class 1 senate seat
+US,Lamar Alexander,http://www.wikidata.org/entity/Q419976,male,senalexander,76649729,United States senator,Republican Party,Republican Party,Tennessee Class 2 senate seat
+US,Marsha Blackburn,http://www.wikidata.org/entity/Q458971,female,marshablackburn,278145569,United States senator,Republican Party,Republican Party,Tennessee Class 1 senate seat
+US,Tim Scott,http://www.wikidata.org/entity/Q561315,male,senatortimscott,217543151,United States senator,Republican Party,Republican Party,South Carolina Class 3 senate seat
+US,Mike Lee,http://www.wikidata.org/entity/Q627098,male,senmikelee || basedmikelee,88784440 || 1551266822460162051,United States senator,Republican Party,Republican Party,Utah Class 3 senate seat
+US,Jim Risch,http://www.wikidata.org/entity/Q721871,male,senatorrisch,1096059529,United States senator,Republican Party,Republican Party,Idaho Class 2 senate seat
+US,Bill Cassidy,http://www.wikidata.org/entity/Q861999,male,senatorcassidy || billcassidy,2479160868 || 55677432,United States senator,Republican Party,Republican Party,Louisiana Class 2 senate seat
+US,Rob Portman,http://www.wikidata.org/entity/Q926069,male,robportman || senrobportman,2612307559 || 18915145,United States senator,Republican Party,Republican Party,Ohio Class 3 senate seat
+US,Tammy Duckworth,http://www.wikidata.org/entity/Q3036410,female,tammyduckworth || senduckworth,328679423 || 1058520120,United States senator,Democratic Party,Democratic Party,Illinois Class 3 senate seat
+US,Cindy Hyde-Smith,http://www.wikidata.org/entity/Q5120540,female,cindyhydesmith || senhydesmith,262192574 || 983348251972816896,United States senator,Republican Party || Democratic Party || independent politician,Republican Party,Mississippi Class 2 senate seat
+US,Joni Ernst,http://www.wikidata.org/entity/Q13475242,female,joniernst || senjoniernst,1383059977 || 2856787757,United States senator,Republican Party || Republican Party of Iowa,Republican Party,Iowa Class 2 senate seat
+US,Doug Jones,http://www.wikidata.org/entity/Q30122825,male,sendougjones,941080085121175552,United States senator,Democratic Party,Democratic Party,Alabama Class 2 senate seat
+US,Mazie Hirono,http://www.wikidata.org/entity/Q16476,female,mazieforhawaii || maziehirono,169198625 || 92186819,United States senator,Democratic Party,Democratic Party,Hawaii Class 1 senate seat
+US,Kirsten Gillibrand,http://www.wikidata.org/entity/Q22222,female,sengillibrand,72198806,United States senator,Democratic Party,Democratic Party,New York Class 1 senate seat
+US,James Lankford,http://www.wikidata.org/entity/Q45940,male,senatorlankford,225921757,United States senator,Republican Party,Republican Party,Oklahoma Class 3 senate seat
+US,Patrick Leahy,http://www.wikidata.org/entity/Q59315,male,senatorleahy,242836537,United States senator,Democratic Party,Democratic Party,Vermont Class 3 senate seat
+US,Patty Murray,http://www.wikidata.org/entity/Q258825,female,pattymurray || murraycampaign,293131808 || 158470209,United States senator,Democratic Party,Democratic Party,Washington Class 3 senate seat
+US,Mark Warner,http://www.wikidata.org/entity/Q453893,male,markwarner,7429102,United States senator,Democratic Party,Democratic Party,Virginia Class 2 senate seat
+US,Shelley Moore Capito,http://www.wikidata.org/entity/Q459618,female,sencapito,193794406,United States senator,Republican Party,Republican Party,West Virginia Class 2 senate seat
+US,John Thune,http://www.wikidata.org/entity/Q462981,male,senjohnthune || johnthune,296361085 || 26533227,United States senator,Republican Party,Republican Party,South Dakota Class 3 senate seat
+US,Jack Reed,http://www.wikidata.org/entity/Q528979,male,senjackreed,486694111,United States senator,Democratic Party,Democratic Party,Rhode Island Class 2 senate seat
+US,Joe Manchin,http://www.wikidata.org/entity/Q538868,male,sen_joemanchin,234374703,United States senator,Democratic Party,Democratic Party,West Virginia Class 1 senate seat
+US,Mike Rounds,http://www.wikidata.org/entity/Q722503,male,senatorrounds,2955485182,United States senator,Republican Party,Republican Party,South Dakota Class 2 senate seat
+US,Jim Inhofe,http://www.wikidata.org/entity/Q723134,male,jiminhofe,7270292,United States senator,Republican Party,Republican Party,Oklahoma Class 2 senate seat
+US,Mike Crapo,http://www.wikidata.org/entity/Q734319,male,crapoforsenate || mikecrapo,413160266 || 600463589,United States senator,Republican Party,Republican Party,Idaho Class 3 senate seat
+US,Bob Casey Jr.,http://www.wikidata.org/entity/Q887841,male,bob_casey || senbobcasey,94154021 || 171598736,United States senator,Democratic Party,Democratic Party,Pennsylvania Class 1 senate seat
+US,Jerry Moran,http://www.wikidata.org/entity/Q1365787,male,jerrymoran,18632666,United States senator,Republican Party,Republican Party,Kansas Class 3 senate seat
+US,Ted Cruz,http://www.wikidata.org/entity/Q2036942,male,tedcruz || sentedcruz,23022687 || 1074480192,United States senator,Republican Party,Republican Party,Texas Class 1 senate seat
+US,Dan Sullivan,http://www.wikidata.org/entity/Q5218668,male,sendansullivan,2891210047,United States senator,Republican Party,Republican Party,Alaska Class 2 senate seat
+US,Martha McSally,http://www.wikidata.org/entity/Q6774492,female,marthamcsally || senmcsallyaz,482450423 || 2964949642,United States senator,Republican Party,Republican Party,Arizona Class 3 senate seat
+US,David Perdue,http://www.wikidata.org/entity/Q17402717,male,sendavidperdue,2863210809,United States senator,Republican Party,Republican Party,Georgia Class 2 senate seat
+US,Tina Smith,http://www.wikidata.org/entity/Q18631509,female,sentinasmith || tinasmithmn,941000686275387392 || 47724293,United States senator,Democratic Party,Democratic Party,Minnesota Class 2 senate seat
+US,Amy Klobuchar,http://www.wikidata.org/entity/Q22237,female,amyklobuchar,33537967,United States senator,Democratic Party || Minnesota Democratic–Farmer–Labor Party,Democratic Party,Minnesota Class 1 senate seat
+US,Lisa Murkowski,http://www.wikidata.org/entity/Q22360,female,lisamurkowski,18061669,United States senator,Republican Party,Republican Party,Alaska Class 3 senate seat
+US,Richard M. Burr,http://www.wikidata.org/entity/Q331278,male,senatorburr,21157904,United States senator,Republican Party,Republican Party,North Carolina Class 3 senate seat
+US,Tim Kaine,http://www.wikidata.org/entity/Q359888,male,timkaine,172858784,United States senator,Democratic Party,Democratic Party,Virginia Class 1 senate seat
+US,Tom Carper,http://www.wikidata.org/entity/Q457432,male,senatorcarper,249787913,United States senator,Democratic Party,Democratic Party,Delaware Class 1 senate seat
+US,Ben Cardin,http://www.wikidata.org/entity/Q723295,male,senatorcardin,109071031,United States senator,Democratic Party,Democratic Party,Maryland Class 1 senate seat
+US,Jeff Merkley,http://www.wikidata.org/entity/Q1368405,male,senjeffmerkley,29201047,United States senator,Democratic Party,Democratic Party,Oregon Class 2 senate seat
+US,Brian Schatz,http://www.wikidata.org/entity/Q1827902,male,schatzforhawaii || brianschatz || senbrianschatz,1284467173 || 47747074 || 1262099252,United States senator,Democratic Party || Green Party of the United States,Democratic Party,Hawaii Class 3 senate seat
+US,Josh Hawley,http://www.wikidata.org/entity/Q23020745,male,hawleymo,2352629311,United States senator,Republican Party,Republican Party,Missouri Class 1 senate seat
+US,Jacky Rosen,http://www.wikidata.org/entity/Q27825033,female,rosenfornevada || senjackyrosen,4749863113 || 818554054309715969,United States senator,Democratic Party,Democratic Party,Nevada Class 1 senate seat
+US,John Hoeven,http://www.wikidata.org/entity/Q374762,male,senjohnhoeven,382791093,United States senator,Republican Party || Democratic Party,Republican Party,North Dakota Class 3 senate seat
+US,Elizabeth Warren,http://www.wikidata.org/entity/Q434706,female,senwarren || ewarren,970207298 || 357606935,United States senator,Democratic Party,Democratic Party,Massachusetts Class 1 senate seat
+US,Dick Durbin,http://www.wikidata.org/entity/Q434804,male,dickdurbin || senatordurbin,308794407 || 247334603,United States senator,Democratic Party,Democratic Party,Illinois Class 2 senate seat
+US,Michael Bennet,http://www.wikidata.org/entity/Q554792,male,senatorbennet || michaelbennet,224285242 || 45645232,United States senator,Democratic Party,Democratic Party,Colorado Class 3 senate seat
+US,Martin Heinrich,http://www.wikidata.org/entity/Q565374,male,martinheinrich,1099199839,United States senator,Democratic Party,Democratic Party,New Mexico Class 1 senate seat
+US,Ronald Johnson,http://www.wikidata.org/entity/Q970272,male,senronjohnson,233737858,United States senator,Republican Party,Republican Party,Wisconsin Class 3 senate seat
+US,Roy Blunt,http://www.wikidata.org/entity/Q1525924,male,roybluntmo || royblunt,389554914 || 21269970,United States senator,Republican Party,Republican Party,Missouri Class 3 senate seat
+US,Richard Blumenthal,http://www.wikidata.org/entity/Q2023708,male,senblumenthal || dickblumenthal,278124059 || 102477372,United States senator,Democratic Party,Democratic Party,Connecticut Class 3 senate seat
+US,Kamala Harris,http://www.wikidata.org/entity/Q10853588,female,senkamalaharris || vp || kamalaharris,803694179079458816 || 30354991,United States senator,Democratic Party,Democratic Party,California Class 3 senate seat
+US,Mike Enzi,http://www.wikidata.org/entity/Q432431,male,senatorenzi,291756142,United States senator,Republican Party,Republican Party,Wyoming Class 2 senate seat
+US,Rick Scott,http://www.wikidata.org/entity/Q439729,male,senrickscott || scottforflorida,131546062 || 306389855,United States senator,Republican Party,Republican Party,Florida Class 1 senate seat
+US,Rand Paul,http://www.wikidata.org/entity/Q463557,male,randpaul,216881337,United States senator,Republican Party,Republican Party,Kentucky Class 3 senate seat
+US,Richard Shelby,http://www.wikidata.org/entity/Q472254,male,senshelby,21111098,United States senator,Republican Party || Democratic Party,Republican Party,Alabama Class 3 senate seat
+US,Chuck Grassley,http://www.wikidata.org/entity/Q529294,male,chuckgrassley,10615232,United States senator,Republican Party,Republican Party,Iowa Class 3 senate seat
+US,John Cornyn,http://www.wikidata.org/entity/Q719568,male,johncornyn,13218102,United States senator,Republican Party,Republican Party,Texas Class 2 senate seat
+US,Robert Menendez,http://www.wikidata.org/entity/Q888132,male,senatormenendez,18695134,United States senator,Democratic Party,Democratic Party,New Jersey Class 1 senate seat
+US,Pat Toomey,http://www.wikidata.org/entity/Q971308,male,sentoomey,221162525,United States senator,Republican Party,Republican Party,Pennsylvania Class 3 senate seat
+US,Ed Markey,http://www.wikidata.org/entity/Q1282411,male,senmarkey,21406834,United States senator,Democratic Party,Democratic Party,Massachusetts Class 2 senate seat
+US,John Boozman,http://www.wikidata.org/entity/Q1344707,male,boozman4ar || johnboozman,111671288 || 5558312,United States senator,Republican Party,Republican Party,Arkansas Class 3 senate seat
+US,Tom Cotton,http://www.wikidata.org/entity/Q3090307,male,sentomcotton || tomcottonar,968650362 || 343041182,United States senator,Republican Party,Republican Party,Arkansas Class 2 senate seat
+US,Thom Tillis,http://www.wikidata.org/entity/Q7786750,male,senthomtillis,2964174789,United States senator,Republican Party,Republican Party,North Carolina Class 2 senate seat
+US,Kelly Loeffler,http://www.wikidata.org/entity/Q76570207,female,kloeffler,29495695,United States senator,Republican Party,Republican Party,Georgia Class 3 senate seat

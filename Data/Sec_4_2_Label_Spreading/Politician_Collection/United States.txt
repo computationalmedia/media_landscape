@@ -1,0 +1,598 @@
+denver riggleman	republican party	R	1080504024695222273	http://www.wikidata.org/entity/Q28086149
+elaine luria	democratic party	L	950111395378597888	http://www.wikidata.org/entity/Q58323073
+ross spano	republican party	R	605615715	http://www.wikidata.org/entity/Q16196710
+jennifer wexton	democratic party	L	2212905492	http://www.wikidata.org/entity/Q16206735
+lee zeldin	republican party	R	2750127259; 15874918	http://www.wikidata.org/entity/Q16221257
+will hurd	republican party	R	2963445730; 74313566	http://www.wikidata.org/entity/Q18639742
+don bacon	republican party	R	818975124460335106	http://www.wikidata.org/entity/Q19757583
+mike johnson	republican party	R	827279765287559171	http://www.wikidata.org/entity/Q19880665
+jimmy panetta	democratic party	L	796736612554117120	http://www.wikidata.org/entity/Q27733776
+stephanie murphy	democratic party	L	796183515998068736	http://www.wikidata.org/entity/Q27804538
+david trone	democratic party	L	4851790919	http://www.wikidata.org/entity/Q29446408
+john w. rose	republican party	R	1081312310059253763	http://www.wikidata.org/entity/Q33044040
+angie craig	democratic party	L	1080222360643485698; 411861905	http://www.wikidata.org/entity/Q58324174
+jim hagedorn	republican party	R	1083474782602125318	http://www.wikidata.org/entity/Q58494532
+mike garcia	republican party	R	1262531473057423361	http://www.wikidata.org/entity/Q94236068
+david scott	democratic party	L	168673083	http://www.wikidata.org/entity/Q132071
+zoe lofgren	democratic party	L	267938462	http://www.wikidata.org/entity/Q218217
+frank lucas	republican party	R	242772524	http://www.wikidata.org/entity/Q246049
+cathy mcmorris rodgers	republican party	R	17976923	http://www.wikidata.org/entity/Q293343
+ben r. luján	democratic party	L	19318314	http://www.wikidata.org/entity/Q324256
+adam schiff	democratic party	L	29501253	http://www.wikidata.org/entity/Q350843
+adam smith	democratic party	L	58928690	http://www.wikidata.org/entity/Q350916
+lloyd doggett	democratic party	L	153944899	http://www.wikidata.org/entity/Q363817
+joe courtney	democratic party	L	85396297	http://www.wikidata.org/entity/Q434470
+carolyn maloney	democratic party	L	119250381; 258900199	http://www.wikidata.org/entity/Q455833
+josé enrique serrano	democratic party	L	33563161	http://www.wikidata.org/entity/Q460267
+frederica wilson	democratic party	L	234014087	http://www.wikidata.org/entity/Q461504
+yvette clarke	democratic party	L	790257384572743680; 240812994	http://www.wikidata.org/entity/Q461679
+jerrold nadler	democratic party	L	40302336	http://www.wikidata.org/entity/Q505598
+albio sires	democratic party	L	18696134	http://www.wikidata.org/entity/Q527509
+devin nunes	republican party	R	54412900	http://www.wikidata.org/entity/Q539493
+hal rogers	republican party	R	550401754	http://www.wikidata.org/entity/Q547153
+ann kirkpatrick	democratic party	L	1081240074946252801; 272004287	http://www.wikidata.org/entity/Q558460
+ed case	democratic party	L	21737536; 1081350574589833221	http://www.wikidata.org/entity/Q597613
+david loebsack	democratic party	L	510516465; 583486767	http://www.wikidata.org/entity/Q771586
+bob gibbs	republican party	R	234822928	http://www.wikidata.org/entity/Q887945
+bobby scott	democratic party	L	161791703	http://www.wikidata.org/entity/Q888668
+david price	democratic party	L	155669457	http://www.wikidata.org/entity/Q984010
+daniel webster	republican party	R	281540744	http://www.wikidata.org/entity/Q1163099
+donald payne, jr.	democratic party	L	1155335864	http://www.wikidata.org/entity/Q1240224
+gerry connolly	democratic party	L	78445977	http://www.wikidata.org/entity/Q1514859
+john shimkus	republican party	R	15600527	http://www.wikidata.org/entity/Q1701747
+patrick mchenry	republican party	R	27676828	http://www.wikidata.org/entity/Q2057809
+suzan delbene	democratic party	L	995193054	http://www.wikidata.org/entity/Q2091892
+sean patrick maloney	democratic party	L	1072467470	http://www.wikidata.org/entity/Q2262244
+susan brooks	republican party	R	1074101017	http://www.wikidata.org/entity/Q3225324
+tony cárdenas	democratic party	L	1222257180	http://www.wikidata.org/entity/Q3620422
+scott peters	democratic party	L	292594517; 1135486501	http://www.wikidata.org/entity/Q3791514
+tom rice	republican party	R	1058345042	http://www.wikidata.org/entity/Q3956858
+richard hudson	republican party	R	935033864	http://www.wikidata.org/entity/Q3956999
+matt cartwright	democratic party	L	776664410	http://www.wikidata.org/entity/Q4111531
+a. donald mceachin	democratic party	L	816181091673448448	http://www.wikidata.org/entity/Q4647699
+alex x. mooney	republican party	R	2964526557	http://www.wikidata.org/entity/Q4718026
+anthony brindisi	democratic party	L	915831762; 1080978331535896576	http://www.wikidata.org/entity/Q4772153
+darin lahood	republican party	R	3686482216	http://www.wikidata.org/entity/Q5222780
+deborah dingell	democratic party	L	2970279814	http://www.wikidata.org/entity/Q5248232
+greg steube	republican party	R	1083125649609506816; 21924842	http://www.wikidata.org/entity/Q5606295
+jodey arrington	republican party	R	816284664658874368	http://www.wikidata.org/entity/Q6207815
+ayanna pressley	democratic party	L	1080584229510172678; 31013444	http://www.wikidata.org/entity/Q13562359
+jim banks	republican party	R	816131319033950208	http://www.wikidata.org/entity/Q16146788
+matt gaetz	republican party	R	58579942; 818948638890217473	http://www.wikidata.org/entity/Q16221742
+mark green	republican party	R	1080477288955826176	http://www.wikidata.org/entity/Q16224587
+dan newhouse	republican party	R	2930635215	http://www.wikidata.org/entity/Q16733285
+greg murphy	republican party	R	1100072194632237056; 1173978070535024642	http://www.wikidata.org/entity/Q23074266
+abby finkenauer	democratic party	L	1262017122	http://www.wikidata.org/entity/Q24435337
+jahana hayes	democratic party	L	1082086081238102018; 991721030631780354	http://www.wikidata.org/entity/Q24951316
+david kustoff	republican party	R	816012124505931780	http://www.wikidata.org/entity/Q26923148
+brian fitzpatrick	republican party	R	816303263586914304	http://www.wikidata.org/entity/Q27831059
+paul mitchell	republican party	R	811632636598910976	http://www.wikidata.org/entity/Q27922634
+elissa slotkin	democratic party	L	1078401427347857408; 860547911268139008	http://www.wikidata.org/entity/Q30323721
+lucy mcbath	democratic party	L	1082380458976051202	http://www.wikidata.org/entity/Q54358424
+alexandria ocasio-cortez	democratic party	L	1079104563280527364; 138203134	http://www.wikidata.org/entity/Q55223040
+michael cloud	republican party	R	23725826; 1039879658400112640	http://www.wikidata.org/entity/Q55313952
+andy kim	democratic party	L	1078771848882593793; 24215154	http://www.wikidata.org/entity/Q55639180
+mark amodei	republican party	R	402719755	http://www.wikidata.org/entity/Q23944
+rodney davis	republican party	R	993153006	http://www.wikidata.org/entity/Q134035
+donna shalala	democratic party	L	1060584809095925762; 737719829579345920	http://www.wikidata.org/entity/Q292569
+steve stivers	republican party	R	211420609	http://www.wikidata.org/entity/Q324099
+eddie bernice johnson	democratic party	L	168502762	http://www.wikidata.org/entity/Q461526
+gwen moore	democratic party	L	22669526	http://www.wikidata.org/entity/Q461698
+brian higgins	democratic party	L	33576489	http://www.wikidata.org/entity/Q505581
+tim ryan	democratic party	L	13491312; 466532637	http://www.wikidata.org/entity/Q513960
+mike conaway	republican party	R	295685416	http://www.wikidata.org/entity/Q538944
+mike d. rogers	republican party	R	33977070	http://www.wikidata.org/entity/Q693238
+john yarmuth	democratic party	L	384913290	http://www.wikidata.org/entity/Q699970
+bill keating	democratic party	L	232992031	http://www.wikidata.org/entity/Q775412
+jeff fortenberry	republican party	R	18805303	http://www.wikidata.org/entity/Q1397331
+glenn thompson	republican party	R	18967498	http://www.wikidata.org/entity/Q1531120
+justin amash	republican party	R	233842454	http://www.wikidata.org/entity/Q1714165
+steve scalise	republican party	R	1209417007	http://www.wikidata.org/entity/Q1857141
+mark pocan	democratic party	L	1206227149	http://www.wikidata.org/entity/Q1900355
+rob woodall	republican party	R	2382685057	http://www.wikidata.org/entity/Q2156128
+stephen f. lynch	democratic party	L	310310133	http://www.wikidata.org/entity/Q2344921
+robin kelly	democratic party	L	1339931490	http://www.wikidata.org/entity/Q3437091
+julia brownley	democratic party	L	923251678652043269; 1243902714	http://www.wikidata.org/entity/Q3577073
+alan lowenthal	democratic party	L	1055730738	http://www.wikidata.org/entity/Q3740782
+ann mclane kuster	democratic party	L	1058717720	http://www.wikidata.org/entity/Q3917208
+derek kilmer	democratic party	L	1058917562	http://www.wikidata.org/entity/Q4068828
+chris stewart	republican party	R	1072008757	http://www.wikidata.org/entity/Q4068880
+bradley byrne	republican party	R	2253968388	http://www.wikidata.org/entity/Q4954892
+dan meuser	republican party	R	1080574793630527505; 903354645623566340	http://www.wikidata.org/entity/Q5214012
+darren soto	democratic party	L	818713465653051392	http://www.wikidata.org/entity/Q5225162
+dwight e. evans	democratic party	L	90639372	http://www.wikidata.org/entity/Q5318148
+grace meng	democratic party	L	1051127714; 571214272	http://www.wikidata.org/entity/Q5591303
+jimmy gomez	democratic party	L	2371339658	http://www.wikidata.org/entity/Q6200205
+john rutherford	republican party	R	828977216595849216	http://www.wikidata.org/entity/Q6256043
+katherine clark	democratic party	L	2293131060	http://www.wikidata.org/entity/Q6376330
+ralph norman	republican party	R	880480631108644864	http://www.wikidata.org/entity/Q7287914
+ro khanna	democratic party	L	771152516; 816298918468259841	http://www.wikidata.org/entity/Q7339221
+scott perry	republican party	R	18773159	http://www.wikidata.org/entity/Q7437040
+ted lieu	democratic party	L	3044993235; 21059255	http://www.wikidata.org/entity/Q7693450
+thomas suozzi	democratic party	L	816705409486618624	http://www.wikidata.org/entity/Q7794276
+elise stefanik	republican party	R	2962813893; 109579534	http://www.wikidata.org/entity/Q18211057
+john katko	republican party	R	2966765501	http://www.wikidata.org/entity/Q18619043
+french hill	republican party	R	2953974395	http://www.wikidata.org/entity/Q18631366
+nanette barragán	democratic party	L	816833925456789505	http://www.wikidata.org/entity/Q21662745
+warren davidson	republican party	R	742735530287304704; 4624539143	http://www.wikidata.org/entity/Q24458117
+clay higgins	republican party	R	843636970538618880	http://www.wikidata.org/entity/Q25849505
+ilhan omar	democratic party	L	1082334352711790593; 783792992	http://www.wikidata.org/entity/Q26436159
+mike gallagher	republican party	R	815966620300480514	http://www.wikidata.org/entity/Q27842981
+dusty johnson	republican party	R	140529899; 1074782372594413569	http://www.wikidata.org/entity/Q30015838
+dan crenshaw	republican party	R	1080894931311431682	http://www.wikidata.org/entity/Q58301995
+sharice davids	democratic party	L	950952511556538368	http://www.wikidata.org/entity/Q58322868
+cindy axne	democratic party	L	1080865917377097728; 867495243482058755	http://www.wikidata.org/entity/Q58324150
+lizzie pannill fletcher	democratic party	L	1075904377221722113	http://www.wikidata.org/entity/Q58324313
+tulsi gabbard	democratic party	L	26637348	http://www.wikidata.org/entity/Q32620
+doug lamborn	republican party	R	584012853	http://www.wikidata.org/entity/Q371106
+charlie crist	democratic party	L	816030424778543104; 38970940	http://www.wikidata.org/entity/Q374693
+mark takano	democratic party	L	1037321378	http://www.wikidata.org/entity/Q399593
+rob bishop	republican party	R	148006729	http://www.wikidata.org/entity/Q433857
+virginia foxx	republican party	R	16256269	http://www.wikidata.org/entity/Q458453
+kathy castor	democratic party	L	1880674038	http://www.wikidata.org/entity/Q458492
+sam graves	republican party	R	29766367	http://www.wikidata.org/entity/Q465638
+fred upton	republican party	R	124224165	http://www.wikidata.org/entity/Q505236
+andy harris	republican party	R	960962340	http://www.wikidata.org/entity/Q506639
+steve cohen	democratic party	L	162069635	http://www.wikidata.org/entity/Q512330
+andré carson	democratic party	L	199325935	http://www.wikidata.org/entity/Q517649
+blaine luetkemeyer	republican party	R	1849261916	http://www.wikidata.org/entity/Q522181
+dina titus	democratic party	L	122174004	http://www.wikidata.org/entity/Q524440
+ken calvert	republican party	R	22545491	http://www.wikidata.org/entity/Q538978
+cedric richmond	democratic party	L	267854863	http://www.wikidata.org/entity/Q561284
+brad sherman	democratic party	L	30216513	http://www.wikidata.org/entity/Q672919
+earl blumenauer	democratic party	L	15954997	http://www.wikidata.org/entity/Q748066
+kevin mccarthy	republican party	R	19739126	http://www.wikidata.org/entity/Q766866
+bill flores	republican party	R	237312687	http://www.wikidata.org/entity/Q862103
+bobby rush	democratic party	L	305216911	http://www.wikidata.org/entity/Q888599
+joe wilson	republican party	R	254082173	http://www.wikidata.org/entity/Q928855
+danny k. davis	democratic party	L	789244177	http://www.wikidata.org/entity/Q1164657
+david schweikert	republican party	R	229197216	http://www.wikidata.org/entity/Q1176561
+jim langevin	democratic party	L	18909919	http://www.wikidata.org/entity/Q1397290
+rick crawford	republican party	R	233693291	http://www.wikidata.org/entity/Q2151554
+tom reed	republican party	R	252819323	http://www.wikidata.org/entity/Q2440035
+ami bera	democratic party	L	950783972	http://www.wikidata.org/entity/Q3389105
+anthony gonzalez	republican party	R	1054381765224210432; 900025544032624640	http://www.wikidata.org/entity/Q3487172
+colin allred	democratic party	L	1078355119920562176; 346964561	http://www.wikidata.org/entity/Q5144845
+kathleen rice	democratic party	L	2970462034	http://www.wikidata.org/entity/Q6376887
+tim burchett	republican party	R	1028854804087492613; 353890966	http://www.wikidata.org/entity/Q7803244
+sylvia garcia	democratic party	L	1080587263132733442	http://www.wikidata.org/entity/Q13562489
+carol miller	republican party	R	841994444; 1081318716573470720	http://www.wikidata.org/entity/Q16145531
+troy balderson	republican party	R	1037341536592310272	http://www.wikidata.org/entity/Q16194422
+buddy carter	republican party	R	2973870195	http://www.wikidata.org/entity/Q16240994
+barry loudermilk	republican party	R	2914163523	http://www.wikidata.org/entity/Q16731643
+rick w. allen	republican party	R	2964287128	http://www.wikidata.org/entity/Q18683976
+dan bishop	republican party	R	1912799826	http://www.wikidata.org/entity/Q20090301
+trent kelly	republican party	R	3317799825	http://www.wikidata.org/entity/Q20204915
+guy reschenthaler	republican party	R	477223342; 4205133682	http://www.wikidata.org/entity/Q22096097
+brian mast	republican party	R	814103950404239360; 3170031728	http://www.wikidata.org/entity/Q27733854
+vicente gonzález	democratic party	L	818536152588238849	http://www.wikidata.org/entity/Q27924921
+conor lamb	democratic party	L	855240223432769538	http://www.wikidata.org/entity/Q43387164
+deb haaland	democratic party	L	1080695666760929280; 286476728; 1370049534831824901	http://www.wikidata.org/entity/Q54860790
+pete stauber	republican party	R	1075830599007510535; 883069589722198018	http://www.wikidata.org/entity/Q55955746
+haley stevens	democratic party	L	391445643	http://www.wikidata.org/entity/Q58322563
+kendra horn	democratic party	L	880850093548687360; 1083019402046513152	http://www.wikidata.org/entity/Q58323559
+debbie mucarsel-powell	democratic party	L	750046943905058816	http://www.wikidata.org/entity/Q58323616
+harley rouda	democratic party	L	1075080722241736704	http://www.wikidata.org/entity/Q58333597
+kim schrier	democratic party	L	1080462532815532032	http://www.wikidata.org/entity/Q58333616
+bryan steil	republican party	R	1075205691621720064	http://www.wikidata.org/entity/Q58494431
+tj cox	democratic party	L	1080875913926139910; 882843534750961664	http://www.wikidata.org/entity/Q59306065
+steven palazzo	republican party	R	299883942	http://www.wikidata.org/entity/Q24230
+debbie wasserman schultz	democratic party	L	115979444	http://www.wikidata.org/entity/Q50104
+jim jordan	republican party	R	18166778	http://www.wikidata.org/entity/Q186215
+linda sánchez	democratic party	L	312134473	http://www.wikidata.org/entity/Q291143
+kenny marchant	republican party	R	23976316	http://www.wikidata.org/entity/Q368184
+adrian smith	republican party	R	296245061	http://www.wikidata.org/entity/Q373443
+doris matsui	democratic party	L	38254095	http://www.wikidata.org/entity/Q399561
+terri sewell	democratic party	L	381152398	http://www.wikidata.org/entity/Q461621
+maxine waters	democratic party	L	36686040; 3166120541	http://www.wikidata.org/entity/Q461727
+grace napolitano	democratic party	L	161411080; 4895651115	http://www.wikidata.org/entity/Q469139
+louie gohmert	republican party	R	22055226	http://www.wikidata.org/entity/Q532647
+mac thornberry	republican party	R	377534571	http://www.wikidata.org/entity/Q539444
+michael mccaul	republican party	R	26424123	http://www.wikidata.org/entity/Q539509
+michael c. burgess	republican party	R	15751083	http://www.wikidata.org/entity/Q539521
+mike simpson	republican party	R	76132891	http://www.wikidata.org/entity/Q549521
+cheri bustos	democratic party	L	1092979962	http://www.wikidata.org/entity/Q723148
+bill johnson	republican party	R	211530910	http://www.wikidata.org/entity/Q862215
+dutch ruppersberger	democratic party	L	305620929	http://www.wikidata.org/entity/Q981559
+peter welch	democratic party	L	1410590874; 499109830	http://www.wikidata.org/entity/Q1112656
+david mckinley	republican party	R	240427862	http://www.wikidata.org/entity/Q1175610
+don young	republican party	R	37007274	http://www.wikidata.org/entity/Q1239590
+jim mcgovern	democratic party	L	242426145	http://www.wikidata.org/entity/Q1337459
+kurt schrader	democratic party	L	20545793	http://www.wikidata.org/entity/Q1387868
+peter defazio	democratic party	L	252249233	http://www.wikidata.org/entity/Q1758507
+thomas massie	republican party	R	975200486	http://www.wikidata.org/entity/Q2426031
+bill foster	democratic party	L	1080509366	http://www.wikidata.org/entity/Q2903389
+markwayne mullin	republican party	R	1060370282	http://www.wikidata.org/entity/Q3448772
+randy weber	republican party	R	1058051748	http://www.wikidata.org/entity/Q4014569
+filemon vela	democratic party	L	1083448909	http://www.wikidata.org/entity/Q4069225
+brendan f. boyle	democratic party	L	231108733	http://www.wikidata.org/entity/Q4960876
+hakeem jeffries	democratic party	L	467823431	http://www.wikidata.org/entity/Q5640425
+jack bergman	republican party	R	815241612154417152	http://www.wikidata.org/entity/Q6262116
+lloyd smucker	republican party	R	41417564	http://www.wikidata.org/entity/Q6662742
+madeleine dean	democratic party	L	567508925; 935717078966964228	http://www.wikidata.org/entity/Q6726900
+tom o'halleran	democratic party	L	808416682972770304	http://www.wikidata.org/entity/Q7817086
+val demings	democratic party	L	798973032362606600; 3404875323	http://www.wikidata.org/entity/Q7909083
+ruben gallego	democratic party	L	2966570782	http://www.wikidata.org/entity/Q16218474
+debbie lesko	republican party	R	996094929733652481	http://www.wikidata.org/entity/Q16731415
+mark walker	republican party	R	2966205003	http://www.wikidata.org/entity/Q17388892
+chuy garcía	democratic party	L	2847603597	http://www.wikidata.org/entity/Q18631698
+drew ferguson	republican party	R	806583915012046854	http://www.wikidata.org/entity/Q26157659
+salud carbajal	democratic party	L	816157667882373120	http://www.wikidata.org/entity/Q27805429
+william timmons	republican party	R	1079770852302958592; 958510641228275712	http://www.wikidata.org/entity/Q28837296
+greg pence	republican party	R	1082369392229400576; 890038958104735744	http://www.wikidata.org/entity/Q52151577
+gil cisneros	democratic party	L	1080986167003230208; 876894308309147650	http://www.wikidata.org/entity/Q54958760
+chrissy houlahan	democratic party	L	1052896620797460481	http://www.wikidata.org/entity/Q56274180
+lori trahan	democratic party	L	1079802482640019456	http://www.wikidata.org/entity/Q56486676
+susan wild	democratic party	L	1069636653353000962	http://www.wikidata.org/entity/Q58323072
+dean phillips	democratic party	L	39894447; 1061310112013434882	http://www.wikidata.org/entity/Q58323131
+susie lee	democratic party	L	1079061579973439488; 602919981	http://www.wikidata.org/entity/Q58333611
+kevin hern	republican party	R	1067818539179024386	http://www.wikidata.org/entity/Q58333614
+ron wright	republican party	R	1080854935535800320	http://www.wikidata.org/entity/Q60428775
+jaime herrera beutler	republican party	R	242926427	http://www.wikidata.org/entity/Q168592
+tom cole	republican party	R	23124635	http://www.wikidata.org/entity/Q173839
+ted deutch	democratic party	L	137794015	http://www.wikidata.org/entity/Q245724
+anna eshoo	democratic party	L	249348006	http://www.wikidata.org/entity/Q291193
+ed perlmutter	democratic party	L	20552026	http://www.wikidata.org/entity/Q331507
+vicky hartzler	republican party	R	237763317	http://www.wikidata.org/entity/Q375389
+nydia m. velázquez	democratic party	L	164369297	http://www.wikidata.org/entity/Q434890
+chellie pingree	democratic party	L	14984637	http://www.wikidata.org/entity/Q457243
+susan davis	democratic party	L	432771620	http://www.wikidata.org/entity/Q460675
+sheila jackson lee	democratic party	L	80612021	http://www.wikidata.org/entity/Q461734
+karen bass	democratic party	L	239949176	http://www.wikidata.org/entity/Q461739
+rick larsen	democratic party	L	404132211	http://www.wikidata.org/entity/Q503529
+ron kind	democratic party	L	112740986	http://www.wikidata.org/entity/Q505222
+bill pascrell	democratic party	L	515736574; 74508260	http://www.wikidata.org/entity/Q529090
+jim costa	democratic party	L	245451804	http://www.wikidata.org/entity/Q675869
+al green	democratic party	L	156333623	http://www.wikidata.org/entity/Q749039
+bill posey	republican party	R	25086658	http://www.wikidata.org/entity/Q862373
+chris smith	republican party	R	1289319271	http://www.wikidata.org/entity/Q981167
+sanford bishop	democratic party	L	249410485	http://www.wikidata.org/entity/Q983428
+g. k. butterfield	democratic party	L	432676344	http://www.wikidata.org/entity/Q983532
+steve womack	republican party	R	234469322	http://www.wikidata.org/entity/Q1029527
+eliot engel	democratic party	L	164007407	http://www.wikidata.org/entity/Q1329618
+john garamendi	democratic party	L	88806753	http://www.wikidata.org/entity/Q1340268
+mike kelly	republican party	R	935368364	http://www.wikidata.org/entity/Q1431761
+gus bilirakis	republican party	R	26051676	http://www.wikidata.org/entity/Q1555314
+phil roe	republican party	R	52503751	http://www.wikidata.org/entity/Q1665842
+alcee hastings	democratic party	L	2433737761	http://www.wikidata.org/entity/Q1758631
+vern buchanan	republican party	R	20467163	http://www.wikidata.org/entity/Q2517229
+lois frankel	democratic party	L	1077121945	http://www.wikidata.org/entity/Q3182451
+jared huffman	democratic party	L	1071102246	http://www.wikidata.org/entity/Q3276717
+norma torres	democratic party	L	2409478435; 236279233	http://www.wikidata.org/entity/Q3343727
+steven horsford	democratic party	L	389840566; 246478393	http://www.wikidata.org/entity/Q3514907
+raul ruiz	democratic party	L	1089859058	http://www.wikidata.org/entity/Q3701994
+andy barr	republican party	R	1089334250	http://www.wikidata.org/entity/Q3828645
+ann wagner	republican party	R	1051446626	http://www.wikidata.org/entity/Q3917251
+marc veasey	democratic party	L	1074129612	http://www.wikidata.org/entity/Q4068811
+josh gottheimer	democratic party	L	815310506596691968	http://www.wikidata.org/entity/Q6288908
+lance gooden	republican party	R	1029094268542099457	http://www.wikidata.org/entity/Q6483406
+lou correa	democratic party	L	815985039485837312	http://www.wikidata.org/entity/Q6685454
+pete aguilar	democratic party	L	3018670151	http://www.wikidata.org/entity/Q7171821
+rashida tlaib	democratic party	L	435331179	http://www.wikidata.org/entity/Q7294939
+ron estes	republican party	R	854715071116849157	http://www.wikidata.org/entity/Q7363747
+tom emmer	republican party	R	2914515430	http://www.wikidata.org/entity/Q7815723
+van taylor	republican party	R	21826591; 1075040139351597056	http://www.wikidata.org/entity/Q7913689
+bruce westerman	republican party	R	2852998461	http://www.wikidata.org/entity/Q16197421
+andy biggs	republican party	R	816652616625168388; 702601370344402944	http://www.wikidata.org/entity/Q16199304
+gary palmer	republican party	R	2861616083	http://www.wikidata.org/entity/Q17386504
+seth moulton	democratic party	L	248495200; 3091316093	http://www.wikidata.org/entity/Q18045052
+ralph abraham	republican party	R	2962891515	http://www.wikidata.org/entity/Q18683775
+lisa blunt rochester	democratic party	L	4049197462	http://www.wikidata.org/entity/Q26899141
+ted budd	republican party	R	1387547723059052547; 817138492614524928	http://www.wikidata.org/entity/Q27733792
+trey hollingsworth	republican party	R	3431000296; 811986281177772032	http://www.wikidata.org/entity/Q27804536
+michael waltz	republican party	R	1082416697380913152	http://www.wikidata.org/entity/Q55386653
+josh harder	democratic party	L	1080851152151953410	http://www.wikidata.org/entity/Q58494468
+joe cunningham	democratic party	L	1080198683713507335; 826589191412862976	http://www.wikidata.org/entity/Q58993183
+steve watkins	republican party	R	1080307235350241280; 129259273	http://www.wikidata.org/entity/Q60428824
+suzanne bonamici	democratic party	L	558769636	http://www.wikidata.org/entity/Q45946
+collin peterson	democratic party	L	115676070	http://www.wikidata.org/entity/Q434458
+rosa delauro	democratic party	L	140519774; 893496121	http://www.wikidata.org/entity/Q434952
+marcy kaptur	democratic party	L	581141508	http://www.wikidata.org/entity/Q436537
+diana degette	democratic party	L	28599820	http://www.wikidata.org/entity/Q437159
+marcia fudge	democratic party	L	1369343440534855681; 153486399; 18829123	http://www.wikidata.org/entity/Q461746
+mike quigley	democratic party	L	56864092	http://www.wikidata.org/entity/Q465767
+lucille roybal-allard	democratic party	L	479872233	http://www.wikidata.org/entity/Q469115
+pete visclosky	democratic party	L	193872188	http://www.wikidata.org/entity/Q514660
+kweisi mfume	democratic party	L	1276209702322438148	http://www.wikidata.org/entity/Q519504
+henry cuellar	democratic party	L	210926192	http://www.wikidata.org/entity/Q539562
+jamie raskin	democratic party	L	806906355214852096	http://www.wikidata.org/entity/Q640835
+austin scott	republican party	R	234797704	http://www.wikidata.org/entity/Q781167
+bill huizenga	republican party	R	233949261	http://www.wikidata.org/entity/Q862199
+bob latta	republican party	R	15394954	http://www.wikidata.org/entity/Q888061
+peter king	republican party	R	18277655	http://www.wikidata.org/entity/Q953554
+jim cooper	democratic party	L	22523087	http://www.wikidata.org/entity/Q973737
+david joyce	republican party	R	976969338	http://www.wikidata.org/entity/Q976778
+tom malinowski	democratic party	L	1080898026418384897; 811239440916054016	http://www.wikidata.org/entity/Q23772336
+neal dunn	republican party	R	815952318487298048; 3433189197	http://www.wikidata.org/entity/Q27733851
+jared golden	democratic party	L	900516768032202752	http://www.wikidata.org/entity/Q41694157
+kelly m. armstrong	republican party	R	1080515866255593472; 964996994623311874	http://www.wikidata.org/entity/Q50362353
+sean casten	democratic party	L	1083472286089396224	http://www.wikidata.org/entity/Q55386655
+joe neguse	democratic party	L	1542372750	http://www.wikidata.org/entity/Q57242006
+jason crow	democratic party	L	1080191866509901826	http://www.wikidata.org/entity/Q58323071
+chip roy	republican party	R	1082790600292925440	http://www.wikidata.org/entity/Q58333615
+katie porter	democratic party	L	1081222837459996672; 617266600	http://www.wikidata.org/entity/Q58754391
+michael guest	republican party	R	953749679166156800; 1081243468327018496	http://www.wikidata.org/entity/Q60428645
+adam kinzinger	republican party	R	219429281	http://www.wikidata.org/entity/Q349955
+john b. larson	democratic party	L	50452197	http://www.wikidata.org/entity/Q357832
+betty mccollum	democratic party	L	516880804; 164414525	http://www.wikidata.org/entity/Q434893
+martha roby	republican party	R	224294785	http://www.wikidata.org/entity/Q439117
+jan schakowsky	democratic party	L	24195214	http://www.wikidata.org/entity/Q440885
+judy chu	democratic party	L	193732179	http://www.wikidata.org/entity/Q460035
+nita lowey	democratic party	L	221792092	http://www.wikidata.org/entity/Q460652
+kay granger	republican party	R	161743731	http://www.wikidata.org/entity/Q468807
+kevin brady	republican party	R	19926675	http://www.wikidata.org/entity/Q472241
+tom mcclintock	republican party	R	50152441	http://www.wikidata.org/entity/Q535887
+rob wittman	republican party	R	15356407	http://www.wikidata.org/entity/Q541251
+robert aderholt	republican party	R	76452765	http://www.wikidata.org/entity/Q672671
+scott tipton	republican party	R	242873057	http://www.wikidata.org/entity/Q782994
+bennie thompson	democratic party	L	82453460	http://www.wikidata.org/entity/Q817877
+brad wenstrup	republican party	R	518644221	http://www.wikidata.org/entity/Q892413
+brett guthrie	republican party	R	114607567	http://www.wikidata.org/entity/Q910794
+david cicilline	democratic party	L	462143773	http://www.wikidata.org/entity/Q938498
+jim sensenbrenner	republican party	R	851621377	http://www.wikidata.org/entity/Q952268
+william lacy clay	democratic party	L	584912320	http://www.wikidata.org/entity/Q959455
+joyce beatty	democratic party	L	1531521632	http://www.wikidata.org/entity/Q976417
+greg walden	republican party	R	32010840	http://www.wikidata.org/entity/Q1397359
+ken buck	republican party	R	2862577383	http://www.wikidata.org/entity/Q1439421
+gregory meeks	democratic party	L	22812754	http://www.wikidata.org/entity/Q1545391
+morgan griffith	republican party	R	234057152	http://www.wikidata.org/entity/Q1684857
+mo brooks	republican party	R	237299871	http://www.wikidata.org/entity/Q1941306
+paul gosar	republican party	R	872148729184362497; 240760644	http://www.wikidata.org/entity/Q2059832
+paul cook	republican party	R	1074412920	http://www.wikidata.org/entity/Q3408766
+juan vargas	democratic party	L	1260172386	http://www.wikidata.org/entity/Q3791701
+dan kildee	democratic party	L	1045110018	http://www.wikidata.org/entity/Q3880272
+george holding	republican party	R	1058460818	http://www.wikidata.org/entity/Q3956828
+roger williams	republican party	R	1077446982	http://www.wikidata.org/entity/Q4014560
+alfred lawson, jr.	democratic party	L	818472418620608512	http://www.wikidata.org/entity/Q4723052
+alma adams	democratic party	L	2916086925	http://www.wikidata.org/entity/Q4733597
+brenda lawrence	democratic party	L	2863006655	http://www.wikidata.org/entity/Q4960712
+jason t. smith	republican party	R	1623308912	http://www.wikidata.org/entity/Q6163589
+john r. curtis	republican party	R	931614483050414080	http://www.wikidata.org/entity/Q6253810
+raja krishnamoorthi	democratic party	L	814179031956488192	http://www.wikidata.org/entity/Q7285471
+tim walberg	republican party	R	237862972	http://www.wikidata.org/entity/Q978618
+mike thompson	democratic party	L	303861808	http://www.wikidata.org/entity/Q1323196
+michael f. doyle	democratic party	L	39249305	http://www.wikidata.org/entity/Q1344200
+paul tonko	democratic party	L	84119348	http://www.wikidata.org/entity/Q1373548
+richard neal	democratic party	L	442824717	http://www.wikidata.org/entity/Q1464697
+doug lamalfa	republican party	R	1069124515	http://www.wikidata.org/entity/Q1703840
+joe kennedy iii	democratic party	L	1055907624	http://www.wikidata.org/entity/Q1707784
+jackie walorski	republican party	R	1065995022	http://www.wikidata.org/entity/Q3157413
+doug collins	republican party	R	1060487274	http://www.wikidata.org/entity/Q3162841
+eric swalwell	democratic party	L	942156122; 377609596	http://www.wikidata.org/entity/Q3466996
+dennis heck	democratic party	L	1068499286	http://www.wikidata.org/entity/Q4068793
+adriano espaillat	democratic party	L	817076257770835968	http://www.wikidata.org/entity/Q4685569
+anthony g. brown	democratic party	L	823552974253342721	http://www.wikidata.org/entity/Q4772558
+christopher jacobs	republican party	R	1129376438698807296	http://www.wikidata.org/entity/Q5112625
+david rouzer	republican party	R	127941167	http://www.wikidata.org/entity/Q5239255
+francis rooney	republican party	R	816111677917851649	http://www.wikidata.org/entity/Q5482337
+greg stanton	democratic party	L	1080885078425784320; 218292287	http://www.wikidata.org/entity/Q5606289
+jody hice	republican party	R	2975091705	http://www.wikidata.org/entity/Q6208081
+mike bost	republican party	R	2964877294	http://www.wikidata.org/entity/Q6846090
+pramila jayapal	democratic party	L	815733290955112448	http://www.wikidata.org/entity/Q18978140
+roger marshall	republican party	R	1240107944	http://www.wikidata.org/entity/Q27923290
+mikie sherrill	democratic party	L	1577754348; 1080569698536878081	http://www.wikidata.org/entity/Q47087146
+jim baird	republican party	R	123563657	http://www.wikidata.org/entity/Q48813213
+veronica escobar	democratic party	L	1075517806551154689; 38960144	http://www.wikidata.org/entity/Q52274267
+mary gay scanlon	democratic party	L	1067541214671577093	http://www.wikidata.org/entity/Q54611716
+max rose	democratic party	L	1078692057940742144; 892491627088011264	http://www.wikidata.org/entity/Q56046860
+xochitl torres small	democratic party	L	1080830346915209216; 427872569	http://www.wikidata.org/entity/Q58399761
+antonio delgado	democratic party	L	829061809135030272; 1080485692298444800	http://www.wikidata.org/entity/Q60428696
+john joyce	republican party	R	1082311988926124036	http://www.wikidata.org/entity/Q60428839
+john lewis	democratic party	L	29450962	http://www.wikidata.org/entity/Q45380
+nancy pelosi	democratic party	L	2461810448; 15764644	http://www.wikidata.org/entity/Q170581
+jackie speier	democratic party	L	24913074	http://www.wikidata.org/entity/Q218544
+barbara lee	democratic party	L	248735463	http://www.wikidata.org/entity/Q289317
+john carter	republican party	R	18030431	http://www.wikidata.org/entity/Q369814
+mike turner	republican party	R	51228911	http://www.wikidata.org/entity/Q505722
+steve chabot	republican party	R	237750442	http://www.wikidata.org/entity/Q506694
+dan lipinski	democratic party	L	1009269193	http://www.wikidata.org/entity/Q518424
+chuck fleischmann	republican party	R	235190657	http://www.wikidata.org/entity/Q521959
+steve king	republican party	R	48117116	http://www.wikidata.org/entity/Q749710
+mario díaz-balart	republican party	R	37094727	http://www.wikidata.org/entity/Q767270
+billy long	republican party	R	1444015610	http://www.wikidata.org/entity/Q863171
+larry bucshon	republican party	R	234812598	http://www.wikidata.org/entity/Q944286
+raúl grijalva	democratic party	L	28602948	http://www.wikidata.org/entity/Q946606
+frank pallone	democratic party	L	31801993; 1265423480	http://www.wikidata.org/entity/Q965289
+hank johnson	democratic party	L	24745957	http://www.wikidata.org/entity/Q983537
+john sarbanes	democratic party	L	364415553	http://www.wikidata.org/entity/Q984509
+jeff duncan	republican party	R	240393970	http://www.wikidata.org/entity/Q1027026
+joaquín castro	democratic party	L	231510077	http://www.wikidata.org/entity/Q1167934
+emanuel cleaver	democratic party	L	163570705	http://www.wikidata.org/entity/Q1334654
+jerry mcnerney	democratic party	L	385429543	http://www.wikidata.org/entity/Q1344743
+tom graves	republican party	R	190328374	http://www.wikidata.org/entity/Q1647301
+jim himes	democratic party	L	31611298	http://www.wikidata.org/entity/Q1689111
+pete olson	republican party	R	20053279	http://www.wikidata.org/entity/Q2073303
+scott desjarlais	republican party	R	235312723	http://www.wikidata.org/entity/Q2260839
+brad schneider	democratic party	L	1071840474; 278005891	http://www.wikidata.org/entity/Q2923426
+don beyer	democratic party	L	2962868158	http://www.wikidata.org/entity/Q3036086
+ted yoho	republican party	R	1071900114	http://www.wikidata.org/entity/Q3090476
+mark meadows	republican party	R	975198558461800449	http://www.wikidata.org/entity/Q3956796
+andy levin	democratic party	L	1080277407867772930	http://www.wikidata.org/entity/Q4760938
+ben mcadams	democratic party	L	196362083	http://www.wikidata.org/entity/Q4886138
+bonnie watson coleman	democratic party	L	2968451607	http://www.wikidata.org/entity/Q4942457
+chris pappas	democratic party	L	1067748650485497862; 574799823	http://www.wikidata.org/entity/Q5107684
+donald norcross	democratic party	L	3122099613	http://www.wikidata.org/entity/Q5294942
+elizabeth cheney	republican party	R	816719802328715264; 98471035	http://www.wikidata.org/entity/Q5362573
+glenn grothman	republican party	R	2976606250	http://www.wikidata.org/entity/Q5568836
+greg gianforte	republican party	R	3420965229	http://www.wikidata.org/entity/Q5605607
+jeff van drew	democratic party	L	1083469084648505344	http://www.wikidata.org/entity/Q6175202
+joseph morelle	democratic party	L	1064595993222615040; 977247448820305920	http://www.wikidata.org/entity/Q6285623
+mark desaulnier	democratic party	L	2968007206	http://www.wikidata.org/entity/Q6767311
+russ fulcher	republican party	R	172944579	http://www.wikidata.org/entity/Q7381134
+john moolenaar	republican party	R	2696643955	http://www.wikidata.org/entity/Q16194212
+brian babin	republican party	R	2929491549	http://www.wikidata.org/entity/Q16979824
+john ratcliffe	republican party	R	2847221717	http://www.wikidata.org/entity/Q16980175
+garret graves	republican party	R	2951574214	http://www.wikidata.org/entity/Q18686454
+abigail spanberger	democratic party	L	1078771401497161728; 882958562296819714	http://www.wikidata.org/entity/Q55603085
+ben cline	republican party	R	40264497	http://www.wikidata.org/entity/Q4885439
+amata coleman radewagen	republican party	R	19447958; 3026622545	http://www.wikidata.org/entity/Q18684027
+stacey plaskett	democratic party	L	569344237; 2724095695	http://www.wikidata.org/entity/Q18739104
+michael san nicolas	democratic party	L	346509049	http://www.wikidata.org/entity/Q16221559
+eleanor holmes norton	democratic party	L	23600262	http://www.wikidata.org/entity/Q461649
+gregorio sablan	democratic party	L	926446070812602371	http://www.wikidata.org/entity/Q3116336
+ben sasse	republican party	R	2962923040	http://www.wikidata.org/entity/Q16192221
+mike braun	republican party	R	1080870981877534720; 1861019372	http://www.wikidata.org/entity/Q42804470
+mitt romney	republican party	R	50055701	http://www.wikidata.org/entity/Q4496
+todd young	republican party	R	234128524; 59969802	http://www.wikidata.org/entity/Q25483
+tammy baldwin	democratic party	L	87510313; 1074518754	http://www.wikidata.org/entity/Q40628
+debbie stabenow	democratic party	L	76456274	http://www.wikidata.org/entity/Q241092
+chuck schumer	democratic party	L	17494010; 1872999342	http://www.wikidata.org/entity/Q380900
+sheldon whitehouse	democratic party	L	242555999	http://www.wikidata.org/entity/Q652066
+chris murphy	democratic party	L	150078976	http://www.wikidata.org/entity/Q1077594
+chris van hollen	democratic party	L	18137749; 3067974778	http://www.wikidata.org/entity/Q1077819
+gary peters	democratic party	L	236511574	http://www.wikidata.org/entity/Q1494930
+kyrsten sinema	democratic party	L	20747881; 1080844782	http://www.wikidata.org/entity/Q1556541
+dianne feinstein	democratic party	L	476256944	http://www.wikidata.org/entity/Q230733
+mitch mcconnell	republican party	R	339822881; 1249982359	http://www.wikidata.org/entity/Q355522
+roger wicker	republican party	R	264219447	http://www.wikidata.org/entity/Q390491
+lamar alexander	republican party	R	76649729	http://www.wikidata.org/entity/Q419976
+marsha blackburn	republican party	R	278145569	http://www.wikidata.org/entity/Q458971
+tim scott	republican party	R	217543151	http://www.wikidata.org/entity/Q561315
+mike lee	republican party	R	88784440; 1551266822460162051	http://www.wikidata.org/entity/Q627098
+jim risch	republican party	R	1096059529	http://www.wikidata.org/entity/Q721871
+bill cassidy	republican party	R	2479160868; 55677432	http://www.wikidata.org/entity/Q861999
+robert jones portman	republican party	R	2612307559; 18915145	http://www.wikidata.org/entity/Q926069
+tammy duckworth	democratic party	L	1058520120; 328679423	http://www.wikidata.org/entity/Q3036410
+cindy hyde-smith	republican party	R	262192574; 983348251972816896	http://www.wikidata.org/entity/Q5120540
+joni ernst	republican party	R	1383059977; 2856787757	http://www.wikidata.org/entity/Q13475242
+doug jones	democratic party	L	941080085121175552	http://www.wikidata.org/entity/Q30122825
+mazie hirono	democratic party	L	92186819; 169198625	http://www.wikidata.org/entity/Q16476
+kirsten gillibrand	democratic party	L	72198806	http://www.wikidata.org/entity/Q22222
+james lankford	republican party	R	225921757	http://www.wikidata.org/entity/Q45940
+patrick leahy	democratic party	L	242836537	http://www.wikidata.org/entity/Q59315
+patty murray	democratic party	L	293131808; 158470209	http://www.wikidata.org/entity/Q258825
+mark warner	democratic party	L	7429102	http://www.wikidata.org/entity/Q453893
+shelley moore capito	republican party	R	193794406	http://www.wikidata.org/entity/Q459618
+john thune	republican party	R	296361085; 26533227	http://www.wikidata.org/entity/Q462981
+jack reed	democratic party	L	486694111	http://www.wikidata.org/entity/Q528979
+joe manchin	democratic party	L	234374703	http://www.wikidata.org/entity/Q538868
+mike rounds	republican party	R	2955485182	http://www.wikidata.org/entity/Q722503
+jim inhofe	republican party	R	7270292	http://www.wikidata.org/entity/Q723134
+mike crapo	republican party	R	413160266; 600463589	http://www.wikidata.org/entity/Q734319
+bob casey jr.	democratic party	L	94154021; 171598736	http://www.wikidata.org/entity/Q887841
+jerry moran	republican party	R	18632666	http://www.wikidata.org/entity/Q1365787
+ted cruz	republican party	R	23022687; 1074480192	http://www.wikidata.org/entity/Q2036942
+dan sullivan	republican party	R	2891210047	http://www.wikidata.org/entity/Q5218668
+martha mcsally	republican party	R	482450423; 2964949642	http://www.wikidata.org/entity/Q6774492
+david perdue	republican party	R	2863210809	http://www.wikidata.org/entity/Q17402717
+tina smith	democratic party	L	941000686275387392; 47724293	http://www.wikidata.org/entity/Q18631509
+amy klobuchar	democratic party	L	33537967	http://www.wikidata.org/entity/Q22237
+lisa murkowski	republican party	R	18061669	http://www.wikidata.org/entity/Q22360
+richard m. burr	republican party	R	21157904	http://www.wikidata.org/entity/Q331278
+tim kaine	democratic party	L	172858784	http://www.wikidata.org/entity/Q359888
+tom carper	democratic party	L	249787913	http://www.wikidata.org/entity/Q457432
+ben cardin	democratic party	L	109071031	http://www.wikidata.org/entity/Q723295
+jeff merkley	democratic party	L	29201047	http://www.wikidata.org/entity/Q1368405
+brian schatz	democratic party	L	47747074; 1262099252; 1284467173	http://www.wikidata.org/entity/Q1827902
+josh hawley	republican party	R	2352629311	http://www.wikidata.org/entity/Q23020745
+jacky rosen	democratic party	L	4749863113; 818554054309715969	http://www.wikidata.org/entity/Q27825033
+john hoeven	republican party	R	382791093	http://www.wikidata.org/entity/Q374762
+elizabeth warren	democratic party	L	970207298; 357606935	http://www.wikidata.org/entity/Q434706
+dick durbin	democratic party	L	247334603; 308794407	http://www.wikidata.org/entity/Q434804
+michael bennet	democratic party	L	224285242; 45645232	http://www.wikidata.org/entity/Q554792
+martin heinrich	democratic party	L	1099199839	http://www.wikidata.org/entity/Q565374
+ronald johnson	republican party	R	233737858	http://www.wikidata.org/entity/Q970272
+roy blunt	republican party	R	389554914; 21269970	http://www.wikidata.org/entity/Q1525924
+richard blumenthal	democratic party	L	278124059; 102477372	http://www.wikidata.org/entity/Q2023708
+kamala harris	democratic party	L	803694179079458816; 30354991	http://www.wikidata.org/entity/Q10853588
+mike enzi	republican party	R	291756142	http://www.wikidata.org/entity/Q432431
+rick scott	republican party	R	131546062; 306389855	http://www.wikidata.org/entity/Q439729
+rand paul	republican party	R	216881337	http://www.wikidata.org/entity/Q463557
+richard shelby	republican party	R	21111098	http://www.wikidata.org/entity/Q472254
+chuck grassley	republican party	R	10615232	http://www.wikidata.org/entity/Q529294
+john cornyn	republican party	R	13218102	http://www.wikidata.org/entity/Q719568
+robert menendez	democratic party	L	18695134	http://www.wikidata.org/entity/Q888132
+pat toomey	republican party	R	221162525	http://www.wikidata.org/entity/Q971308
+ed markey	democratic party	L	21406834	http://www.wikidata.org/entity/Q1282411
+john boozman	republican party	R	111671288; 5558312	http://www.wikidata.org/entity/Q1344707
+tom cotton	republican party	R	968650362; 343041182	http://www.wikidata.org/entity/Q3090307
+thom tillis	republican party	R	2964174789	http://www.wikidata.org/entity/Q7786750
+kelly loeffler	republican party	R	29495695	http://www.wikidata.org/entity/Q76570207
+lindsey graham	republican party	R	432895323	http://www.wikidata.org/entity/Q22212
+maria cantwell	democratic party	L	117501995	http://www.wikidata.org/entity/Q22250
+jeanne shaheen	democratic party	L	109287731	http://www.wikidata.org/entity/Q270316
+sherrod brown	democratic party	L	43910797	http://www.wikidata.org/entity/Q381880
+jon tester	democratic party	L	515822213	http://www.wikidata.org/entity/Q529351
+pat roberts	republican party	R	75364211	http://www.wikidata.org/entity/Q538375
+john barrasso	republican party	R	202206694	http://www.wikidata.org/entity/Q720521
+tom udall	democratic party	L	60828944	http://www.wikidata.org/entity/Q957690
+cory booker	democratic party	L	15808765	http://www.wikidata.org/entity/Q1135767
+deb fischer	republican party	R	1071402577	http://www.wikidata.org/entity/Q2580649
+steve daines	republican party	R	11651202	http://www.wikidata.org/entity/Q3200900
+kevin cramer	republican party	R	28267055	http://www.wikidata.org/entity/Q3957020
+john neely kennedy	republican party	R	26594419; 816683274076614656	http://www.wikidata.org/entity/Q6250211
+susan collins	republican party	R	19726613	http://www.wikidata.org/entity/Q22279
+maggie hassan	democratic party	L	361569788; 946549322	http://www.wikidata.org/entity/Q24053
+marco rubio	republican party	R	15745368	http://www.wikidata.org/entity/Q324546
+ron wyden	democratic party	L	250188760; 292495654; 122124607	http://www.wikidata.org/entity/Q529344
+chris coons	democratic party	L	435500714; 15324851	http://www.wikidata.org/entity/Q923242
+cory gardner	republican party	R	20879626; 235217558	http://www.wikidata.org/entity/Q1135774
+catherine cortez masto	democratic party	L	811313565760163844; 3145735852	http://www.wikidata.org/entity/Q5052604
+joe biden	democratic party	L	1349149096909668363; 325830217; 939091
+bernie sanders	democratic party	L	216776631; 29442313
+tulsi gabbard	democratic party	L	26637348
+elizabeth warren	democratic party	L	970207298; 357606935
+michael bloomberg	democratic party	L	16581604
+amy klobuchar	democratic party	L	33537967
+pete buttigieg	democratic party	L	1356958547603513346; 226222147
+tom steyer	democratic party	L	949934436
+deval patrick	democratic party	L	61636488
+michael bennet	democratic party	L	45645232; 224285242
+andrew yang	democratic party	L	2228878592
+nancy pelosi	democratic party	L	2461810448; 15764644
+donald trump	republican party	R	25073877; 822215679726100480
+bill weld	republican party	R	734783792502575105
+rocky de la fuente	republican party	R	3761576953
+joe walsh	republican party	R	236487888
+mark sanford	republican party	R	1499993378
+mike pence	republican party	R	803694179079458816; 818910970567344128; 15985455
+kay ivey	republican party	R	19668491
+mike dunleavy	republican party	R	1060655470178787328
+doug ducey	republican party	R	20217019
+asa hutchinson	republican party	R	269992801
+gavin newsom	democratic party	L	11347122
+jared polis	democratic party	L	15361570; 463132556; 728344273620344832; 600422073
+ned lamont	democratic party	L	1076293903723233280; 24972208
+john carney	democratic party	L	237770636
+ron desantis	republican party	R	1058807868; 487297085
+brian kemp	republican party	R	47437206
+david ige	democratic party	L	2916915026
+brad little	republican party	R	41266395
+j. b. pritzker	democratic party	L	45550693; 1084817523378454529
+eric holcomb	republican party	R	3118589409; 4919082864
+kim reynolds	republican party	R	31591773
+laura kelly	democratic party	L	364864453; 1040058893907513344
+andy beshear	democratic party	L	2991360032
+john bel edwards	democratic party	L	1217037967
+janet mills	democratic party	L	884476034506248194; 1083795319027089408
+larry hogan	republican party	R	2987671552; 280121510
+charlie baker	republican party	R	18023868; 54990588
+gretchen whitmer	democratic party	L	1093619068148559872; 102071743
+tim walz	democratic party	L	85726335; 1064603540956565504
+tate reeves	republican party	R	259341329
+mike parson	republican party	R	74522684; 1003672320781807616
+steve bullock	democratic party	L	111721601
+pete ricketts	republican party	R	2891165960
+steve sisolak	democratic party	L	1080586433088258048; 3124524385
+chris sununu	republican party	R	95943434; 816282120767291392
+phil murphy	democratic party	L	948946378939609089; 3438358100
+michelle lujan grisham	democratic party	L	368472546; 1070083706822438912
+andrew cuomo	democratic party	L	2513761008; 232268199
+roy cooper	democratic party	L	1712960918
+doug burgum	republican party	R	518700708
+mike dewine	republican party	R	30887511
+kevin stitt	republican party	R	865210877678686208
+kate brown	democratic party	L	3023272478
+tom wolf	democratic party	L	2978837542
+gina raimondo	democratic party	L	113795716
+henry mcmaster	republican party	R	16335288
+kristi noem	republican party	R	114388293; 235251868
+bill lee	republican party	R	823248562851037185; 1084924525232513025
+greg abbott	republican party	R	19291441; 90651198
+gary herbert	republican party	R	111530769; 60688326
+phil scott	republican party	R	545107258
+ralph northam	democratic party	L	104198706; 331036671
+jay inslee	democratic party	L	1077214808
+jim justice	republican party	R	607332953
+tony evers	democratic party	L	234896532; 816819836105949184
+mark gordon	republican party	R	1081334766924754944; 22266893

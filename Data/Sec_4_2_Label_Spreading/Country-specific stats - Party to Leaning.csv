@@ -1,0 +1,235 @@
+Country,Party,five-point scale (obtained from Wiki),collapse to three-point scale,#Politicians
+US,Republican Party,,R,251
+US,Democratic Party,,L,279
+US,Independent Politician,,?,2
+UK,Plaid Cymru,,L,5
+UK,Speaker of the House of Commons,,L,1
+UK,Labour Party,,L,178
+UK,Democratic Unionist Party,,R,8
+UK,Scottish National Party,,L,45
+UK,Labour Co-operative,,L,23
+UK,Social Democratic and Labour Party,,L,2
+UK,Sinn Féin,,L,7
+UK,Alliance Party of Northern Ireland,,L,1
+UK,Non-affiliated members of the House of Lords,,?,2
+UK,Conservative Party,,R,343
+UK,Brexit Party,,R,1
+UK,Liberal Democrats,,L,16
+UK,Green Party of England and Wales,,L,3
+UK,crossbencher,,C,9
+UK,Independent Politician,,?,5
+CA,Progressive Conservative Party of Canada,,R,3
+CA,Independent Conservative,,R,1
+CA,Progressive Senate Group,,?,2
+CA,Canadian Alliance,,R,1
+CA,Bloc Québécois,,L,7
+CA,Independent Senators Group,,?,15
+CA,Green Party of Canada,,?,1
+CA,Senate Liberal Caucus,,L,9
+CA,Liberal Party of Canada,,L,105
+CA,Progressive Conservative Association of Alberta,,R,1
+CA,New Democratic Party,,L,14
+CA,Conservative Party of Canada,,R,63
+CA,Independent Politician,,?,2
+AU,Australian Labor Party,,L,78
+AU,Australian Greens,,L,11
+AU,Centre Alliance,,C,2
+AU,Katter's Australian Party,,R,1
+AU,United Australia Party,,R,1
+AU,Coalition,,R,75
+AU,Rex Patrick Team,,Unknown,1
+AU,Jacqui Lambie Network,,Big Tent,1
+AU,One Nation,,R,2
+AU,Independent Politician,,?,2
+NZ,New Zealand National Party,,R,22
+NZ,Green Party of Aotearoa New Zealand,,L,7
+NZ,New Zealand Labour Party,,L,22
+NZ,ACT New Zealand,,R,1
+NZ,New Zealand First,,R ,5
+NZ,Independent Politician,,?,1
+FR,Progressive Unitary Movement,,L,1
+FR,Union of Democrats and Independents,,R,15
+FR,Alliance solidaire des Français de l’étranger,,R,1
+FR,Valeur absolue,,R ,1
+FR,Rassemblement Bleu Marine,,R,1
+FR,Socialist Radical Citizen and Miscellaneous Left,,L,28
+FR,Non-Attached Members (France),,R,1
+FR,Agir,,R,2
+FR,Libertés and Territories Group,,?,18
+FR,United Republic,,R,1
+FR,La France Insoumise group,,L,17
+FR,Centre of Social Democrats,,C,1
+FR,Les Centristes,,R,3
+FR,Europe Ecology – The Greens,,L,8
+FR,Reconquête!,,R,2
+FR,Citizen and Republican Movement,,L,1
+FR,French Communist Party,,L,11
+FR,La République En Marche group,,C,2
+FR,Renaissance group,,C,279
+FR,La République En Marche,,C,14
+FR,European Democratic and Social Rally,,L,1
+FR,Group Centrist Union,,?,11
+FR,The Greens,,L,2
+FR,Radical Party,,L,6
+FR,Liberal Democracy,,R,5
+FR,Tahoera'a Huiraatira,,R,1
+FR,Martinican Progressive Party,,L ,1
+FR,Unified Socialist Party,,L,4
+FR,Revolutionary Communist League,,L,1
+FR,Union for French Democracy,,R,19
+FR,UDI and Independents group,,R,24
+FR,Southern League,,R,1
+FR,Administrative Meeting for Senators not on the list of another Group,,R,3
+FR,Democratic and Republican Left,,L,14
+FR,French Section of the Workers' International,,L,2
+FR,The Republicans,,R,47
+FR,Ecology Democracy Solidarity,,L,2
+FR,Occident,,R,1
+FR,Guianese Socialist Party,,L,1
+FR,Libres,,R,1
+FR,Republican Party,,R,8
+FR,Union for a Popular Movement,,R,70
+FR,Agir ensemble,,R,2
+FR,Radical Party of the Left,,L,8
+FR,Socialist Group in the Senate of France,,L,19
+FR,Democratic European Force,,R,1
+FR,National Rally,,R,8
+FR,France Arise,,R,1
+FR,Socialist Party,,L,76
+FR,Republicain Refoundation,,L,1
+FR,miscellaneous right,,R,2
+FR,Communist Group,,L,3
+FR,Radical Movement,,C,2
+FR,Democratic Movement and democrats affiliated group,,R,48
+FR,Ecologist group,,L,3
+FR,The Republicans group,,R,109
+FR,The New Democrats,,L,1
+FR,Rally for the Republic,,R,19
+FR,Ordre Nouveau,,R,1
+FR,Independent Politician,,?,1
+DE,SPD Bundestag fraction,,L,118
+DE,Green Party fraction,,L,65
+DE,The Left,,L,1
+DE,Bundestag fraction Die Linke,,L,60
+DE,Christian Democratic Union,,R,6
+DE,FDP Bundestag fraction,,R,76
+DE,Party of Democratic Socialism,,L,1
+DE,AfD Bundestag fraction,,R,75
+DE,Social Democratic Party of Germany,,L,4
+DE,CDU/CSU Bundestag fraction,,R,154
+DE,Independent Politician,,?,3
+ES,Junts per Catalunya,,R,3
+ES,Republican Left of Catalonia,,L,4
+ES,Adelante Andalucía,,L,1
+ES,Euskal Herritarrok,,L,1
+ES,Confederal Parliamentary Group of Unidas Podemos-In Comú Podem-Galicia in Común,,L,33
+ES,United and Alternative Left,,L,1
+ES,Andalusian Spring,,L,1
+ES,Andalusian Party,,L,1
+ES,Catalunya en Comú,,L,1
+ES,Communists of Catalonia,,L,1
+ES,Parliamentary Group Citizens,,R,10
+ES,Galician Nationalist Bloc,,L,1
+ES,People's Party of Catalonia Parliamentary Subgroup,,R,5
+ES,Valencian People's Initiative,,L,1
+ES,Unified Socialist Party of Catalonia,,L,1
+ES,Herri Batasuna,,L,1
+ES,Socialist Party of the Valencian Country,,L,1
+ES,Podemos,,L,2
+ES,Democratic Convergence of Catalonia,,R,4
+ES,Socialist parliamentary group,,L,97
+ES,Spanish Socialist Workers' Party,,L,14
+ES,Parliamentary group EH Bildu,,L,2
+ES,VOX Parliamentary Group,,R,44
+ES,Socialists and United to Advance Parliamentary Group,,L,17
+ES,Republican Parliamentary Group,,L,42
+ES,Popular Unity Candidates - Constituent Call Parliamentary Subgroup,,L,4
+ES,Grupo Parlamentario Plural,,?,15
+ES,Basque Parliamentary Group (EAJ-PNV),,C,5
+ES,Union of the Democratic Centre,,R,1
+ES,Ciudadanos,,R,2
+ES,Basque Nationalist Party,,C,4
+ES,Initiative for Catalonia Greens,,L,1
+ES,Catalunya en Comú Podem Parliamentary Group,,L,8
+ES,Socialists' Party of Catalonia,,L,1
+ES,United Left of the Valencian Country,,L,1
+ES,Eusko Alkartasuna,,L,1
+ES,Party of the Communists of Catalonia,,L,1
+ES,Popular parliamentary group,,R,72
+ES,People's Alliance,,R,1
+ES,Junts per Catalunya Parliamentary Group,,R,33
+ES,En Comú Podem,,L,1
+ES,Euskal Herria Bildu,,L,1
+ES,Citizens Group of the Parliament of Catalonia,,R,36
+ES,Mixed Parliamentary Group,,?,5
+ES,Partit Nacionalista de Catalunya,,R,1
+ES,People's Socialist Revolutionary Party,,L,1
+ES,People's Party,,R,13
+ES,Catalan European Democratic Party,,R,4
+ES,Andalusian People's Party,,R,1
+ES,Castilian Left,,L,1
+ES,Communist Party of Spain,,L,1
+ES,Elkarrekin Podemos,,L,1
+ES,Leonese People's Union,,L,1
+ES,Más Madrid,,L,12
+ES,Podemos Castile and León,,L,2
+ES,Spanish Socialist Workers' Party of Andalusia,,L,1
+ES,Unidas Podemos,,L,4
+ES,"Union, Progress and Democracy",,L,1
+ES,United Left,,L,4
+ES,Verdes Equo,,L,1
+ES,Vox,,R,4
+SW,Christian Democrats,,R,20
+SW,Green Party,,L,15
+SW,Sweden Democrats,,R,44
+SW,Liberals,,R,14
+SW,Swedish Social Democratic Party,,L,71
+SW,Left Party,,L,23
+SW,Moderate Party,,R,63
+SW,Centre Party,,R,26
+AR,Workers' Left Front - Unity,,L,2
+AR,Republican Proposal,,R,11
+AR,Federal Peronism,,R,1
+AR,Renewal Front,,C,2
+AR,Recreate for Growth,,R,1
+AR,Cambiemos,,R,22
+AR,Front for Victory-PJ,,L,1
+AR,GEN,,L,1
+AR,Cambiemos para el Bicentenario,,R,1
+AR,Radical Civic Union,,C,6
+AR,Justicialist Party,,L,16
+AR,Unidad Porteña,,L,1
+AR,Intransigent Party,,L,1
+AR,Vamos Juntos,,R,5
+AR,Front for a Country in Solidarity,,L,1
+AR,Juntos por el Cambio,,R,2
+AR,Unión por la Libertad,,R,1
+AR,1País,,C,1
+AR,Party of Social Concord,,R,3
+AR,Citizen's Unity,,L,6
+AR,Juntos Somos Río Negro,,L,1
+AR,Frente Cívico,,L,1
+AR,Unión Celeste y Blanco,,R,1
+AR,Integration and Development Movement,,C,1
+AR,Kolina,,L,1
+AR,Civic Coalition ARI,,C,1
+AR,Front for Victory,,L,14
+AR,Patagonian Social Party,,L,1
+AR,Frente de Todos,,L,7
+AR,Socialist Party,,L,4
+AR,Union for Córdoba,,C,2
+AR,Broad Front,,L,1
+AR,Alianza Cambiemos,,R,1
+AR,Justicialist Front,,L,1
+AR,La Cámpora,,L,1
+AR,Self-determination and Freedom,,L,1
+AR,Peronism,,R,2
+TR,Republican People's Party,,L,121
+TR,Felicity Party,,R,1
+TR,Nationalist Movement Party,,R,44
+TR,Workers' Party of Turkey,,L,1
+TR,Peoples' Democratic Party,,L,49
+TR,İYİ Party,,R,21
+TR,Justice and Development Party,,R,244
+TR,Great Unity Party,,R,1
+TR,Independent Politician,,?,7

@@ -1,0 +1,18 @@
+Joe Biden, Democratic Party, Left, 1349149096909668363, 325830217, 939091
+Bernie Sanders, Democratic Party, Left, 216776631, 29442313
+Tulsi Gabbard, Democratic Party, Left, 26637348
+Elizabeth Warren, Democratic Party, Left, 970207298, 357606935
+Michael Bloomberg, Democratic Party, Left, 16581604
+Amy Klobuchar, Democratic Party, Left, 33537967
+Pete Buttigieg, Democratic Party, Left, 1356958547603513346, 226222147
+Tom Steyer, Democratic Party, Left, 949934436
+Deval Patrick, Democratic Party, Left, 61636488
+Michael Bennet, Democratic Party, Left, 45645232, 224285242
+Andrew Yang, Democratic Party, Left, 2228878592
+Nancy Pelosi, Democratic Party, Left, 2461810448, 15764644
+Donald Trump, Republican Party, Right, 25073877, 822215679726100480
+Bill Weld, Republican Party, Right, 734783792502575105
+Rocky De La Fuente, Republican Party, Right, 3761576953
+Joe Walsh, Republican Party, Right, 236487888
+Mark Sanford, Republican Party, Right, 1499993378
+Mike Pence, Republican Party, Right, 803694179079458816, 818910970567344128, 15985455

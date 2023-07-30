@@ -1,0 +1,574 @@
+florian oßner	cdu/csu bundestag fraction	R	1294532364	http://www.wikidata.org/entity/Q14943430
+karamba diaby	spd bundestag fraction	L	316355056	http://www.wikidata.org/entity/Q14943496
+tino sorge	cdu/csu bundestag fraction	R	110385973	http://www.wikidata.org/entity/Q14946180
+karsten möring	cdu/csu bundestag fraction	R	1099159964	http://www.wikidata.org/entity/Q15008648
+marie-agnes strack-zimmermann	fdp bundestag fraction	R	3047392319	http://www.wikidata.org/entity/Q15391841
+gabi weber	spd bundestag fraction	L	992808439	http://www.wikidata.org/entity/Q15433061
+hubertus zdebel	bundestag fraction die linke	L	4557858142	http://www.wikidata.org/entity/Q15434412
+andreas lenz	cdu/csu bundestag fraction	R	3635730797	http://www.wikidata.org/entity/Q15783327
+bernd rützel	spd bundestag fraction	L	1113004743733993472	http://www.wikidata.org/entity/Q15792620
+matthias gastel	green party fraction	L	727782559	http://www.wikidata.org/entity/Q15795921
+gisela manderla	cdu/csu bundestag fraction	R	1095781218	http://www.wikidata.org/entity/Q15812348
+saskia esken	spd bundestag fraction	L	1423622834	http://www.wikidata.org/entity/Q15813082
+martina stamm-fibich	spd bundestag fraction	L	4017796049	http://www.wikidata.org/entity/Q15813133
+marcus held	spd bundestag fraction	L	2860802891	http://www.wikidata.org/entity/Q15813137
+hiltrud lotze	spd bundestag fraction	L	38272947	http://www.wikidata.org/entity/Q15813172
+kai whittaker	cdu/csu bundestag fraction	R	2479436480	http://www.wikidata.org/entity/Q15813781
+achim kessler	bundestag fraction die linke	L	988516358236360704	http://www.wikidata.org/entity/Q39678866
+frank pasemann	afd bundestag fraction	R	1490376331	http://www.wikidata.org/entity/Q40470241
+jürgen pohl	afd bundestag fraction	R	175071092	http://www.wikidata.org/entity/Q40471077
+uwe kamann	afd bundestag fraction	R	2546790747	http://www.wikidata.org/entity/Q40874199
+tino chrupalla	afd bundestag fraction	R	797137333820784640	http://www.wikidata.org/entity/Q40895143
+marc bernhard	afd bundestag fraction	R	805823950253150208	http://www.wikidata.org/entity/Q40976001
+jürgen braun	afd bundestag fraction	R	917756296555892736	http://www.wikidata.org/entity/Q40994438
+michael kießling	cdu/csu bundestag fraction	R	730314294	http://www.wikidata.org/entity/Q40998109
+nicole bauer	fdp bundestag fraction	R	1061873979760263168	http://www.wikidata.org/entity/Q40998121
+stefan schmidt	green party fraction	L	930725836482928640	http://www.wikidata.org/entity/Q40998233
+simone barrientos krauss	bundestag fraction die linke	L	176104376	http://www.wikidata.org/entity/Q40998271
+thomas erndl	cdu/csu bundestag fraction	R	2192588903	http://www.wikidata.org/entity/Q40998551
+zaklin nastic	bundestag fraction die linke	L	2527808433	http://www.wikidata.org/entity/Q40998599
+joe weingarten	social democratic party of germany	L	811960243353780226	http://www.wikidata.org/entity/Q72837814
+fritz güntzler	christian democratic union	R	779601750789656576	http://www.wikidata.org/entity/Q1466480
+norbert röttgen	christian democratic union	R	1040160799208161280	http://www.wikidata.org/entity/Q61903
+bernd siebert	christian democratic union	R	24674518	http://www.wikidata.org/entity/Q824247
+mechthild rawert	social democratic party of germany	L	37438947	http://www.wikidata.org/entity/Q1632608
+michael leutert	the left; party of democratic socialism	L	93612750	http://www.wikidata.org/entity/Q16433
+karin strenz	christian democratic union	R	66111283	http://www.wikidata.org/entity/Q1729573
+peter tauber	christian democratic union	R	22260144	http://www.wikidata.org/entity/Q124622
+karin maag	christian democratic union	R	1095023450790547457	http://www.wikidata.org/entity/Q1729500
+hermann gröhe	cdu/csu bundestag fraction	R	94363834	http://www.wikidata.org/entity/Q70429
+franziska brantner	green party fraction	L	32323724	http://www.wikidata.org/entity/Q76265
+alexander radwan	cdu/csu bundestag fraction	R	2831760211	http://www.wikidata.org/entity/Q78198
+gitta connemann	cdu/csu bundestag fraction	R	103658778	http://www.wikidata.org/entity/Q103165
+agnieszka brugger	green party fraction	L	172269309	http://www.wikidata.org/entity/Q109309
+kai gehring	green party fraction	L	110368456	http://www.wikidata.org/entity/Q109560
+carsten müller	cdu/csu bundestag fraction	R	53945479	http://www.wikidata.org/entity/Q111620
+rüdiger kruse	cdu/csu bundestag fraction	R	20916357	http://www.wikidata.org/entity/Q121230
+anette kramme	spd bundestag fraction	L	1461705757	http://www.wikidata.org/entity/Q529526
+beate müller-gemmeke	green party fraction	L	53426644	http://www.wikidata.org/entity/Q813168
+christoph de vries	cdu/csu bundestag fraction	R	1193925069476696064	http://www.wikidata.org/entity/Q1086155
+cornelia möhring	bundestag fraction die linke	L	2596171296	http://www.wikidata.org/entity/Q1133381
+daniela wagner	green party fraction	L	874917828436078592	http://www.wikidata.org/entity/Q1163596
+eva högl	spd bundestag fraction	L	35846585	http://www.wikidata.org/entity/Q1379228
+hilde mattheis	spd bundestag fraction	L	115614153	http://www.wikidata.org/entity/Q1411688
+sarah ryglewski	spd bundestag fraction	L	4858227178	http://www.wikidata.org/entity/Q1426157
+hans-joachim fuchtel	cdu/csu bundestag fraction	R	66750542	http://www.wikidata.org/entity/Q1577305
+stephan mayer	cdu/csu bundestag fraction	R	1496859134708310022	http://www.wikidata.org/entity/Q1648387
+ingo gädechens	cdu/csu bundestag fraction	R	1157298670745899014	http://www.wikidata.org/entity/Q1663123
+alexander gauland	afd bundestag fraction	R	914612826928504832	http://www.wikidata.org/entity/Q1670311
+karlheinz busen	fdp bundestag fraction	R	935554963639558145	http://www.wikidata.org/entity/Q1733789
+katja keul	green party fraction	L	959105406416162823	http://www.wikidata.org/entity/Q1736638
+kordula schulz-asche	green party fraction	L	17870195	http://www.wikidata.org/entity/Q1784303
+mechthild heil	cdu/csu bundestag fraction	R	974367631	http://www.wikidata.org/entity/Q1915619
+michael gerdes	spd bundestag fraction	L	2468956470	http://www.wikidata.org/entity/Q1927537
+michael groß	spd bundestag fraction	L	2814949590	http://www.wikidata.org/entity/Q1927604
+oliver kaczmarek	spd bundestag fraction	L	231440493	http://www.wikidata.org/entity/Q2020339
+peter weiß	cdu/csu bundestag fraction	R	54202670	http://www.wikidata.org/entity/Q2078951
+stefan liebich	bundestag fraction die linke	L	1065899292	http://www.wikidata.org/entity/Q2336956
+thomas hacker	fdp bundestag fraction	R	89209507	http://www.wikidata.org/entity/Q2424482
+thomas jurk	spd bundestag fraction	L	1959248485	http://www.wikidata.org/entity/Q2425230
+volkmar klein	cdu/csu bundestag fraction	R	33043294	http://www.wikidata.org/entity/Q2531484
+alexander throm	cdu/csu bundestag fraction	R	829056811974144001	http://www.wikidata.org/entity/Q2643140
+christian haase	cdu/csu bundestag fraction	R	1601699642	http://www.wikidata.org/entity/Q14943656
+sebastian steineke	cdu/csu bundestag fraction	R	277006619	http://www.wikidata.org/entity/Q14944335
+markus paschke	spd bundestag fraction	L	3163499392	http://www.wikidata.org/entity/Q14945677
+matthias bartke	spd bundestag fraction	L	3376953843	http://www.wikidata.org/entity/Q14947864
+florian post	spd bundestag fraction	L	741532130	http://www.wikidata.org/entity/Q15091968
+corinna rüffer	green party fraction	L	1524735194	http://www.wikidata.org/entity/Q15092209
+ulrike bahr	spd bundestag fraction	L	724565991104110592	http://www.wikidata.org/entity/Q15114982
+norbert müller	bundestag fraction die linke	L	4265444913	http://www.wikidata.org/entity/Q15263649
+thomas hitschler	spd bundestag fraction	L	292151515	http://www.wikidata.org/entity/Q15433139
+dagmar schmidt	spd bundestag fraction	L	95905207	http://www.wikidata.org/entity/Q15433815
+sebastian hartmann	spd bundestag fraction	L	1076269195	http://www.wikidata.org/entity/Q15434520
+yvonne magwas	cdu/csu bundestag fraction	R	3852561082	http://www.wikidata.org/entity/Q15647562
+alexander hoffmann	cdu/csu bundestag fraction	R	1193816843519172608	http://www.wikidata.org/entity/Q15782242
+julia verlinden	green party fraction	L	1475734592	http://www.wikidata.org/entity/Q15805255
+matthias hauer	cdu/csu bundestag fraction	R	1158585210	http://www.wikidata.org/entity/Q15813749
+ronja kemmer	cdu/csu bundestag fraction	R	2405039875	http://www.wikidata.org/entity/Q19299319
+ulla ihnen	fdp bundestag fraction	R	997415730051207169	http://www.wikidata.org/entity/Q35975111
+mariana iris harder-kühnel	afd bundestag fraction	R	815699423057637381	http://www.wikidata.org/entity/Q40472081
+christian wirth	afd bundestag fraction	R	920193967937019904	http://www.wikidata.org/entity/Q40473868
+harald weyel	afd bundestag fraction	R	841412635270762496	http://www.wikidata.org/entity/Q40477677
+götz frömming	afd bundestag fraction	R	809895794	http://www.wikidata.org/entity/Q40571929
+christoph neumann	afd bundestag fraction	R	760188355615293440	http://www.wikidata.org/entity/Q40810647
+steffen kotré	afd bundestag fraction	R	912223443231428609	http://www.wikidata.org/entity/Q40846824
+udo hemmelgarn	afd bundestag fraction	R	849060114388705280	http://www.wikidata.org/entity/Q40873836
+hansjörg gerhard georg müller	afd bundestag fraction	R	965591555783430144	http://www.wikidata.org/entity/Q40879872
+claudia schmidtke	cdu/csu bundestag fraction	R	1340469592666324992	http://www.wikidata.org/entity/Q40974933
+uwe witt	afd bundestag fraction	R	4503658823	http://www.wikidata.org/entity/Q40983704
+margit stumpp	green party fraction	L	943082490482262016	http://www.wikidata.org/entity/Q40997607
+gökay akbulut	bundestag fraction die linke	L	800457587510476800	http://www.wikidata.org/entity/Q40997638
+manuela rottmann	green party fraction	L	984735466783232000	http://www.wikidata.org/entity/Q40998264
+ulrike schielke-ziesing	afd bundestag fraction	R	866924100	http://www.wikidata.org/entity/Q40998741
+markus herbrand	fdp bundestag fraction	R	997138767763750912	http://www.wikidata.org/entity/Q40998965
+helge lindh	spd bundestag fraction	L	454981027	http://www.wikidata.org/entity/Q40998992
+torbjörn kartes	cdu/csu bundestag fraction	R	3188225915	http://www.wikidata.org/entity/Q40999257
+brigitte freihold	bundestag fraction die linke	L	925703909825548288	http://www.wikidata.org/entity/Q40999268
+mario brandenburg	fdp bundestag fraction	R	802968497831739392	http://www.wikidata.org/entity/Q40999277
+sören pellmann	bundestag fraction die linke	L	74837812	http://www.wikidata.org/entity/Q40999339
+eckhard gnodtke	cdu/csu bundestag fraction	R	1085599614122762242	http://www.wikidata.org/entity/Q40999347
+sepp müller	cdu/csu bundestag fraction	R	801803127762669568	http://www.wikidata.org/entity/Q40999402
+gerald ullrich	fdp bundestag fraction	R	935456332655874048	http://www.wikidata.org/entity/Q40999439
+peter heidt	fdp bundestag fraction	R	1858621434	http://www.wikidata.org/entity/Q66762848
+martin schulz	spd bundestag fraction	L	17675072	http://www.wikidata.org/entity/Q17905
+axel fischer	cdu/csu bundestag fraction	R	160906608	http://www.wikidata.org/entity/Q22939
+gesine lötzsch	bundestag fraction die linke	L	24178198	http://www.wikidata.org/entity/Q65114
+gregor gysi	bundestag fraction die linke	L	888289790	http://www.wikidata.org/entity/Q65126
+lothar binding	spd bundestag fraction	L	2617281050	http://www.wikidata.org/entity/Q75408
+anja weisgerber	cdu/csu bundestag fraction	R	133770069	http://www.wikidata.org/entity/Q85773
+dorothee bär	cdu/csu bundestag fraction	R	140821364	http://www.wikidata.org/entity/Q85851
+thomas oppermann	spd bundestag fraction	L	293066780	http://www.wikidata.org/entity/Q90833
+nadine schön	cdu/csu bundestag fraction	R	41840905	http://www.wikidata.org/entity/Q105331
+roderich kiesewetter	cdu/csu bundestag fraction	R	42698498	http://www.wikidata.org/entity/Q107989
+johannes kahrs	spd bundestag fraction	L	712995871143669760; 35687457	http://www.wikidata.org/entity/Q96820
+martin patzelt	cdu/csu bundestag fraction	R	1159072277746593792	http://www.wikidata.org/entity/Q118115
+achim post	spd bundestag fraction	L	1117749912	http://www.wikidata.org/entity/Q340448
+anita schäfer	cdu/csu bundestag fraction	R	874474169106395136	http://www.wikidata.org/entity/Q550861
+canan bayram	green party fraction	L	587862375	http://www.wikidata.org/entity/Q1032742
+christian lange	spd bundestag fraction	L	328939758	http://www.wikidata.org/entity/Q1080751
+detlef müller	spd bundestag fraction	L	784760007275515904	http://www.wikidata.org/entity/Q1201319
+stephan kühn	green party fraction	L	104100946	http://www.wikidata.org/entity/Q1239215
+michael hennrich	cdu/csu bundestag fraction	R	1132260527378489345	http://www.wikidata.org/entity/Q1240168
+michelle müntefering	spd bundestag fraction	L	947740210036641793	http://www.wikidata.org/entity/Q1404562
+frank steffel	cdu/csu bundestag fraction	R	26869088	http://www.wikidata.org/entity/Q1444251
+fritz felgentreu	spd bundestag fraction	L	2805274855	http://www.wikidata.org/entity/Q1466201
+günter krings	cdu/csu bundestag fraction	R	392312829	http://www.wikidata.org/entity/Q1560703
+michael frieser	cdu/csu bundestag fraction	R	4577700622	http://www.wikidata.org/entity/Q1566498
+helge braun	cdu/csu bundestag fraction	R	19108071	http://www.wikidata.org/entity/Q1602354
+heike hänsel	bundestag fraction die linke	L	332264734	http://www.wikidata.org/entity/Q1661616
+michael von abercron	cdu/csu bundestag fraction	R	862747349277450240	http://www.wikidata.org/entity/Q1666351
+wieland schinnenburg	fdp bundestag fraction	R	828943222432997376	http://www.wikidata.org/entity/Q1677371
+linda teuteberg	fdp bundestag fraction	R	170964436	http://www.wikidata.org/entity/Q1710235
+marcus weinberg	cdu/csu bundestag fraction	R	884382990	http://www.wikidata.org/entity/Q1710453
+kai wegner	cdu/csu bundestag fraction	R	39999872	http://www.wikidata.org/entity/Q1721361
+katrin werner	bundestag fraction die linke	L	224630872	http://www.wikidata.org/entity/Q1736766
+lisa paus	green party fraction	L	569166756	http://www.wikidata.org/entity/Q1827771
+marianne schieder	spd bundestag fraction	L	1306503986791448576	http://www.wikidata.org/entity/Q1896891
+ralph brinkhaus	cdu/csu bundestag fraction	R	38001527	http://www.wikidata.org/entity/Q2129527
+sonja steffen	spd bundestag fraction	L	702653022	http://www.wikidata.org/entity/Q2301738
+stefan müller	cdu/csu bundestag fraction	R	17960911	http://www.wikidata.org/entity/Q2337183
+thomas lutze	bundestag fraction die linke	L	3667108397	http://www.wikidata.org/entity/Q2425894
+thomas silberhorn	cdu/csu bundestag fraction	R	951489275312443392	http://www.wikidata.org/entity/Q2427303
+thorsten frei	cdu/csu bundestag fraction	R	1181598578508214272	http://www.wikidata.org/entity/Q2429104
+ulrich freese	spd bundestag fraction	L	2317202160	http://www.wikidata.org/entity/Q2475804
+ute vogt	spd bundestag fraction	L	106684561	http://www.wikidata.org/entity/Q2503159
+dirk wiese	spd bundestag fraction	L	1238518580775456778	http://www.wikidata.org/entity/Q14943007
+sybille benning	cdu/csu bundestag fraction	R	869205749632831488	http://www.wikidata.org/entity/Q14945716
+katja leikert	cdu/csu bundestag fraction	R	467381196	http://www.wikidata.org/entity/Q15434284
+silke launert	cdu/csu bundestag fraction	R	4926993244	http://www.wikidata.org/entity/Q15644592
+andrea lindholz	cdu/csu bundestag fraction	R	1446031532	http://www.wikidata.org/entity/Q15644594
+bettina müller	spd bundestag fraction	L	2443895924	http://www.wikidata.org/entity/Q15792684
+uli grötsch	spd bundestag fraction	L	867351565757239296	http://www.wikidata.org/entity/Q15813108
+svenja stadler	spd bundestag fraction	L	3337459024	http://www.wikidata.org/entity/Q15813114
+johann saathoff	spd bundestag fraction	L	159217491	http://www.wikidata.org/entity/Q15813144
+jens zimmermann	spd bundestag fraction	L	1228323891317223424	http://www.wikidata.org/entity/Q15813170
+sylvia pantel	cdu/csu bundestag fraction	R	1082464339	http://www.wikidata.org/entity/Q15813200
+johannes steiniger	cdu/csu bundestag fraction	R	83474160	http://www.wikidata.org/entity/Q15813787
+bernd baumann	afd bundestag fraction	R	3043727333	http://www.wikidata.org/entity/Q19362177
+frank sitta	fdp bundestag fraction	R	28087038	http://www.wikidata.org/entity/Q19969784
+petr bystron	afd bundestag fraction	R	810957560723505152	http://www.wikidata.org/entity/Q24260075
+gottfried curio	afd bundestag fraction	R	848618993015500802	http://www.wikidata.org/entity/Q27917019
+jochen haug	afd bundestag fraction	R	717077328669646849	http://www.wikidata.org/entity/Q40475799
+kay gottschalk	afd bundestag fraction	R	1286011081	http://www.wikidata.org/entity/Q40476219
+fabian jacobi	afd bundestag fraction	R	944181149424898048	http://www.wikidata.org/entity/Q40847784
+martin hess	afd bundestag fraction	R	872663038805016576	http://www.wikidata.org/entity/Q40895536
+katrin staffler	cdu/csu bundestag fraction	R	825019912083038208	http://www.wikidata.org/entity/Q40915597
+christian sauter	fdp bundestag fraction	R	997033716324093952	http://www.wikidata.org/entity/Q40975213
+jessica tatti	bundestag fraction die linke	L	1020297087970435072	http://www.wikidata.org/entity/Q40997976
+björn manuel simon	cdu/csu bundestag fraction	R	93845554	http://www.wikidata.org/entity/Q40998580
+thomas ehrhorn	afd bundestag fraction	R	3242322815	http://www.wikidata.org/entity/Q40998823
+nicole westig	fdp bundestag fraction	R	989145249682526213	http://www.wikidata.org/entity/Q40998975
+bernd reuther	fdp bundestag fraction	R	930422173478608903	http://www.wikidata.org/entity/Q40999004
+friedrich straetmanns	bundestag fraction die linke	L	959059951523106816	http://www.wikidata.org/entity/Q40999023
+wiebke esdar	spd bundestag fraction	L	1042109887604563968	http://www.wikidata.org/entity/Q40999031
+kerstin vieregge	cdu/csu bundestag fraction	R	1486632095904587776	http://www.wikidata.org/entity/Q40999043
+olaf in der beek	fdp bundestag fraction	R	913327957602693121	http://www.wikidata.org/entity/Q40999063
+andreas steier	cdu/csu bundestag fraction	R	3236928208	http://www.wikidata.org/entity/Q40999248
+bettina hoffmann	green party fraction	L	971040144420720641	http://www.wikidata.org/entity/Q41244415
+cem özdemir	green party fraction	L	19108766	http://www.wikidata.org/entity/Q12839
+hans-peter friedrich	cdu/csu bundestag fraction	R	708224250885349376	http://www.wikidata.org/entity/Q66144
+hubertus heil	spd bundestag fraction	L	15943222	http://www.wikidata.org/entity/Q71534
+thomas jarzombek	cdu/csu bundestag fraction	R	37105136	http://www.wikidata.org/entity/Q97872
+ingo wellenreuther	cdu/csu bundestag fraction	R	54535670	http://www.wikidata.org/entity/Q98788
+henning otte	cdu/csu bundestag fraction	R	1416388709264633858	http://www.wikidata.org/entity/Q98819
+dietmar bartsch	bundestag fraction die linke	L	2320519958	http://www.wikidata.org/entity/Q99450
+marco wanderwitz	cdu/csu bundestag fraction	R	16361044	http://www.wikidata.org/entity/Q107021
+heiko maas	spd bundestag fraction	L	24158261	http://www.wikidata.org/entity/Q108447
+michael theurer	fdp bundestag fraction	R	1108382916	http://www.wikidata.org/entity/Q109925
+otto fricke	fdp bundestag fraction	R	18044683	http://www.wikidata.org/entity/Q124019
+birke bull-bischoff	bundestag fraction die linke	L	81394072	http://www.wikidata.org/entity/Q865473
+christian hirte	cdu/csu bundestag fraction	R	37642893	http://www.wikidata.org/entity/Q1080321
+elisabeth winkelmeier-becker	cdu/csu bundestag fraction	R	1386075729780162569	http://www.wikidata.org/entity/Q1279621
+edgar franke	spd bundestag fraction	L	481393623	http://www.wikidata.org/entity/Q1283882
+manuel sarrazin	green party fraction	L	17922403	http://www.wikidata.org/entity/Q1309204
+frank heinrich	cdu/csu bundestag fraction	R	43959185	http://www.wikidata.org/entity/Q1443404
+heribert hirte	cdu/csu bundestag fraction	R	1513671236	http://www.wikidata.org/entity/Q1609894
+martin neumann	fdp bundestag fraction	R	974589289689427968	http://www.wikidata.org/entity/Q1710101
+kirsten kappert-gonther	green party fraction	L	955357684013953025	http://www.wikidata.org/entity/Q1743637
+markus kurth	green party fraction	L	150188536	http://www.wikidata.org/entity/Q1901650
+matthias birkwald	bundestag fraction die linke	L	748851762	http://www.wikidata.org/entity/Q1909731
+matthias heider	cdu/csu bundestag fraction	R	154064825	http://www.wikidata.org/entity/Q1909956
+norbert altenkamp	cdu/csu bundestag fraction	R	1319570576957149184	http://www.wikidata.org/entity/Q1996643
+torsten herbst	fdp bundestag fraction	R	17561226	http://www.wikidata.org/entity/Q2444869
+beatrix von storch	afd bundestag fraction	R	805308596	http://www.wikidata.org/entity/Q14924803
+karl-heinz brunner	spd bundestag fraction	L	31704238	http://www.wikidata.org/entity/Q14946405
+maik beermann	cdu/csu bundestag fraction	R	569257486	http://www.wikidata.org/entity/Q15126097
+bernhard daldrup	spd bundestag fraction	L	1329019163126476800	http://www.wikidata.org/entity/Q15273689
+alexander neu	bundestag fraction die linke	L	1182878557	http://www.wikidata.org/entity/Q15434455
+albert stegemann	cdu/csu bundestag fraction	R	1127961248493129728	http://www.wikidata.org/entity/Q15782057
+sabine poschmann	spd bundestag fraction	L	738636568760553472	http://www.wikidata.org/entity/Q15813116
+michael thews	spd bundestag fraction	L	409258073	http://www.wikidata.org/entity/Q15813128
+markus frohnmaier	afd bundestag fraction	R	4130621842	http://www.wikidata.org/entity/Q24540200
+martin renner	afd bundestag fraction	R	2535401947	http://www.wikidata.org/entity/Q29946731
+sebastian münzenmaier	afd bundestag fraction	R	863657874941255684	http://www.wikidata.org/entity/Q33309067
+peter boehringer	afd bundestag fraction	R	99268600	http://www.wikidata.org/entity/Q37810277
+jens maier	afd bundestag fraction	R	916639458409242624	http://www.wikidata.org/entity/Q39238058
+thomas seitz	afd bundestag fraction	R	913358838736310272	http://www.wikidata.org/entity/Q40436370
+gerhard helmuth berengar elsner von gronow	afd bundestag fraction	R	4429947807	http://www.wikidata.org/entity/Q40477093
+jens beeck	fdp bundestag fraction	R	179216369	http://www.wikidata.org/entity/Q40803793
+tobias peterka	afd bundestag fraction	R	2496104640	http://www.wikidata.org/entity/Q40881740
+volker münz	afd bundestag fraction	R	878615716152446976	http://www.wikidata.org/entity/Q40895849
+joana cotar	afd bundestag fraction	R	814970546366611457	http://www.wikidata.org/entity/Q40896434
+uwe schulz	afd bundestag fraction	R	19177808	http://www.wikidata.org/entity/Q40896698
+katharina willkomm	fdp bundestag fraction	R	958634602905718785	http://www.wikidata.org/entity/Q40974956
+johannes huber	afd bundestag fraction	R	925286741921189888	http://www.wikidata.org/entity/Q40983433
+esther dilcher	spd bundestag fraction	L	939092636165689345	http://www.wikidata.org/entity/Q40988876
+daniela kluckert	fdp bundestag fraction	R	28327765	http://www.wikidata.org/entity/Q40997285
+hartmut ebbing	fdp bundestag fraction	R	916950563815870464	http://www.wikidata.org/entity/Q40997474
+michael schrodi	spd bundestag fraction	L	806975237766135813	http://www.wikidata.org/entity/Q40998033
+michael kuffer	cdu/csu bundestag fraction	R	4249342037	http://www.wikidata.org/entity/Q40998043
+erhard grundl	green party fraction	L	951773879822880768	http://www.wikidata.org/entity/Q40998214
+susanne ferschl	bundestag fraction die linke	L	1096063189249331201	http://www.wikidata.org/entity/Q40998541
+alexander müller	fdp bundestag fraction	R	936235058792484864	http://www.wikidata.org/entity/Q40998561
+till mansmann	fdp bundestag fraction	R	954049866283483136	http://www.wikidata.org/entity/Q40998591
+matthias seestern-pauly	fdp bundestag fraction	R	1006099793888841729	http://www.wikidata.org/entity/Q40998778
+waldemar herdt	afd bundestag fraction	R	3384824825; 1865308944	http://www.wikidata.org/entity/Q40998789
+stefan rouenhoff	cdu/csu bundestag fraction	R	963904327	http://www.wikidata.org/entity/Q40999099
+katrin helling-plahr	fdp bundestag fraction	R	21267421	http://www.wikidata.org/entity/Q41566062
+janosch dahmen	green party fraction	L	16697497	http://www.wikidata.org/entity/Q101481413
+jürgen trittin	green party fraction	L	485751594	http://www.wikidata.org/entity/Q11762
+katrin göring-eckardt	green party fraction	L	626287930	http://www.wikidata.org/entity/Q48967
+sahra wagenknecht	bundestag fraction die linke	L	47375691	http://www.wikidata.org/entity/Q77193
+martin hohmann	afd bundestag fraction	R	1159457070124605442	http://www.wikidata.org/entity/Q86790
+frank schäffler	fdp bundestag fraction	R	18189342	http://www.wikidata.org/entity/Q90973
+sören bartol	spd bundestag fraction	L	57293969	http://www.wikidata.org/entity/Q91081
+katja suding	fdp bundestag fraction	R	18880634	http://www.wikidata.org/entity/Q95577
+niels annen	spd bundestag fraction	L	42401449	http://www.wikidata.org/entity/Q109362
+reinhard brandl	cdu/csu bundestag fraction	R	262730721	http://www.wikidata.org/entity/Q111160
+thomas nord	bundestag fraction die linke	L	1421571306	http://www.wikidata.org/entity/Q111187
+christoph meyer	fdp bundestag fraction	R	861992050358616064	http://www.wikidata.org/entity/Q123171
+jens spahn	cdu/csu bundestag fraction	R	299650387	http://www.wikidata.org/entity/Q86294
+wilhelm von gottberg	afd bundestag fraction	R	3412973404	http://www.wikidata.org/entity/Q103160
+filiz polat	green party fraction	L	194535434	http://www.wikidata.org/entity/Q103972
+johannes vogel	fdp bundestag fraction	R	15630931	http://www.wikidata.org/entity/Q105426
+josip juratovic	spd bundestag fraction	L	738731811380076544	http://www.wikidata.org/entity/Q96814
+gunther krichbaum	cdu/csu bundestag fraction	R	1161098384020824069	http://www.wikidata.org/entity/Q98115
+helin evrim sommer	bundestag fraction die linke	L	143882918	http://www.wikidata.org/entity/Q124581
+tobias pflüger	bundestag fraction die linke	L	16696924	http://www.wikidata.org/entity/Q315151
+aydan özoğuz	spd bundestag fraction	L	83342791	http://www.wikidata.org/entity/Q792859
+beate walter-rosenheimer	green party fraction	L	943468370; 47049428	http://www.wikidata.org/entity/Q813207
+katja dörner	green party fraction	L	19738866	http://www.wikidata.org/entity/Q990401
+michael georg link	fdp bundestag fraction	R	3034092143	http://www.wikidata.org/entity/Q991377
+bärbel bas	spd bundestag fraction	L	19438957	http://www.wikidata.org/entity/Q1019016
+daniela ludwig	cdu/csu bundestag fraction	R	1019846605044936705	http://www.wikidata.org/entity/Q1163474
+diether dehm	bundestag fraction die linke	L	20986770	http://www.wikidata.org/entity/Q1223204
+florian hahn	cdu/csu bundestag fraction	R	403735368	http://www.wikidata.org/entity/Q1429695
+gero clemens hocker	fdp bundestag fraction	R	966707365893558273	http://www.wikidata.org/entity/Q1514489
+katja hessel	fdp bundestag fraction	R	107806591	http://www.wikidata.org/entity/Q1557103
+uwe schummer	cdu/csu bundestag fraction	R	409203792	http://www.wikidata.org/entity/Q1724840
+kathrin vogler	bundestag fraction die linke	L	21287514	http://www.wikidata.org/entity/Q1736530
+michael grosse-brömer	cdu/csu bundestag fraction	R	574424501	http://www.wikidata.org/entity/Q1770968
+marc jongen	afd bundestag fraction	R	4121053541	http://www.wikidata.org/entity/Q1774046
+margarete bause	green party fraction	L	480623844	http://www.wikidata.org/entity/Q1894938
+maria klein-schmeink	green party fraction	L	18103366	http://www.wikidata.org/entity/Q1896024
+markus grübel	cdu/csu bundestag fraction	R	796691290016583680	http://www.wikidata.org/entity/Q1901534
+michael roth	spd bundestag fraction	L	1114675538	http://www.wikidata.org/entity/Q1929074
+niema movassat	bundestag fraction die linke	L	111054843	http://www.wikidata.org/entity/Q1989055
+rita schwarzelühr-sutter	spd bundestag fraction	L	50932086	http://www.wikidata.org/entity/Q2154951
+sven lehmann	green party fraction	L	16706236	http://www.wikidata.org/entity/Q2371230
+nina scheer	spd bundestag fraction	L	845213960060243968	http://www.wikidata.org/entity/Q2789935
+nils schmid	spd bundestag fraction	L	83795057	http://www.wikidata.org/entity/Q477845
+andreas mattfeldt	cdu/csu bundestag fraction	R	23447001	http://www.wikidata.org/entity/Q499449
+andreas scheuer	cdu/csu bundestag fraction	R	50315139	http://www.wikidata.org/entity/Q500381
+annette widmann-mauz	cdu/csu bundestag fraction	R	3351905747	http://www.wikidata.org/entity/Q566722
+axel knoerig	cdu/csu bundestag fraction	R	928974816220254208	http://www.wikidata.org/entity/Q792225
+britta haßelmann	green party fraction	L	1131092102	http://www.wikidata.org/entity/Q920726
+bärbel kofler	spd bundestag fraction	L	193629792	http://www.wikidata.org/entity/Q1019029
+caren lay	bundestag fraction die linke	L	21404382	http://www.wikidata.org/entity/Q1035894
+dagmar freitag	spd bundestag fraction	L	1148916458983964673	http://www.wikidata.org/entity/Q1157275
+manfred behrens	cdu/csu bundestag fraction	R	61577387	http://www.wikidata.org/entity/Q1327793
+erwin rüddel	cdu/csu bundestag fraction	R	33071479	http://www.wikidata.org/entity/Q1363394
+jutta krellmann	bundestag fraction die linke	L	600984834	http://www.wikidata.org/entity/Q1492112
+gustav herzog	spd bundestag fraction	L	857001941305634816	http://www.wikidata.org/entity/Q1555983
+matthias zimmer	cdu/csu bundestag fraction	R	52994606	http://www.wikidata.org/entity/Q1565606
+sylvia kotting-uhl	green party fraction	L	474013625	http://www.wikidata.org/entity/Q1568404
+heike brehmer	cdu/csu bundestag fraction	R	150372237	http://www.wikidata.org/entity/Q1594501
+sabine leidig	bundestag fraction die linke	L	257461232	http://www.wikidata.org/entity/Q1649275
+wolfgang hellmich	spd bundestag fraction	L	786498202832822272; 19924848	http://www.wikidata.org/entity/Q1677754
+judith skudelny	fdp bundestag fraction	R	948958759560376320	http://www.wikidata.org/entity/Q1711078
+petra sitte	bundestag fraction die linke	L	293522998	http://www.wikidata.org/entity/Q1748314
+lars klingbeil	spd bundestag fraction	L	16255941	http://www.wikidata.org/entity/Q1806261
+manuel höferlin	fdp bundestag fraction	R	17483463	http://www.wikidata.org/entity/Q1891565
+martina renner	bundestag fraction die linke	L	68920005	http://www.wikidata.org/entity/Q1905496
+oliver luksic	fdp bundestag fraction	R	21144568	http://www.wikidata.org/entity/Q2020409
+peter aumer	cdu/csu bundestag fraction	R	348460907	http://www.wikidata.org/entity/Q2073755
+peter beyer	cdu/csu bundestag fraction	R	445375409	http://www.wikidata.org/entity/Q2073936
+stefan zierke	spd bundestag fraction	L	64220313	http://www.wikidata.org/entity/Q14947102
+lars castellucci	spd bundestag fraction	L	17469649	http://www.wikidata.org/entity/Q15262812
+andreas nick	cdu/csu bundestag fraction	R	49450039	http://www.wikidata.org/entity/Q15272462
+alois rainer	cdu/csu bundestag fraction	R	1310491780618555396	http://www.wikidata.org/entity/Q15434505
+dennis rohde	spd bundestag fraction	L	18160122	http://www.wikidata.org/entity/Q15613500
+mahmut özdemir	spd bundestag fraction	L	1399764944	http://www.wikidata.org/entity/Q15648956
+anja karliczek	cdu/csu bundestag fraction	R	2521976694	http://www.wikidata.org/entity/Q15783504
+dirk vöpel	spd bundestag fraction	L	829029719941246978	http://www.wikidata.org/entity/Q15806084
+gabriela heinrich	spd bundestag fraction	L	296121556	http://www.wikidata.org/entity/Q15811213
+susann rüthrich	spd bundestag fraction	L	1461997548	http://www.wikidata.org/entity/Q15813112
+rainer spiering	spd bundestag fraction	L	18668620	http://www.wikidata.org/entity/Q15813124
+klaus mindrup	spd bundestag fraction	L	845282647261761536	http://www.wikidata.org/entity/Q15813142
+uwe feiler	cdu/csu bundestag fraction	R	47151012	http://www.wikidata.org/entity/Q15813196
+angelika glöckner	spd bundestag fraction	L	976421048	http://www.wikidata.org/entity/Q19834635
+enrico komning	afd bundestag fraction	R	781747720897892352	http://www.wikidata.org/entity/Q26792878
+marcus faber	fdp bundestag fraction	R	22364234	http://www.wikidata.org/entity/Q27882896
+birgit malsack-winkemann	afd bundestag fraction	R	2368711488	http://www.wikidata.org/entity/Q40572710
+marcus bühl	afd bundestag fraction	R	729360191263780867	http://www.wikidata.org/entity/Q40813093
+martin sichert	afd bundestag fraction	R	918405860862382082	http://www.wikidata.org/entity/Q40879307
+peter felser	afd bundestag fraction	R	3384789731	http://www.wikidata.org/entity/Q40880169
+jörn könig	afd bundestag fraction	R	960974630709284864	http://www.wikidata.org/entity/Q40921995
+norbert kleinwächter	afd bundestag fraction	R	865920519668989955	http://www.wikidata.org/entity/Q40978854
+rainer kraft	afd bundestag fraction	R	804064797977444352	http://www.wikidata.org/entity/Q40984890
+ulrich oehme	afd bundestag fraction	R	829731236503494656; 3384795790	http://www.wikidata.org/entity/Q40993181
+anna christmann	green party fraction	L	1617177360	http://www.wikidata.org/entity/Q40997480
+danyal bayaz	green party fraction	L	808400627084705792	http://www.wikidata.org/entity/Q40997659
+stephan pilsinger	cdu/csu bundestag fraction	R	819914159915667456	http://www.wikidata.org/entity/Q40998066
+eva schreiber	bundestag fraction die linke	L	940585440746328064	http://www.wikidata.org/entity/Q40998077
+andreas wagner	bundestag fraction die linke	L	235703405	http://www.wikidata.org/entity/Q40998098
+jörg cézanne	bundestag fraction die linke	L	1391879604	http://www.wikidata.org/entity/Q40998571
+grigorios aggelidis	fdp bundestag fraction	R	976107205849206784	http://www.wikidata.org/entity/Q40998799
+marc henrichmann	cdu/csu bundestag fraction	R	44608858	http://www.wikidata.org/entity/Q40999107
+nicole höchst	afd bundestag fraction	R	3105025175	http://www.wikidata.org/entity/Q40999236
+mathias stein	spd bundestag fraction	L	46498076	http://www.wikidata.org/entity/Q40999283
+gyde jensen	fdp bundestag fraction	R	1530171613	http://www.wikidata.org/entity/Q40999997
+amira mohamed ali	bundestag fraction die linke	L	934029228886065152	http://www.wikidata.org/entity/Q41080910
+falko mohrs	spd bundestag fraction	L	79228932	http://www.wikidata.org/entity/Q41111971
+klaus ernst	bundestag fraction die linke	L	64994645	http://www.wikidata.org/entity/Q26206
+peter altmaier	cdu/csu bundestag fraction	R	378693834	http://www.wikidata.org/entity/Q65539
+christian von stetten	cdu/csu bundestag fraction	R	1334019378	http://www.wikidata.org/entity/Q88346
+jürgen martens	fdp bundestag fraction	R	1187686813168820224	http://www.wikidata.org/entity/Q99663
+christian dürr	fdp bundestag fraction	R	17535941	http://www.wikidata.org/entity/Q102641
+michael meister	cdu/csu bundestag fraction	R	34214048	http://www.wikidata.org/entity/Q103523
+oliver krischer	green party fraction	L	88630242	http://www.wikidata.org/entity/Q103710
+ulla jelpke	bundestag fraction die linke	L	2837971145	http://www.wikidata.org/entity/Q103740
+christian kühn	green party fraction	L	1143130812	http://www.wikidata.org/entity/Q106938
+stefan kaufmann	cdu/csu bundestag fraction	R	51752254	http://www.wikidata.org/entity/Q107793
+jürgen hardt	cdu/csu bundestag fraction	R	38467606	http://www.wikidata.org/entity/Q111489
+karl a. lamers	cdu/csu bundestag fraction	R	51798059	http://www.wikidata.org/entity/Q118715
+christoph matschie	spd bundestag fraction	L	19286748	http://www.wikidata.org/entity/Q120220
+anke domscheit-berg	bundestag fraction die linke	L	16557497	http://www.wikidata.org/entity/Q556667
+antje tillmann	cdu/csu bundestag fraction	R	1082925763316367360	http://www.wikidata.org/entity/Q584897
+dietlind tiemann	cdu/csu bundestag fraction	R	4818645382	http://www.wikidata.org/entity/Q1223301
+patrick schnieder	cdu/csu bundestag fraction	R	368334555	http://www.wikidata.org/entity/Q1373882
+felix schreiner	cdu/csu bundestag fraction	R	162398888	http://www.wikidata.org/entity/Q1403798
+markus tressel	green party fraction	L	2306519694	http://www.wikidata.org/entity/Q1416148
+sabine dittmar	spd bundestag fraction	L	1872648764	http://www.wikidata.org/entity/Q1421371
+florian toncar	fdp bundestag fraction	R	17462171	http://www.wikidata.org/entity/Q1429938
+frank schwabe	spd bundestag fraction	L	30050484	http://www.wikidata.org/entity/Q1444160
+ingmar jung	cdu/csu bundestag fraction	R	23296367	http://www.wikidata.org/entity/Q1663079
+ingrid nestle	green party fraction	L	44359035	http://www.wikidata.org/entity/Q1663364
+lothar maier	afd bundestag fraction	R	824210890354520064	http://www.wikidata.org/entity/Q20753082
+sylvia gabelmann	bundestag fraction die linke	L	850993608	http://www.wikidata.org/entity/Q21014671
+leif-erik holm	afd bundestag fraction	R	739531034761498624	http://www.wikidata.org/entity/Q26270011
+markus uhl	cdu/csu bundestag fraction	R	1391875208	http://www.wikidata.org/entity/Q33519815
+andrew ullmann	fdp bundestag fraction	R	609972369	http://www.wikidata.org/entity/Q38504341
+doris maria achelwilm	bundestag fraction die linke	L	4819478705	http://www.wikidata.org/entity/Q40097453
+siegbert droese	afd bundestag fraction	R	3184216371	http://www.wikidata.org/entity/Q40428300
+robby schlund	afd bundestag fraction	R	1009025255753601024	http://www.wikidata.org/entity/Q40813332
+rené springer	afd bundestag fraction	R	831541837965967361	http://www.wikidata.org/entity/Q40846468
+paul podolay	afd bundestag fraction	R	774308243124391937	http://www.wikidata.org/entity/Q40881384
+renata alt	fdp bundestag fraction	R	1001837201276235777	http://www.wikidata.org/entity/Q40997592
+michel brandt	bundestag fraction die linke	L	1543429536	http://www.wikidata.org/entity/Q40997616
+christoph hoffmann	fdp bundestag fraction	R	1085494381405237251	http://www.wikidata.org/entity/Q40997670
+alexander kulitz	fdp bundestag fraction	R	1743275384	http://www.wikidata.org/entity/Q40997988
+lisa badum	green party fraction	L	282195399	http://www.wikidata.org/entity/Q40998238
+torsten schweiger	cdu/csu bundestag fraction	R	2758602415	http://www.wikidata.org/entity/Q40999416
+jens brandenburg	fdp bundestag fraction	R	857906951707127808	http://www.wikidata.org/entity/Q41699566
+lars herrmann	afd bundestag fraction	R	1434514104094429187	http://www.wikidata.org/entity/Q42222998
+ekin deligöz	green party fraction	L	22125770	http://www.wikidata.org/entity/Q63798
+renate künast	green party fraction	L	1425265488	http://www.wikidata.org/entity/Q65128
+alexander graf lambsdorff	fdp bundestag fraction	R	149299258	http://www.wikidata.org/entity/Q71763
+petra pau	bundestag fraction die linke	L	1683845126; 560467206	http://www.wikidata.org/entity/Q77195
+thomas bareiß	cdu/csu bundestag fraction	R	2797812265	http://www.wikidata.org/entity/Q90623
+jan-marco luczak	cdu/csu bundestag fraction	R	22908417	http://www.wikidata.org/entity/Q96427
+christine buchholz	bundestag fraction die linke	L	426403057	http://www.wikidata.org/entity/Q97732
+andrej hunko	bundestag fraction die linke	L	87281380	http://www.wikidata.org/entity/Q99704
+anton hofreiter	green party fraction	L	442678902	http://www.wikidata.org/entity/Q103519
+karl lauterbach	spd bundestag fraction	L	3292982985	http://www.wikidata.org/entity/Q105676
+annalena baerbock	green party fraction	L	2179010672	http://www.wikidata.org/entity/Q564328
+armin schuster	cdu/csu bundestag fraction	R	395912134	http://www.wikidata.org/entity/Q688231
+carsten schneider	spd bundestag fraction	L	96783215	http://www.wikidata.org/entity/Q1045665
+dieter janecek	green party fraction	L	52024480	http://www.wikidata.org/entity/Q1222215
+dietrich monstadt	cdu/csu bundestag fraction	R	1180102389275205632	http://www.wikidata.org/entity/Q1223955
+dorothee martin	social democratic party of germany	L	241008237	http://www.wikidata.org/entity/Q1250211
+patrick sensburg	cdu/csu bundestag fraction	R	43537931	http://www.wikidata.org/entity/Q1280872
+manfred todtenhausen	fdp bundestag fraction	R	563706584	http://www.wikidata.org/entity/Q1295233
+elisabeth motschmann	cdu/csu bundestag fraction	R	1135510177292197888	http://www.wikidata.org/entity/Q1329839
+ernst dieter rossmann	spd bundestag fraction	L	38645930	http://www.wikidata.org/entity/Q1357855
+friedrich ostendorff	green party fraction	L	1542612873758883842	http://www.wikidata.org/entity/Q1461384
+steffi lemke	green party fraction	L	17229513	http://www.wikidata.org/entity/Q1502854
+stefan schwartze	spd bundestag fraction	L	1117526742	http://www.wikidata.org/entity/Q1506477
+sönke rix	spd bundestag fraction	L	36327895	http://www.wikidata.org/entity/Q1651406
+jens koeppen	cdu/csu bundestag fraction	R	146376562	http://www.wikidata.org/entity/Q1687254
+johann wadephul	cdu/csu bundestag fraction	R	389682667	http://www.wikidata.org/entity/Q1696501
+konstantin von notz	green party fraction	L	17752770	http://www.wikidata.org/entity/Q1710769
+kirsten tackmann	bundestag fraction die linke	L	1294725486	http://www.wikidata.org/entity/Q1743644
+metin hakverdi	spd bundestag fraction	L	1043288618	http://www.wikidata.org/entity/Q1925636
+monika lazar	green party fraction	L	60630139	http://www.wikidata.org/entity/Q1944684
+stefan gelbhaar	green party fraction	L	426582569	http://www.wikidata.org/entity/Q2336360
+swen schulz	spd bundestag fraction	L	21791639	http://www.wikidata.org/entity/Q2372488
+sylvia lehmann	social democratic party of germany	L	2320712427	http://www.wikidata.org/entity/Q2374225
+tobias lindner	green party fraction	L	21197524	http://www.wikidata.org/entity/Q2437890
+ottmar von holtz	green party fraction	L	2357675876	http://www.wikidata.org/entity/Q13533978
+volker michael ullrich	cdu/csu bundestag fraction	R	28446356	http://www.wikidata.org/entity/Q14943609
+arno klare	spd bundestag fraction	L	1028440310	http://www.wikidata.org/entity/Q15027363
+martin rosemann	spd bundestag fraction	L	28784085	http://www.wikidata.org/entity/Q15434186
+andreas schwarz	spd bundestag fraction	L	2226815116; 53617577	http://www.wikidata.org/entity/Q15434565
+nina warken	cdu/csu bundestag fraction	R	65413134	http://www.wikidata.org/entity/Q15644599
+frank junge	spd bundestag fraction	L	1234945065006649346	http://www.wikidata.org/entity/Q15810123
+gabriele katzmarek	spd bundestag fraction	L	3017602065	http://www.wikidata.org/entity/Q15811216
+roy kühne	cdu/csu bundestag fraction	R	1906911697	http://www.wikidata.org/entity/Q15813206
+markus koob	cdu/csu bundestag fraction	R	2664174617	http://www.wikidata.org/entity/Q15813753
+mark hauptmann	cdu/csu bundestag fraction	R	1370491088	http://www.wikidata.org/entity/Q15813755
+konstantin kuhle	fdp bundestag fraction	R	475275997	http://www.wikidata.org/entity/Q16216417
+stephan brandner	afd bundestag fraction	R	713361366858481664	http://www.wikidata.org/entity/Q18176740
+elvan korkmaz-emre	spd bundestag fraction	L	3930477322	http://www.wikidata.org/entity/Q18202322
+alice weidel	afd bundestag fraction	R	833398209053605888	http://www.wikidata.org/entity/Q27975838
+pascal meiser	bundestag fraction die linke	L	314534724	http://www.wikidata.org/entity/Q40136224
+karsten hilse	afd bundestag fraction	R	920932259347214338	http://www.wikidata.org/entity/Q40589032
+jan nolte	afd bundestag fraction	R	3408940048	http://www.wikidata.org/entity/Q40650476
+lorenz beutin	bundestag fraction die linke	L	136266976	http://www.wikidata.org/entity/Q40804106
+stefan keuter	afd bundestag fraction	R	794628172570619904	http://www.wikidata.org/entity/Q40876446
+reinhard houben	fdp bundestag fraction	R	825069798140833794	http://www.wikidata.org/entity/Q40892185
+heiko wildberg	afd bundestag fraction	R	3183992596	http://www.wikidata.org/entity/Q40897036
+josephine ortleb	spd bundestag fraction	L	21618829	http://www.wikidata.org/entity/Q40919890
+christoph ploß	cdu/csu bundestag fraction	R	928335737803722753	http://www.wikidata.org/entity/Q40974976
+anton friesen	afd bundestag fraction	R	916324637046435840	http://www.wikidata.org/entity/Q40978414
+andreas bleck	afd bundestag fraction	R	910878654535749632	http://www.wikidata.org/entity/Q40979188
+wolfgang wiehle	afd bundestag fraction	R	1003656299589132291	http://www.wikidata.org/entity/Q40980201
+roland hartwig	afd bundestag fraction	R	282687385	http://www.wikidata.org/entity/Q40980390
+sebastian brehm	cdu/csu bundestag fraction	R	904304932257492992	http://www.wikidata.org/entity/Q40998256
+johannes schraps	spd bundestag fraction	L	1356753444	http://www.wikidata.org/entity/Q40998834
+carl-julius cronenberg	fdp bundestag fraction	R	1325126973631455232	http://www.wikidata.org/entity/Q40999085
+marc biadacz	cdu/csu bundestag fraction	R	935815000006053888	http://www.wikidata.org/entity/Q42115961
+bela bach	spd bundestag fraction	L	1150879754	http://www.wikidata.org/entity/Q84427302
+matthias nölke	fdp bundestag fraction	R	800823849252229121	http://www.wikidata.org/entity/Q95683263
+christian natterer	cdu/csu bundestag fraction	R	166688802	http://www.wikidata.org/entity/Q101533533
+katja kipping	bundestag fraction die linke	L	28066013	http://www.wikidata.org/entity/Q76342
+sevim dağdelen	bundestag fraction die linke	L	139407967	http://www.wikidata.org/entity/Q77684
+christian lindner	fdp bundestag fraction	R	122104353	http://www.wikidata.org/entity/Q85806
+katja mast	spd bundestag fraction	L	937678874095300609	http://www.wikidata.org/entity/Q1736645
+kerstin griese	spd bundestag fraction	L	39709752	http://www.wikidata.org/entity/Q1739660
+leni breymaier	spd bundestag fraction	L	748453543632330752	http://www.wikidata.org/entity/Q1817709
+marco buschmann	fdp bundestag fraction	R	106136813	http://www.wikidata.org/entity/Q1893672
+markus töns	spd bundestag fraction	L	3522875063	http://www.wikidata.org/entity/Q1901834
+saskia ludwig	cdu/csu bundestag fraction	R	472261226	http://www.wikidata.org/entity/Q2225665
+sven-christian kindler	green party fraction	L	17343047	http://www.wikidata.org/entity/Q2370788
+thomas gebhart	cdu/csu bundestag fraction	R	51483238	http://www.wikidata.org/entity/Q2424160
+thomas heilmann	cdu/csu bundestag fraction	R	56806603	http://www.wikidata.org/entity/Q2424616
+timon gremmels	spd bundestag fraction	L	494809842	http://www.wikidata.org/entity/Q2434972
+ulrich lange	cdu/csu bundestag fraction	R	68172699	http://www.wikidata.org/entity/Q2476246
+uwe kekeritz	green party fraction	L	46480553	http://www.wikidata.org/entity/Q2504394
+claudia müller	green party fraction	L	937403112	http://www.wikidata.org/entity/Q6523639
+kees de vries	cdu/csu bundestag fraction	R	58777977	http://www.wikidata.org/entity/Q14943723
+martin rabanus	spd bundestag fraction	L	46356949	http://www.wikidata.org/entity/Q15041845
+jan metzler	cdu/csu bundestag fraction	R	995653004	http://www.wikidata.org/entity/Q15230330
+irene mihalic	green party fraction	L	143000381	http://www.wikidata.org/entity/Q15433827
+jana schimke	cdu/csu bundestag fraction	R	728990858	http://www.wikidata.org/entity/Q15434319
+cansel kızıltepe	spd bundestag fraction	L	23248102	http://www.wikidata.org/entity/Q15434496
+carsten körber	cdu/csu bundestag fraction	R	1362372381814231041	http://www.wikidata.org/entity/Q15793659
+christian petry	spd bundestag fraction	L	64159881	http://www.wikidata.org/entity/Q15794238
+katharina dröge	green party fraction	L	15722010	http://www.wikidata.org/entity/Q15795521
+udo schiefner	spd bundestag fraction	L	3823042877	http://www.wikidata.org/entity/Q15813111
+rita hagl-kehl	spd bundestag fraction	L	791319865	http://www.wikidata.org/entity/Q15813119
+wolfgang stefinger	cdu/csu bundestag fraction	R	4866955749	http://www.wikidata.org/entity/Q15813189
+hansjörg durz	cdu/csu bundestag fraction	R	1662533040	http://www.wikidata.org/entity/Q15813798
+martin reichardt	afd bundestag fraction	R	2545743991	http://www.wikidata.org/entity/Q36338130
+bettina stark-watzinger	fdp bundestag fraction	R	38228691	http://www.wikidata.org/entity/Q39080194
+jörg schneider	afd bundestag fraction	R	719975730784956416	http://www.wikidata.org/entity/Q40847360
+rüdiger lucassen	afd bundestag fraction	R	4875914470	http://www.wikidata.org/entity/Q40848063
+corinna miazga	afd bundestag fraction	R	868762469115846657	http://www.wikidata.org/entity/Q40878850
+dirk spaniel	afd bundestag fraction	R	810537151729373184	http://www.wikidata.org/entity/Q40983005
+benjamin strasser	fdp bundestag fraction	R	29540300	http://www.wikidata.org/entity/Q40998001
+lukas köhler	fdp bundestag fraction	R	898597063444877313	http://www.wikidata.org/entity/Q40998056
+ulrich lechte	fdp bundestag fraction	R	988765113606918144	http://www.wikidata.org/entity/Q40998225
+britta dassler	fdp bundestag fraction	R	998867063274921984	http://www.wikidata.org/entity/Q40998247
+philipp amthor	cdu/csu bundestag fraction	R	934016327567790080	http://www.wikidata.org/entity/Q40998607
+claudia moll	spd bundestag fraction	L	1070312229139025920	http://www.wikidata.org/entity/Q40998854
+roman müller-böhm	fdp bundestag fraction	R	2373251115	http://www.wikidata.org/entity/Q40999014
+sandra weeser	fdp bundestag fraction	R	858362895075340288	http://www.wikidata.org/entity/Q40999117
+josef oster	cdu/csu bundestag fraction	R	28089973	http://www.wikidata.org/entity/Q40999127
+carina konrad	fdp bundestag fraction	R	874304935906729986	http://www.wikidata.org/entity/Q40999227
+verena hartmann	afd bundestag fraction	R	942722262179962880	http://www.wikidata.org/entity/Q40999331
+elisabeth kaiser	spd bundestag fraction	L	1425035358	http://www.wikidata.org/entity/Q40999425
+frank müller-rosentritt	fdp bundestag fraction	R	984048002967982080	http://www.wikidata.org/entity/Q41594734
+christoph bernstiel	cdu/csu bundestag fraction	R	830085678063030273	http://www.wikidata.org/entity/Q42116735
+marja-liisa völlers	spd bundestag fraction	L	1009457791554281473	http://www.wikidata.org/entity/Q43464224
+nezahat baradari	spd bundestag fraction	L	2773426719	http://www.wikidata.org/entity/Q60673734
+gerhard zickenheiner	green party fraction	L	1201838123841404929	http://www.wikidata.org/entity/Q61829395
+isabel mackensen-geis	spd bundestag fraction	L	2322165327	http://www.wikidata.org/entity/Q64995051
+sandra bubendorfer-licht	fdp bundestag fraction	R	887343634647003136	http://www.wikidata.org/entity/Q84056228
+bernd riexinger	bundestag fraction die linke	L	849012308	http://www.wikidata.org/entity/Q69346
+hermann otto solms	fdp bundestag fraction	R	16325209	http://www.wikidata.org/entity/Q70407
+omid nouripour	green party fraction	L	16674128	http://www.wikidata.org/entity/Q71635
+anja hajduk	green party fraction	L	4724923756	http://www.wikidata.org/entity/Q74408
+florian pronold	spd bundestag fraction	L	19257571	http://www.wikidata.org/entity/Q100797
+bijan djir-sarai	fdp bundestag fraction	R	960463104537657344	http://www.wikidata.org/entity/Q106033
+charlotte schneidewind-hartnagel	green party fraction	L	1235523759597068288	http://www.wikidata.org/entity/Q1067331
+christine aschenberg-dugnus	fdp bundestag fraction	R	25980076	http://www.wikidata.org/entity/Q1083405
+daniela kolbe	spd bundestag fraction	L	516783036	http://www.wikidata.org/entity/Q1163453
+pascal kober	fdp bundestag fraction	R	19909974	http://www.wikidata.org/entity/Q1355548
+olav gutting	cdu/csu bundestag fraction	R	58429842	http://www.wikidata.org/entity/Q1494418
+gero storjohann	cdu/csu bundestag fraction	R	20534846	http://www.wikidata.org/entity/Q1514515
+harald ebner	green party fraction	L	52431948	http://www.wikidata.org/entity/Q1524836
+tabea rößner	green party fraction	L	53351462	http://www.wikidata.org/entity/Q1564660
+hans michelbach	cdu/csu bundestag fraction	R	824221646290616321	http://www.wikidata.org/entity/Q1581364
+harald weinberg	bundestag fraction die linke	L	625642009	http://www.wikidata.org/entity/Q1584809
+jan korte	bundestag fraction die linke	L	4164673821	http://www.wikidata.org/entity/Q1599545
+steffen bilger	cdu/csu bundestag fraction	R	23925041	http://www.wikidata.org/entity/Q1648540
+ingrid remmers	bundestag fraction die linke	L	551802475	http://www.wikidata.org/entity/Q1652660
+victor perli	bundestag fraction die linke	L	3350681139	http://www.wikidata.org/entity/Q1728909
+karsten klein	fdp bundestag fraction	R	995228494023086080	http://www.wikidata.org/entity/Q1734454
+ralph lenkert	bundestag fraction die linke	L	1480579733494640642	http://www.wikidata.org/entity/Q1759589
+nicole gohlke	bundestag fraction die linke	L	866425075	http://www.wikidata.org/entity/Q1987000
+peter stein	cdu/csu bundestag fraction	R	2885729417	http://www.wikidata.org/entity/Q2078469
+stefan ruppert	fdp bundestag fraction	R	2710786593	http://www.wikidata.org/entity/Q2337465
+stephan thomae	fdp bundestag fraction	R	75005687	http://www.wikidata.org/entity/Q2343911
+tankred schipanski	cdu/csu bundestag fraction	R	39938182	http://www.wikidata.org/entity/Q2392856
+thomas rachel	cdu/csu bundestag fraction	R	1052524172717375488	http://www.wikidata.org/entity/Q2426649
+wolfgang strengmann-kuhn	green party fraction	L	20840049	http://www.wikidata.org/entity/Q2591533
+ulle schauws	green party fraction	L	17363943	http://www.wikidata.org/entity/Q14943234
+tobias zech	cdu/csu bundestag fraction	R	1720247887	http://www.wikidata.org/entity/Q14943431
+marian wendt	cdu/csu bundestag fraction	R	2430137675	http://www.wikidata.org/entity/Q14946186
+bernd westphal	spd bundestag fraction	L	1071665423140249600	http://www.wikidata.org/entity/Q15114148
+ulli nissen	spd bundestag fraction	L	382044198	http://www.wikidata.org/entity/Q15120341
+daniela de ridder	spd bundestag fraction	L	2842430247	http://www.wikidata.org/entity/Q15275916
+astrid freudenstein	cdu/csu bundestag fraction	R	704024372940513280	http://www.wikidata.org/entity/Q15434482
+carsten träger	spd bundestag fraction	L	3577737256	http://www.wikidata.org/entity/Q15793668
+daniel föst	fdp bundestag fraction	R	422569574	http://www.wikidata.org/entity/Q15804500
+wilfried oellers	cdu/csu bundestag fraction	R	906847944	http://www.wikidata.org/entity/Q15813191
+hagen reinhold	fdp bundestag fraction	R	925657781759332353	http://www.wikidata.org/entity/Q15819002
+fabio valeriano lanfranco de masi	bundestag fraction die linke	L	14784765	http://www.wikidata.org/entity/Q16999689
+paul ziemiak	cdu/csu bundestag fraction	R	288696645	http://www.wikidata.org/entity/Q18169686
+daniel günther	christian democratic union	R	3246262145
+dietmar woidke	social democratic party of germany	L	1032213336916680704
+malu dreyer	social democratic party of germany	L	20506239
+michael müller	social democratic party of germany	L	875683644668604416
+winfried kretschmann	alliance 90/the greens	L	296426654
+reiner haseloff	christian democratic union	R	111282322
+michael kretschmer	christian democratic union	R	393264968
+markus söder	christian social union of bavaria	R	793778228
+manuela schwesig	social democratic party of germany	L	1627905570
+armin laschet	christian democratic union	R	835541664
+andreas bovenschulte	social democratic party of germany	L	1015986511039356929
+stephan weil	social democratic party of germany	L	375618613
+peter tschentscher	social democratic party of germany	L	2715759820
+bodo ramelow	the left	L	21392844
+tobias hans	christian democratic union	R	19751955

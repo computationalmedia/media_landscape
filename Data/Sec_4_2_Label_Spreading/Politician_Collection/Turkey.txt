@@ -1,0 +1,476 @@
+ramazan can	justice and development party	R	3232864769	http://www.wikidata.org/entity/Q19612311
+öznur çalık	justice and development party	R	229637054	http://www.wikidata.org/entity/Q19613520
+rıdvan turan	peoples' democratic party	L	320683311	http://www.wikidata.org/entity/Q20195187
+mithat sancar	peoples' democratic party	L	367377070	http://www.wikidata.org/entity/Q20472571
+haydar akar	republican people's party	L	287169431	http://www.wikidata.org/entity/Q20474732
+alican önlü	peoples' democratic party	L	3169650988	http://www.wikidata.org/entity/Q20476291
+mustafa şentop	justice and development party	R	226219067	http://www.wikidata.org/entity/Q21044620
+uğur bayraktutan	republican people's party	L	443677181	http://www.wikidata.org/entity/Q21527259
+feridun bahşi	i̇yi̇ party	R	300237904	http://www.wikidata.org/entity/Q21528418
+ali şeker	republican people's party	L	214856284	http://www.wikidata.org/entity/Q23920840
+nevzat ceylan	justice and development party	R	3162762015	http://www.wikidata.org/entity/Q31188562
+metin gündoğdu	justice and development party	R	870374882	http://www.wikidata.org/entity/Q31188742
+hayrettin nuhoğlu	i̇yi̇ party	R	1584411072	http://www.wikidata.org/entity/Q31189448
+lütfü türkkan	i̇yi̇ party	R	176329831	http://www.wikidata.org/entity/Q61073783
+gamze akkuş i̇lgezdi	republican people's party	L	4134508697	http://www.wikidata.org/entity/Q61075844
+leyla shahin usta	justice and development party	R	3025338878	http://www.wikidata.org/entity/Q61075926
+dursun ataş	i̇yi̇ party	R	564689563	http://www.wikidata.org/entity/Q61077373
+bedri yaşar	i̇yi̇ party	R	962771607902179328	http://www.wikidata.org/entity/Q61077409
+yaşar yıldırım	nationalist movement party	R	3165093951	http://www.wikidata.org/entity/Q61077707
+serap yaşar	justice and development party	R	285700060	http://www.wikidata.org/entity/Q65499586
+zeynep yıldız	justice and development party	R	2906863019	http://www.wikidata.org/entity/Q65499840
+ahmet akay	justice and development party	R	991084702923743232	http://www.wikidata.org/entity/Q97204269
+zeynel emre	republican people's party	L	1314173346	http://www.wikidata.org/entity/Q97217240
+burhanettin bulut	republican people's party	L	87282413	http://www.wikidata.org/entity/Q97217944
+deniz yavuzyılmaz	republican people's party	L	3586217301	http://www.wikidata.org/entity/Q97236951
+kemal bülbül	peoples' democratic party	L	2287783352	http://www.wikidata.org/entity/Q106132319
+ali keven	republican people's party	L	484741747	http://www.wikidata.org/entity/Q106137888
+osman nuri gülaçar	justice and development party	R	709062920253132802	http://www.wikidata.org/entity/Q106148806
+q106152545	republican people's party	L	996843694643974144	http://www.wikidata.org/entity/Q106152545
+mehmet ali cevheri	justice and development party	R	3697574715	http://www.wikidata.org/entity/Q106154135
+q106163359	justice and development party	R	2787453897	http://www.wikidata.org/entity/Q106163359
+q106163363	justice and development party	R	998632694614577154	http://www.wikidata.org/entity/Q106163363
+emine zeybek	justice and development party	R	956566720810012672	http://www.wikidata.org/entity/Q106177338
+mahmut toğrul	peoples' democratic party	L	398065977	http://www.wikidata.org/entity/Q106182364
+habip eksik	peoples' democratic party	L	384903290	http://www.wikidata.org/entity/Q106182367
+erol katırcıoğlu	peoples' democratic party	L	767308083282513920	http://www.wikidata.org/entity/Q106182368
+cavit arı	republican people's party	L	743680434	http://www.wikidata.org/entity/Q106292404
+bekir kuvvet erim	justice and development party	R	243705279	http://www.wikidata.org/entity/Q106292495
+ensar aytekin	republican people's party	L	2180307984	http://www.wikidata.org/entity/Q106292514
+belgin uygur	justice and development party	R	913482607484129281	http://www.wikidata.org/entity/Q106292521
+feyzi berdibek	justice and development party	R	3171143225	http://www.wikidata.org/entity/Q106292538
+mehmet güzelmansur	republican people's party	L	2579031680	http://www.wikidata.org/entity/Q106305815
+ahmet uzer	justice and development party	R	1528442533	http://www.wikidata.org/entity/Q106306770
+eyüp özsoy	justice and development party	R	239724668	http://www.wikidata.org/entity/Q106306881
+fatma kurtulan	peoples' democratic party	L	2504898187	http://www.wikidata.org/entity/Q125342
+alpay özalan	justice and development party	R	999395228082634752	http://www.wikidata.org/entity/Q435749
+tuncay özkan	republican people's party	L	268950955	http://www.wikidata.org/entity/Q2459784
+muharrem varlı	nationalist movement party	R	2977996697	http://www.wikidata.org/entity/Q6020385
+i̇lknur i̇nceöz	justice and development party	R	405900155	http://www.wikidata.org/entity/Q6021969
+ahmet demircan	justice and development party	R	3192564381	http://www.wikidata.org/entity/Q6029399
+volkan bozkır	justice and development party	R	237765532	http://www.wikidata.org/entity/Q7940222
+mehmet erdoğan	justice and development party	R	380373022	http://www.wikidata.org/entity/Q17045984
+i̇brahim halil fırat	justice and development party	R	1035568326	http://www.wikidata.org/entity/Q20195222
+dirayet taşdemir	peoples' democratic party	L	2739067203	http://www.wikidata.org/entity/Q20988525
+ahmet salih dal	justice and development party	R	614120905	http://www.wikidata.org/entity/Q21523939
+atilla sertel	republican people's party	L	547552759	http://www.wikidata.org/entity/Q22003215
+i̇lyas şeker	justice and development party	R	254928303	http://www.wikidata.org/entity/Q23920991
+kamil aydın	nationalist movement party	R	2232989053	http://www.wikidata.org/entity/Q25479311
+barış karadeniz	republican people's party	L	226587468	http://www.wikidata.org/entity/Q26897023
+nihat yeşil	republican people's party	L	90360058	http://www.wikidata.org/entity/Q31188561
+hülya nergis	justice and development party	R	3730527255	http://www.wikidata.org/entity/Q31189439
+rümeysa kadak	justice and development party	R	2282508158	http://www.wikidata.org/entity/Q58212536
+yunus emre	republican people's party	L	11711022	http://www.wikidata.org/entity/Q61075850
+hüseyin yayman	justice and development party	R	858032418	http://www.wikidata.org/entity/Q65499841
+mahir polat	republican people's party	L	72264555	http://www.wikidata.org/entity/Q85972712
+servet ünsal	republican people's party	L	225090281	http://www.wikidata.org/entity/Q96582832
+nazım maviş	justice and development party	R	285599626	http://www.wikidata.org/entity/Q97214481
+ramazan kaşlı	nationalist movement party	R	1052194350216540163	http://www.wikidata.org/entity/Q97227833
+abdullah koç	peoples' democratic party	L	1002096337289138176	http://www.wikidata.org/entity/Q97233294
+remziye tosun	peoples' democratic party	L	1000061352726224896	http://www.wikidata.org/entity/Q99228281
+i̇brahim ethem sedef	nationalist movement party	R	316764344	http://www.wikidata.org/entity/Q106137821
+q106148790	republican people's party	L	2972639925	http://www.wikidata.org/entity/Q106148790
+q106148807	justice and development party	R	1000095743103897600	http://www.wikidata.org/entity/Q106148807
+aziz aydınlık	republican people's party	L	2814107355	http://www.wikidata.org/entity/Q106159988
+ahmet özyürek	nationalist movement party	R	986500544306073600	http://www.wikidata.org/entity/Q106160146
+q106162892	justice and development party	R	334285155	http://www.wikidata.org/entity/Q106162892
+suat özcan	republican people's party	L	1019212280301604865	http://www.wikidata.org/entity/Q106163571
+esin kara	nationalist movement party	R	998958619067670528	http://www.wikidata.org/entity/Q106167918
+abdulkadir karaduman	felicity party	R	864998658	http://www.wikidata.org/entity/Q106167919
+mustafa kendirli	justice and development party	R	2288487466	http://www.wikidata.org/entity/Q106179749
+necdet i̇pekyüz	peoples' democratic party	L	3362789511	http://www.wikidata.org/entity/Q106182359
+habibe öçal	justice and development party	R	3945449488	http://www.wikidata.org/entity/Q106194751
+abdurrahman tutdere	republican people's party	L	987299131310960640	http://www.wikidata.org/entity/Q106285434
+hayati arkaz	nationalist movement party	R	1031445982574198784	http://www.wikidata.org/entity/Q106291922
+emine gülizar emecan	republican people's party	L	1325784085365739528	http://www.wikidata.org/entity/Q106291977
+nevzat şatıroğlu	justice and development party	R	2183851486	http://www.wikidata.org/entity/Q106292020
+mustafa levent karahocagil	justice and development party	R	993234026487050245	http://www.wikidata.org/entity/Q106292333
+aydın özer	republican people's party	L	608390492	http://www.wikidata.org/entity/Q106292402
+vildan yılmaz gürel	justice and development party	R	1001413406686171139	http://www.wikidata.org/entity/Q106299841
+yüksel özkan	republican people's party	L	994857360840626181	http://www.wikidata.org/entity/Q106305042
+bayram yılmazkaya	republican people's party	L	998509095563988992	http://www.wikidata.org/entity/Q106305480
+cihan pektaş	justice and development party	R	1593377418	http://www.wikidata.org/entity/Q106305547
+abdulkadir özel	justice and development party	R	781239651088658432	http://www.wikidata.org/entity/Q106305754
+lütfi kaşıkçı	nationalist movement party	R	215618996	http://www.wikidata.org/entity/Q106305879
+yasin öztürk	i̇yi̇ party	R	253914403	http://www.wikidata.org/entity/Q106306485
+i̇brahim aydemir	justice and development party	R	167469408	http://www.wikidata.org/entity/Q106306760
+sabri öztürk	justice and development party	R	1631568816	http://www.wikidata.org/entity/Q106644090
+abdüllatif şener	republican people's party	L	217133632	http://www.wikidata.org/entity/Q317853
+şenol bal	i̇yi̇ party	R	1570136725	http://www.wikidata.org/entity/Q388852
+mehmet mehdi eker	justice and development party	R	3832541236	http://www.wikidata.org/entity/Q690972
+recep akdağ	justice and development party	R	717692461	http://www.wikidata.org/entity/Q713551
+numan kurtulmuş	justice and development party	R	34350322	http://www.wikidata.org/entity/Q982397
+gürsel tekin	republican people's party	L	163020501	http://www.wikidata.org/entity/Q5627146
+fatih şahin	justice and development party	R	145948187	http://www.wikidata.org/entity/Q6015501
+yaşar tüzün	republican people's party	L	2233223984	http://www.wikidata.org/entity/Q6030490
+cengiz aydoğdu	justice and development party	R	705374632451383296	http://www.wikidata.org/entity/Q6030810
+süreyya sadi bilgiç	justice and development party	R	3170535531	http://www.wikidata.org/entity/Q6042485
+erdoğan toprak	republican people's party	L	304942388	http://www.wikidata.org/entity/Q6047566
+alev dedegil	justice and development party	R	704251163294699520	http://www.wikidata.org/entity/Q6057352
+leyla güven	peoples' democratic party	L	3149485661	http://www.wikidata.org/entity/Q6538025
+i̇smet yılmaz	justice and development party	R	2270165869	http://www.wikidata.org/entity/Q8080224
+mehmet âkif hamzaçebi	republican people's party	L	707159762	http://www.wikidata.org/entity/Q12810797
+mahmut tanal	republican people's party	L	381416280	http://www.wikidata.org/entity/Q15833364
+mustafa elitaş	justice and development party	R	213775526	http://www.wikidata.org/entity/Q17046122
+mustafa demir	justice and development party	R	122684595	http://www.wikidata.org/entity/Q17431095
+veli ağbaba	republican people's party	L	98080974	http://www.wikidata.org/entity/Q17448625
+fetani battal	justice and development party	R	998600438462238721	http://www.wikidata.org/entity/Q19611269
+recep özel	justice and development party	R	2168472695	http://www.wikidata.org/entity/Q19612324
+yusuf başer	justice and development party	R	473896369	http://www.wikidata.org/entity/Q19737965
+erkan kandemir	justice and development party	R	86621872	http://www.wikidata.org/entity/Q20471298
+candan yüceer	republican people's party	L	343402258	http://www.wikidata.org/entity/Q20630670
+lale karabıyık	republican people's party	L	293604809	http://www.wikidata.org/entity/Q21526508
+murat bakan	republican people's party	L	3043691250	http://www.wikidata.org/entity/Q23920837
+hacı bayram türkoğlu	justice and development party	R	281020745	http://www.wikidata.org/entity/Q23920951
+i̇smet uçma	justice and development party	R	3801549916	http://www.wikidata.org/entity/Q23921010
+emine nur günay	justice and development party	R	3135299947	http://www.wikidata.org/entity/Q25474934
+mustafa tuncer	republican people's party	L	3296334795	http://www.wikidata.org/entity/Q26806302
+murat emir	republican people's party	L	3173512948	http://www.wikidata.org/entity/Q28218129
+ömer fethi gürer	republican people's party	L	451343108	http://www.wikidata.org/entity/Q31188503
+ayşe acar başaran	peoples' democratic party	L	802856384	http://www.wikidata.org/entity/Q31188542
+oya eronat	justice and development party	R	1068106074853658624	http://www.wikidata.org/entity/Q31188580
+utku çakırözer	republican people's party	L	17137978	http://www.wikidata.org/entity/Q31189163
+osman aşkın bak	justice and development party	R	2164886426	http://www.wikidata.org/entity/Q39463440
+çetin arık	republican people's party	L	285163948	http://www.wikidata.org/entity/Q56173741
+bekir başevirgen	republican people's party	L	809170932568850432	http://www.wikidata.org/entity/Q56173959
+ömer faruk gergerlioğlu	peoples' democratic party	L	219459066	http://www.wikidata.org/entity/Q56173976
+onursal adıgüzel	republican people's party	L	213574443	http://www.wikidata.org/entity/Q61075840
+cahit özkan	justice and development party	R	278472416	http://www.wikidata.org/entity/Q61075931
+ahmet büyükgümüş	justice and development party	R	168590973	http://www.wikidata.org/entity/Q61075933
+fahrettin yokuş	i̇yi̇ party	R	2846467731	http://www.wikidata.org/entity/Q61077386
+ahmet erbaş	nationalist movement party	R	992461438903078912	http://www.wikidata.org/entity/Q61077885
+müzeyyen şevkin	republican people's party	L	463221205	http://www.wikidata.org/entity/Q97212182
+sera kadıgil	republican people's party	L	65907753	http://www.wikidata.org/entity/Q104721879
+mustafa yel	justice and development party	R	2161985859	http://www.wikidata.org/entity/Q106147927
+q106147928	justice and development party	R	2590027648	http://www.wikidata.org/entity/Q106147928
+kadim durmaz	republican people's party	L	3061617953	http://www.wikidata.org/entity/Q106152523
+nusrettin maçin	peoples' democratic party	L	1002483544197824513	http://www.wikidata.org/entity/Q106159990
+orhan kırcalı	justice and development party	R	3031171907	http://www.wikidata.org/entity/Q106162573
+muhammed levent bülbül	nationalist movement party	R	1060502095990796289	http://www.wikidata.org/entity/Q106162762
+q106163121	justice and development party	R	314465662	http://www.wikidata.org/entity/Q106163121
+mürsel alban	republican people's party	L	723931803522859010	http://www.wikidata.org/entity/Q106163570
+burak erbay	republican people's party	L	126443036	http://www.wikidata.org/entity/Q106163572
+zeynep gül yılmaz	justice and development party	R	715680606	http://www.wikidata.org/entity/Q106166223
+saffet sancaklı	nationalist movement party	R	230119360	http://www.wikidata.org/entity/Q106177340
+hasan baltacı	republican people's party	L	1472257298	http://www.wikidata.org/entity/Q106179738
+ahmet önal	republican people's party	L	1051080556954509313	http://www.wikidata.org/entity/Q106179923
+ali kenanoğlu	peoples' democratic party	L	235707057	http://www.wikidata.org/entity/Q106182369
+bedri serter	republican people's party	L	771715790383017984	http://www.wikidata.org/entity/Q106194852
+mehmet doğan kubat	justice and development party	R	1710812629	http://www.wikidata.org/entity/Q106292044
+metin yavuz	justice and development party	R	994586058498215936	http://www.wikidata.org/entity/Q106292530
+i̇smail tatlıoğlu	i̇yi̇ party	R	582992631	http://www.wikidata.org/entity/Q106299837
+ebubekir bal	justice and development party	R	736242416198508545	http://www.wikidata.org/entity/Q106305224
+jale nur süllü	republican people's party	L	1576035096	http://www.wikidata.org/entity/Q106305326
+fahri çakır	justice and development party	R	999936891217698816	http://www.wikidata.org/entity/Q106306655
+pervin buldan	peoples' democratic party	L	385576286	http://www.wikidata.org/entity/Q458740
+devlet bahçeli	nationalist movement party	R	214017108	http://www.wikidata.org/entity/Q1206951
+mehmet özhaseki	justice and development party	R	580044071	http://www.wikidata.org/entity/Q1917380
+efkan ala	justice and development party	R	1318916166	http://www.wikidata.org/entity/Q6034078
+celalettin güvenç	justice and development party	R	824749884	http://www.wikidata.org/entity/Q6034254
+mustafa kalaycı	nationalist movement party	R	978196984522838017	http://www.wikidata.org/entity/Q6036068
+naci bostancı	justice and development party	R	90854551	http://www.wikidata.org/entity/Q6092505
+enis berberoğlu	republican people's party	L	2775934013	http://www.wikidata.org/entity/Q12809410
+hakkı köylü	justice and development party	R	1219620756503527430	http://www.wikidata.org/entity/Q17045732
+yılmaz tunç	justice and development party	R	115216315	http://www.wikidata.org/entity/Q17046592
+engin altay	republican people's party	L	545965017	http://www.wikidata.org/entity/Q18922617
+abdullah nejat koçer	justice and development party	R	216106605	http://www.wikidata.org/entity/Q19610371
+ali özkaya	justice and development party	R	2309002266	http://www.wikidata.org/entity/Q20177265
+berdan öztürk	peoples' democratic party	L	3740495895	http://www.wikidata.org/entity/Q20983467
+meral danış beştaş	peoples' democratic party	L	1292533710	http://www.wikidata.org/entity/Q20988504
+fatma betül sayan kaya	justice and development party	R	145941531	http://www.wikidata.org/entity/Q24230049
+tamer dağlı	justice and development party	R	2807717139	http://www.wikidata.org/entity/Q25477558
+ahmet çakır	justice and development party	R	379592150	http://www.wikidata.org/entity/Q26211430
+mehmet yavuz demir	justice and development party	R	1001743701150961665	http://www.wikidata.org/entity/Q106163574
+cengiz gökçel	republican people's party	L	1003701271667335171	http://www.wikidata.org/entity/Q106166225
+ceyda çetin erenler	justice and development party	R	2694318701	http://www.wikidata.org/entity/Q106167922
+hakan kahtalı	justice and development party	R	1543044643	http://www.wikidata.org/entity/Q106167924
+tamer osmanağaoğlu	nationalist movement party	R	2405425089	http://www.wikidata.org/entity/Q106194577
+ayşe sibel ersoy	nationalist movement party	R	3185991771	http://www.wikidata.org/entity/Q106285408
+özgür karabat	republican people's party	L	743755844	http://www.wikidata.org/entity/Q106291983
+mehmet bülent karataş	nationalist movement party	R	2277643629	http://www.wikidata.org/entity/Q106292191
+barış aydın	justice and development party	R	2491561381	http://www.wikidata.org/entity/Q106292358
+emine yavuz gözgeç	justice and development party	R	1662998840	http://www.wikidata.org/entity/Q106299769
+atilla ödünç	justice and development party	R	1166780072	http://www.wikidata.org/entity/Q106305022
+müslüm yüksel	justice and development party	R	903303182520111104	http://www.wikidata.org/entity/Q106305450
+mehmet sait kirazoğlu	justice and development party	R	989604742719594497	http://www.wikidata.org/entity/Q106305464
+erol kavuncu	justice and development party	R	1667374212	http://www.wikidata.org/entity/Q106306324
+husret dinç	justice and development party	R	1001807884773154816	http://www.wikidata.org/entity/Q106306791
+hayati yazıcı	justice and development party	R	1600967762	http://www.wikidata.org/entity/Q371432
+selami altınok	justice and development party	R	989915496232386560	http://www.wikidata.org/entity/Q6021021
+erol kaya	justice and development party	R	280660563	http://www.wikidata.org/entity/Q6069535
+engin özkoç	republican people's party	L	221790511	http://www.wikidata.org/entity/Q26234881
+salih cora	justice and development party	R	792534068	http://www.wikidata.org/entity/Q31188465
+jülide sarıeroğlu	justice and development party	R	887742723444420617	http://www.wikidata.org/entity/Q31188554
+ahmet akın	republican people's party	L	18185406	http://www.wikidata.org/entity/Q31188725
+ahmet sorgun	justice and development party	R	3685093156	http://www.wikidata.org/entity/Q31189293
+kani beko	republican people's party	L	993175451827953664	http://www.wikidata.org/entity/Q31191339
+serpil kemalbay	peoples' democratic party	L	2369037194	http://www.wikidata.org/entity/Q31192483
+sezai temelli	peoples' democratic party	L	529661015	http://www.wikidata.org/entity/Q48223310
+alpay antmen	republican people's party	L	184126072	http://www.wikidata.org/entity/Q61075702
+orhan sarıbal	republican people's party	L	2979105539	http://www.wikidata.org/entity/Q61075848
+i̇mam hüseyin filiz	i̇yi̇ party	R	1044212936942788608	http://www.wikidata.org/entity/Q61076818
+mustafa canbey	justice and development party	R	79732039	http://www.wikidata.org/entity/Q61996495
+arzu erdem	nationalist movement party	R	3071570176	http://www.wikidata.org/entity/Q65499852
+i̇smail atakan ünver	republican people's party	L	2572997772	http://www.wikidata.org/entity/Q85977459
+burhan çakır	justice and development party	R	442814225	http://www.wikidata.org/entity/Q97204622
+ali fazıl kasap	republican people's party	L	49467211	http://www.wikidata.org/entity/Q97210877
+ali mahir başarır	republican people's party	L	79574414	http://www.wikidata.org/entity/Q97210902
+yunus kılıç	justice and development party	R	1533148142	http://www.wikidata.org/entity/Q97214962
+kemal peköz	peoples' democratic party	L	969505577092222982	http://www.wikidata.org/entity/Q97216292
+fikret şahin	republican people's party	L	405144728	http://www.wikidata.org/entity/Q97235701
+abdulahat arvas	justice and development party	R	2338281961	http://www.wikidata.org/entity/Q106148808
+semiha ekinci	justice and development party	R	524688228	http://www.wikidata.org/entity/Q106160148
+q106162757	justice and development party	R	201420159	http://www.wikidata.org/entity/Q106162757
+cengiz demirkaya	justice and development party	R	1001876598247886848	http://www.wikidata.org/entity/Q106166695
+hacı ahmet özdemir	justice and development party	R	210901544	http://www.wikidata.org/entity/Q106167914
+mehmet akif yılmaz	justice and development party	R	3037304259	http://www.wikidata.org/entity/Q106177335
+tahsin tarhan	republican people's party	L	268192154	http://www.wikidata.org/entity/Q106177339
+erdal aydemir	peoples' democratic party	L	997175578112425985	http://www.wikidata.org/entity/Q106182360
+semra güzel	peoples' democratic party	L	1000992011451760643	http://www.wikidata.org/entity/Q106182363
+necip nasır	justice and development party	R	3147501676	http://www.wikidata.org/entity/Q106194853
+yaşar kırkpınar	justice and development party	R	971713752	http://www.wikidata.org/entity/Q106194854
+ceyda bölünmez çankırı	justice and development party	R	4217533865	http://www.wikidata.org/entity/Q106291845
+ahmet mücahit arınç	justice and development party	R	990477613717180416	http://www.wikidata.org/entity/Q106292012
+tülay kaynarca	justice and development party	R	296398329	http://www.wikidata.org/entity/Q106292039
+abdullah güler	justice and development party	R	564749194	http://www.wikidata.org/entity/Q106292197
+i̇brahim yurdunuseven	justice and development party	R	993930766190030850	http://www.wikidata.org/entity/Q106292284
+hasan çilez	justice and development party	R	1000111005597347840	http://www.wikidata.org/entity/Q106292337
+orhan yegin	justice and development party	R	199688609	http://www.wikidata.org/entity/Q106292342
+mustafa esgin	justice and development party	R	1975535660	http://www.wikidata.org/entity/Q106299752
+fatma aksal	justice and development party	R	239506930	http://www.wikidata.org/entity/Q106305240
+arslan kabukcuoğlu	i̇yi̇ party	R	1030145626749759489	http://www.wikidata.org/entity/Q106305364
+metin nurullah sazak	nationalist movement party	R	3705308355	http://www.wikidata.org/entity/Q106305380
+hacı osman akgül	justice and development party	R	2961879346	http://www.wikidata.org/entity/Q106305533
+hüseyin şanverdi	justice and development party	R	749824794	http://www.wikidata.org/entity/Q106305768
+cemal çetin	nationalist movement party	R	3252737921	http://www.wikidata.org/entity/Q106306003
+yalçın akdoğan	justice and development party	R	602595758	http://www.wikidata.org/entity/Q6026854
+tahir akyürek	justice and development party	R	236806864	http://www.wikidata.org/entity/Q6026914
+tekin bingöl	republican people's party	L	804108324	http://www.wikidata.org/entity/Q6027967
+levent gök	republican people's party	L	492115635	http://www.wikidata.org/entity/Q6027977
+vahit kiler	justice and development party	R	441238687	http://www.wikidata.org/entity/Q6028419
+nurettin canikli	justice and development party	R	3677470275	http://www.wikidata.org/entity/Q6046409
+mustafa destici	great unity party	R	433271238	http://www.wikidata.org/entity/Q6061112
+emrullah i̇şler	justice and development party	R	251971322	http://www.wikidata.org/entity/Q6084915
+şamil ayrım	justice and development party	R	387330241	http://www.wikidata.org/entity/Q6444747
+mehmet bekaroğlu	republican people's party	L	290180076	http://www.wikidata.org/entity/Q6809589
+faik öztrak	republican people's party	L	459124953	http://www.wikidata.org/entity/Q12809515
+ali şahin	justice and development party	R	201274084	http://www.wikidata.org/entity/Q17045487
+ahmet yıldız	justice and development party	R	991640933761511424	http://www.wikidata.org/entity/Q17430402
+aykut erdoğdu	republican people's party	L	262063267	http://www.wikidata.org/entity/Q19610617
+mihrimah belma satır	justice and development party	R	281656898	http://www.wikidata.org/entity/Q20472424
+bülent turan	justice and development party	R	201339405	http://www.wikidata.org/entity/Q20473769
+özcan purçu	republican people's party	L	3021299620	http://www.wikidata.org/entity/Q20476906
+selin sayek böke	republican people's party	L	80531038	http://www.wikidata.org/entity/Q21044822
+ravza kavakcı kan	justice and development party	R	2164881932	http://www.wikidata.org/entity/Q21540262
+ali i̇hsan yavuz	justice and development party	R	218424102	http://www.wikidata.org/entity/Q23069880
+fehmi küpçü	justice and development party	R	477693990	http://www.wikidata.org/entity/Q23920912
+erkan akçay	nationalist movement party	R	1487245633	http://www.wikidata.org/entity/Q23920974
+atay uslu	justice and development party	R	156280587	http://www.wikidata.org/entity/Q25472642
+aytun çıray	i̇yi̇ party	R	1164845085915275264	http://www.wikidata.org/entity/Q25473692
+filiz kerestecioğlu	peoples' democratic party	L	1468227864	http://www.wikidata.org/entity/Q25474949
+ünal demirtaş	republican people's party	L	419654154	http://www.wikidata.org/entity/Q25476522
+recep şeker	justice and development party	R	856226174	http://www.wikidata.org/entity/Q26234870
+i̇smail güneş	justice and development party	R	338523404	http://www.wikidata.org/entity/Q31193153
+yıldırım kaya	republican people's party	L	217219462	http://www.wikidata.org/entity/Q61075855
+feti yıldız	nationalist movement party	R	979992619362209792	http://www.wikidata.org/entity/Q61077817
+ömer öcalan	peoples' democratic party	L	369522787	http://www.wikidata.org/entity/Q64738140
+zehra taşkesenlioğlu	justice and development party	R	548556347	http://www.wikidata.org/entity/Q65499843
+yavuz subaşı	justice and development party	R	170619617	http://www.wikidata.org/entity/Q85976437
+yaşar karadağ	nationalist movement party	R	1040369717536583680	http://www.wikidata.org/entity/Q97214892
+kemal zeybek	republican people's party	L	2241596925	http://www.wikidata.org/entity/Q97320285
+yusuf beyazıt	justice and development party	R	3710390297	http://www.wikidata.org/entity/Q106148029
+muazzez orhan	peoples' democratic party	L	1000651455324475393	http://www.wikidata.org/entity/Q106148766
+bahar ayvazoğlu	justice and development party	R	798940351	http://www.wikidata.org/entity/Q106152555
+hüseyin kaçmaz	peoples' democratic party	L	1000151192280948736	http://www.wikidata.org/entity/Q106152580
+q106160414	peoples' democratic party	L	1000851954610900992	http://www.wikidata.org/entity/Q106160414
+q106162753	justice and development party	R	449521238	http://www.wikidata.org/entity/Q106162753
+faruk sarıaslan	republican people's party	L	1103988613191294977	http://www.wikidata.org/entity/Q106163367
+q106163435	justice and development party	R	3144351226	http://www.wikidata.org/entity/Q106163435
+ali cumhur taşkın	justice and development party	R	446278280	http://www.wikidata.org/entity/Q106166222
+olcay kılavuz	nationalist movement party	R	452170477	http://www.wikidata.org/entity/Q106166272
+tamer akkal	justice and development party	R	1090999679553290240	http://www.wikidata.org/entity/Q106167111
+i̇shak gazel	justice and development party	R	179453842	http://www.wikidata.org/entity/Q106167921
+sami çakır	justice and development party	R	354980383	http://www.wikidata.org/entity/Q106177336
+murat çepni	peoples' democratic party	L	1491347586	http://www.wikidata.org/entity/Q106182374
+hüseyin avni aksoy	republican people's party	L	956232320356372480	http://www.wikidata.org/entity/Q106192371
+mehmet uğur gökgöz	justice and development party	R	999759826518528000	http://www.wikidata.org/entity/Q106287550
+hasan kalyoncu	nationalist movement party	R	991972364677255168	http://www.wikidata.org/entity/Q106291834
+nevin taşlıçay	nationalist movement party	R	252639994	http://www.wikidata.org/entity/Q106292350
+rıza posacı	justice and development party	R	1114502466	http://www.wikidata.org/entity/Q106292503
+osman mesten	justice and development party	R	3053931293	http://www.wikidata.org/entity/Q106305113
+salim çivitcioğlu	justice and development party	R	760254109	http://www.wikidata.org/entity/Q106305143
+özgür ceylan	republican people's party	L	935150149894012929	http://www.wikidata.org/entity/Q106306288
+ahmet kaya	republican people's party	L	798807248948449280	http://www.wikidata.org/entity/Q106306418
+gürsel erol	republican people's party	L	2958418811	http://www.wikidata.org/entity/Q106306663
+ahmet tan	justice and development party	R	2265694872	http://www.wikidata.org/entity/Q106644100
+kemal kılıçdaroğlu	republican people's party	L	154140901	http://www.wikidata.org/entity/Q44332
+feleknas uca	peoples' democratic party	L	257406853	http://www.wikidata.org/entity/Q77240
+binali yıldırım	justice and development party	R	737302248338952193; 885222182	http://www.wikidata.org/entity/Q863496
+lütfi elvan	justice and development party	R	2262866341	http://www.wikidata.org/entity/Q6031129
+markar esayan	justice and development party	R	40523038	http://www.wikidata.org/entity/Q6034902
+mehmet şükrü erdinç	justice and development party	R	183979676	http://www.wikidata.org/entity/Q6052528
+nabi avcı	justice and development party	R	1000338998961868800	http://www.wikidata.org/entity/Q12811068
+orhan erdem	justice and development party	R	1594287001	http://www.wikidata.org/entity/Q17046229
+suleyman karaman	justice and development party	R	439274548	http://www.wikidata.org/entity/Q19686516
+vedat demiröz	justice and development party	R	283709733	http://www.wikidata.org/entity/Q20474671
+sefer aycan	nationalist movement party	R	258356021	http://www.wikidata.org/entity/Q20675924
+ali i̇hsan arslan	justice and development party	R	3233256544	http://www.wikidata.org/entity/Q21471187
+fuat koktas	justice and development party	R	1008852967	http://www.wikidata.org/entity/Q21526078
+sadir durmaz	nationalist movement party	R	578351935	http://www.wikidata.org/entity/Q21526880
+abdurrahman başkan	nationalist movement party	R	2343697842	http://www.wikidata.org/entity/Q23920825
+hamza dağ	justice and development party	R	245921099	http://www.wikidata.org/entity/Q23920890
+ahmet berat çonkar	justice and development party	R	269839336	http://www.wikidata.org/entity/Q25473359
+mehmet muş	justice and development party	R	207085169	http://www.wikidata.org/entity/Q25477012
+mustafa savaş	justice and development party	R	925368405502328832	http://www.wikidata.org/entity/Q25477030
+mustafa yeneroğlu	justice and development party	R	291368363	http://www.wikidata.org/entity/Q29413594
+okan gaytancıoğlu	republican people's party	L	1156640524532686849	http://www.wikidata.org/entity/Q31188513
+türabi kayan	republican people's party	L	1667813030	http://www.wikidata.org/entity/Q31188786
+ahmet sami ceylan	justice and development party	R	2234842806	http://www.wikidata.org/entity/Q31192107
+oya ersoy	peoples' democratic party	L	757537039	http://www.wikidata.org/entity/Q55443880
+gülizar biçer karaca	republican people's party	L	2726705524	http://www.wikidata.org/entity/Q61073818
+oğuz kaan salıcı	republican people's party	L	282066211	http://www.wikidata.org/entity/Q61075841
+cidem karaaslan	justice and development party	R	244107189	http://www.wikidata.org/entity/Q61075927
+müsavat dervişoğlu	i̇yi̇ party	R	975688381974884353	http://www.wikidata.org/entity/Q61075939
+orhan çakırlar	i̇yi̇ party	R	2237636930	http://www.wikidata.org/entity/Q61077164
+yavuz ağıralioğlu	i̇yi̇ party	R	1283532661	http://www.wikidata.org/entity/Q61077370
+mehmet taytak	nationalist movement party	R	995983724096446465	http://www.wikidata.org/entity/Q61077706
+ali öztunç	republican people's party	L	2227186663	http://www.wikidata.org/entity/Q61077766
+i̇zzet ulvi yönter	nationalist movement party	R	4472008409	http://www.wikidata.org/entity/Q61077872
+halil öztürk	nationalist movement party	R	1595496534	http://www.wikidata.org/entity/Q61077880
+i̇brahim özyavuz	nationalist movement party	R	4330405288	http://www.wikidata.org/entity/Q61357211
+zafer sirakaya	justice and development party	R	572032571	http://www.wikidata.org/entity/Q65499835
+pero dundar	peoples' democratic party	L	998655747788591104	http://www.wikidata.org/entity/Q65499849
+gamze taşçıer	republican people's party	L	282930186	http://www.wikidata.org/entity/Q85970652
+ahmet zenbilci	justice and development party	R	257069051	http://www.wikidata.org/entity/Q97224113
+ali muhittin taşdoğan	nationalist movement party	R	238122440	http://www.wikidata.org/entity/Q97224251
+abdullah doğru	justice and development party	R	376706828	http://www.wikidata.org/entity/Q97320407
+muhammed fatih toprak	justice and development party	R	3133713255	http://www.wikidata.org/entity/Q100329199
+ebru günay	peoples' democratic party	L	2495371144	http://www.wikidata.org/entity/Q105064547
+meliha akyol	justice and development party	R	999444477147312129	http://www.wikidata.org/entity/Q106148722
+ayşe sürücü	peoples' democratic party	L	1000449954635223040	http://www.wikidata.org/entity/Q106159989
+osman ören	justice and development party	R	602887487	http://www.wikidata.org/entity/Q106160415
+ergün taşcı	justice and development party	R	847133977517457409	http://www.wikidata.org/entity/Q106163122
+yelda erol gökcan	justice and development party	R	632216962	http://www.wikidata.org/entity/Q106163575
+baki şimşek	nationalist movement party	R	3055572752	http://www.wikidata.org/entity/Q106166275
+semra kaplan kıvırcık	justice and development party	R	4672987632	http://www.wikidata.org/entity/Q106167107
+selman özboyacı	justice and development party	R	182383851	http://www.wikidata.org/entity/Q106167916
+halil etyemez	justice and development party	R	263830566	http://www.wikidata.org/entity/Q106167917
+cemil yaman	justice and development party	R	256512810	http://www.wikidata.org/entity/Q106177337
+vecdi gündoğdu	republican people's party	L	3367695521	http://www.wikidata.org/entity/Q106179747
+züleyha gülüm	peoples' democratic party	L	995004347133169664	http://www.wikidata.org/entity/Q106182373
+mehmet cihat sezal	justice and development party	R	1382837623	http://www.wikidata.org/entity/Q106194749
+ahmet özdemir	justice and development party	R	1861596000	http://www.wikidata.org/entity/Q106291824
+mahmut atilla kaya	justice and development party	R	465900536	http://www.wikidata.org/entity/Q106291847
+ednan arslan	republican people's party	L	2913771958	http://www.wikidata.org/entity/Q106291851
+turan aydoğan	republican people's party	L	905829925508272128	http://www.wikidata.org/entity/Q106291981
+halis dalkılıç	justice and development party	R	232134649	http://www.wikidata.org/entity/Q106292036
+hasan turan	justice and development party	R	306705942	http://www.wikidata.org/entity/Q106292204
+i̇ffet polat	justice and development party	R	426080301	http://www.wikidata.org/entity/Q106292236
+yüksel mansur kılınç	republican people's party	L	473908284	http://www.wikidata.org/entity/Q106292269
+arife polat düzgün	justice and development party	R	894183421882269698	http://www.wikidata.org/entity/Q106292346
+rafet zeybek	republican people's party	L	3041339741	http://www.wikidata.org/entity/Q106292398
+süleyman bülbül	republican people's party	L	339184936	http://www.wikidata.org/entity/Q106292507
+aysu bankoğlu	republican people's party	L	609908136	http://www.wikidata.org/entity/Q106292516
+i̇rfan kaplan	republican people's party	L	999582223295795200	http://www.wikidata.org/entity/Q106305495
+necati tığlı	republican people's party	L	3121444610	http://www.wikidata.org/entity/Q106305724
+i̇smet tokdemir	republican people's party	L	1001768106610647040	http://www.wikidata.org/entity/Q106305832
+şahin tin	justice and development party	R	3028923358	http://www.wikidata.org/entity/Q106306339
+ümit yılmaz	nationalist movement party	R	299702547	http://www.wikidata.org/entity/Q106306649
+akif çağatay kılıç	justice and development party	R	2216942136	http://www.wikidata.org/entity/Q418025
+tuğrul türkeş	justice and development party	R	1487168742	http://www.wikidata.org/entity/Q2602515
+cevdet yılmaz	justice and development party	R	986911464	http://www.wikidata.org/entity/Q2947184
+bekir bozdağ	justice and development party	R	425819395	http://www.wikidata.org/entity/Q4881622
+bayram özçelik	justice and development party	R	445531331	http://www.wikidata.org/entity/Q6041040
+celal adan	nationalist movement party	R	1560099350	http://www.wikidata.org/entity/Q6045164
+barış atay	workers' party of turkey	L	84729044	http://www.wikidata.org/entity/Q6046649
+i̇smail emrah karayel	justice and development party	R	1284238940	http://www.wikidata.org/entity/Q6079003
+seyit torun	republican people's party	L	347075208	http://www.wikidata.org/entity/Q6081122
+tayip temel	peoples' democratic party	L	844962536273391617	http://www.wikidata.org/entity/Q7062620
+ahmet arslan	justice and development party	R	265967403	http://www.wikidata.org/entity/Q12808316
+sezgin tanrıkulu	republican people's party	L	311941597	http://www.wikidata.org/entity/Q12811826
+özgür özel	republican people's party	L	229515050	http://www.wikidata.org/entity/Q17046812
+sermin balık	justice and development party	R	425724450	http://www.wikidata.org/entity/Q17431875
+garo paylan	peoples' democratic party	L	81161411	http://www.wikidata.org/entity/Q20164837
+hüda kaya	peoples' democratic party	L	2803027408	http://www.wikidata.org/entity/Q20470615
+aydın adnan sezgin	i̇yi̇ party	R	989111628082892800	http://www.wikidata.org/entity/Q20470954
+burcu köksal	republican people's party	L	166091210	http://www.wikidata.org/entity/Q20744474
+mevlüt karakaya	nationalist movement party	R	351811652	http://www.wikidata.org/entity/Q20983364
+i̇mam taşçıer	peoples' democratic party	L	773811853	http://www.wikidata.org/entity/Q21528377
+i̇smet büyükataman	nationalist movement party	R	539006164	http://www.wikidata.org/entity/Q21528397
+kamil okyay sındır	republican people's party	L	97679847	http://www.wikidata.org/entity/Q23415694
+erkan haberal	nationalist movement party	R	3156851966	http://www.wikidata.org/entity/Q23921024
+özlem zengin	justice and development party	R	744924164	http://www.wikidata.org/entity/Q24572182
+serkan bayram	justice and development party	R	295081302	http://www.wikidata.org/entity/Q27057592
+ayşe keşir	justice and development party	R	228446708	http://www.wikidata.org/entity/Q31188492
+çetin osman budak	republican people's party	L	381500709	http://www.wikidata.org/entity/Q31188650
+ziya altunyaldız	justice and development party	R	1445709277	http://www.wikidata.org/entity/Q31189165
+ahmet vehbi bakırlıoğlu	republican people's party	L	751245967	http://www.wikidata.org/entity/Q56173897
+i̇brahim halil oral	i̇yi̇ party	R	523345312	http://www.wikidata.org/entity/Q61077182
+zeki hakan sidali	i̇yi̇ party	R	88175013	http://www.wikidata.org/entity/Q61077408
+sermet atay	nationalist movement party	R	2231539126	http://www.wikidata.org/entity/Q61077761
+yücel bulut	nationalist movement party	R	3905689939	http://www.wikidata.org/entity/Q61357208
+canan kalsın	justice and development party	R	161208090	http://www.wikidata.org/entity/Q65499845
+selman oğuzhan eser	justice and development party	R	938495560289538050	http://www.wikidata.org/entity/Q85974669
+musa farisoğulları	peoples' democratic party	L	998592415148793856	http://www.wikidata.org/entity/Q97214393
+adnan günnar	justice and development party	R	96839957	http://www.wikidata.org/entity/Q97320249
+q106152579	peoples' democratic party	L	926770315526574080	http://www.wikidata.org/entity/Q106152579
+rizgin birlik	justice and development party	R	998959323664539649	http://www.wikidata.org/entity/Q106152582
+q106160207	republican people's party	L	993148929729540096	http://www.wikidata.org/entity/Q106160207
+q106163001	justice and development party	R	562687527	http://www.wikidata.org/entity/Q106163001
+q106163119	republican people's party	L	730951333008838656	http://www.wikidata.org/entity/Q106163119
+yavuz ergun	justice and development party	R	2251922490	http://www.wikidata.org/entity/Q106163287
+şeyhmus dinçel	justice and development party	R	796115093205487616	http://www.wikidata.org/entity/Q106166694
+murat baybatur	justice and development party	R	1462396794	http://www.wikidata.org/entity/Q106167105
+i̇smail tamer	justice and development party	R	544376108	http://www.wikidata.org/entity/Q106179742
+selahattin minsolmaz	justice and development party	R	737250368	http://www.wikidata.org/entity/Q106179748
+sait dede	peoples' democratic party	L	999430729917493248	http://www.wikidata.org/entity/Q106182365
+ayhan barut	republican people's party	L	524102272	http://www.wikidata.org/entity/Q106285410
+yakup taş	justice and development party	R	3676885697	http://www.wikidata.org/entity/Q106285435
+cemal bekle	justice and development party	R	999298007668584448	http://www.wikidata.org/entity/Q106291837
+aziz babuşcu	justice and development party	R	145254257	http://www.wikidata.org/entity/Q106292210
+asuman erdoğan	justice and development party	R	999025049968537601	http://www.wikidata.org/entity/Q106292353
+hacı turan	justice and development party	R	3241446723	http://www.wikidata.org/entity/Q106292363
+muhammet müfit aydın	justice and development party	R	380782315	http://www.wikidata.org/entity/Q106299843
+jülide i̇skenderoğlu	justice and development party	R	468159663	http://www.wikidata.org/entity/Q106305092
+nilgün ök	justice and development party	R	2161571388	http://www.wikidata.org/entity/Q106305159
+derya bakbak	justice and development party	R	285647449	http://www.wikidata.org/entity/Q106305423
+fatih süleyman denizolgun	justice and development party	R	1000650710009176064	http://www.wikidata.org/entity/Q106305973
+metin bulut	justice and development party	R	397378836	http://www.wikidata.org/entity/Q106306659
+serkan topal	republican people's party	L	3331837174	http://www.wikidata.org/entity/Q106306801
+osman boyraz	justice and development party	R	291960146	http://www.wikidata.org/entity/Q106306903
+mehmet göker	republican people's party	L	3370821759	http://www.wikidata.org/entity/Q106648146
+veysel eroğlu	justice and development party	R	149044403	http://www.wikidata.org/entity/Q1465755
+ahmet aydın	justice and development party	R	497735542	http://www.wikidata.org/entity/Q6031189
+tacettin bayır	republican people's party	L	213298580	http://www.wikidata.org/entity/Q6044313
+ahat andican	i̇yi̇ party	R	3066327118	http://www.wikidata.org/entity/Q6052365
+i̇lhan kesici	republican people's party	L	121052401	http://www.wikidata.org/entity/Q6053556
+ahmet eşref fakıbaba	justice and development party	R	3152745814	http://www.wikidata.org/entity/Q6064478
+ünal çeviköz	republican people's party	L	511055428	http://www.wikidata.org/entity/Q6081998
+haluk koç	republican people's party	L	472330599	http://www.wikidata.org/entity/Q6084013
+bülent tezcan	republican people's party	L	386241447	http://www.wikidata.org/entity/Q12808986
+fikri işık	justice and development party	R	180332824	http://www.wikidata.org/entity/Q15431339
+gülay samancı	justice and development party	R	4927335112	http://www.wikidata.org/entity/Q15731795
+mahir ünal	justice and development party	R	226685119	http://www.wikidata.org/entity/Q20471206
+orhan atalay	justice and development party	R	1249021795862220802	http://www.wikidata.org/entity/Q20474223
+hakan çavuşoğlu	justice and development party	R	340276050	http://www.wikidata.org/entity/Q21526183
+bülent tüfenkci	justice and development party	R	1091640270	http://www.wikidata.org/entity/Q21541504
+ali haydar hakverdi	republican people's party	L	2588180340	http://www.wikidata.org/entity/Q22003071
+mehmet altay	justice and development party	R	993421747	http://www.wikidata.org/entity/Q23920905
+tufan köse	republican people's party	L	272578129	http://www.wikidata.org/entity/Q23920925
+uğur aydemir	justice and development party	R	364339889	http://www.wikidata.org/entity/Q23920971
+mustafa ataş	justice and development party	R	194547306	http://www.wikidata.org/entity/Q23921004
+muharrem erkek	republican people's party	L	492162539	http://www.wikidata.org/entity/Q24028989
+harun karacan	justice and development party	R	98396809	http://www.wikidata.org/entity/Q25477064
+lütfiye selva çam	justice and development party	R	311115546	http://www.wikidata.org/entity/Q31188560
+mustafa köse	justice and development party	R	479635805	http://www.wikidata.org/entity/Q31188587
+hişyar özsoy	peoples' democratic party	L	3153334811	http://www.wikidata.org/entity/Q31189283
+fethi açıkel	republican people's party	L	142406048	http://www.wikidata.org/entity/Q61075937
+i̇smail faruk aksu	nationalist movement party	R	3111180809	http://www.wikidata.org/entity/Q61076204
+cemal öztürk	justice and development party	R	625817927	http://www.wikidata.org/entity/Q85969374
+mücahit durmuşoğlu	justice and development party	R	145683544	http://www.wikidata.org/entity/Q95385159
+orhan sümer	republican people's party	L	999127296492662784	http://www.wikidata.org/entity/Q97218824
+musa piroğlu	peoples' democratic party	L	774901149539393536	http://www.wikidata.org/entity/Q105476969
+muhammet balta	justice and development party	R	571264584	http://www.wikidata.org/entity/Q105773278
+hamdi uçar	justice and development party	R	998861609652178945	http://www.wikidata.org/entity/Q106137256
+mustafa arslan	justice and development party	R	1012756658169307136	http://www.wikidata.org/entity/Q106148031
+q106148769	peoples' democratic party	L	357049414	http://www.wikidata.org/entity/Q106148769

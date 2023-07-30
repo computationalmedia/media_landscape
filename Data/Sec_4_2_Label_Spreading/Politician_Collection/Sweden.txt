@@ -1,0 +1,288 @@
+åsa westlund	swedish social democratic party	L	19161627	http://www.wikidata.org/entity/Q269859
+hans rothenberg	moderate party	R	139127908	http://www.wikidata.org/entity/Q378195
+thomas hammarberg	swedish social democratic party	L	791612594	http://www.wikidata.org/entity/Q438397
+annie lööf	centre party	R	18447095	http://www.wikidata.org/entity/Q439393
+jimmie åkesson	sweden democrats	R	95972673	http://www.wikidata.org/entity/Q518776
+kristina axén olin	moderate party	R	1435936047683227652	http://www.wikidata.org/entity/Q897282
+jens holm	left party	L	31080756	http://www.wikidata.org/entity/Q946708
+jan ericson	moderate party	R	393890670	http://www.wikidata.org/entity/Q1681740
+ulf kristersson	moderate party	R	402690401	http://www.wikidata.org/entity/Q1780398
+jonas sjöstedt	left party	L	435854067	http://www.wikidata.org/entity/Q2029704
+tobias billström	moderate party	R	20596565	http://www.wikidata.org/entity/Q3112958
+lars mejern larsson	swedish social democratic party	L	20582098	http://www.wikidata.org/entity/Q3358494
+carina ohlsson	swedish social democratic party	L	1469432677	http://www.wikidata.org/entity/Q3363827
+pia nilsson	swedish social democratic party	L	26005916	http://www.wikidata.org/entity/Q3370093
+kenneth g. forslund	swedish social democratic party	L	20841592	http://www.wikidata.org/entity/Q3373169
+fredrik olovsson	swedish social democratic party	L	19284493	http://www.wikidata.org/entity/Q3373667
+helén pettersson	swedish social democratic party	L	19650143	http://www.wikidata.org/entity/Q3374237
+gunilla carlsson	swedish social democratic party	L	628665187	http://www.wikidata.org/entity/Q3374499
+caroline helmersson olsson	swedish social democratic party	L	19445100	http://www.wikidata.org/entity/Q3374751
+hillevi larsson	swedish social democratic party	L	25266533	http://www.wikidata.org/entity/Q3375042
+karin enström	moderate party	R	704970863100235776	http://www.wikidata.org/entity/Q3544279
+gulan avci	liberals	R	28527773	http://www.wikidata.org/entity/Q3674337
+fredrik malm	liberals	R	20068313	http://www.wikidata.org/entity/Q3675520
+tuve skånberg	christian democrats	R	37868481	http://www.wikidata.org/entity/Q4354054
+nina lundström	liberals	R	89929673	http://www.wikidata.org/entity/Q4356431
+ali esbati	left party	L	61481011	http://www.wikidata.org/entity/Q4724776
+ann-charlotte hammar johnsson	moderate party	R	20921291	http://www.wikidata.org/entity/Q4766168
+annicka engblom	moderate party	R	21129331	http://www.wikidata.org/entity/Q4769201
+betty malmberg	moderate party	R	2722177548	http://www.wikidata.org/entity/Q4898916
+björn söder	sweden democrats	R	34743468	http://www.wikidata.org/entity/Q4919772
+tina acketoft	liberals	R	267740219	http://www.wikidata.org/entity/Q4933704
+ulla andersson	left party	L	156348820	http://www.wikidata.org/entity/Q4935938
+acko ankarberg johansson	christian democrats	R	620295819	http://www.wikidata.org/entity/Q4936116
+elisabeth björnsdotter rahm	moderate party	R	1052893683773784065	http://www.wikidata.org/entity/Q4939382
+helena bouveng	moderate party	R	278036073	http://www.wikidata.org/entity/Q4940303
+gudrun brunegård	christian democrats	R	629664093	http://www.wikidata.org/entity/Q4940950
+katarina brännström	moderate party	R	2903465373	http://www.wikidata.org/entity/Q4941068
+ebba busch	christian democrats	R	1407151866	http://www.wikidata.org/entity/Q4941329
+margareta cederfelt	moderate party	R	871668595	http://www.wikidata.org/entity/Q4942378
+åsa coenraads	moderate party	R	197825824	http://www.wikidata.org/entity/Q4943175
+lotta finstorp	moderate party	R	3240107763	http://www.wikidata.org/entity/Q4948092
+ida gabrielsson	left party	L	18803731	http://www.wikidata.org/entity/Q4949356
+maria gardfjell	green party	L	24145538	http://www.wikidata.org/entity/Q4949502
+roza güclü hedin	swedish social democratic party	L	332901740	http://www.wikidata.org/entity/Q4951217
+helene hellmark knutsson	swedish social democratic party	L	867997340	http://www.wikidata.org/entity/Q4953463
+christina höj larsen	left party	L	142282561	http://www.wikidata.org/entity/Q4955459
+anna johansson	swedish social democratic party	L	18838766	http://www.wikidata.org/entity/Q4956893
+julia kronlid	sweden democrats	R	2557535953	http://www.wikidata.org/entity/Q4959972
+helena lindahl	centre party	R	148386719	http://www.wikidata.org/entity/Q4962331
+teres lindberg	swedish social democratic party	L	27856210	http://www.wikidata.org/entity/Q4962466
+kerstin lundgren	centre party	R	24265642	http://www.wikidata.org/entity/Q4964100
+laila naraghi	swedish social democratic party	L	282740590	http://www.wikidata.org/entity/Q4968944
+ingela nylund watz	swedish social democratic party	L	799565034347266049	http://www.wikidata.org/entity/Q4970595
+marta obminska	moderate party	R	30199609	http://www.wikidata.org/entity/Q4970743
+lotta olsson	moderate party	R	104229816	http://www.wikidata.org/entity/Q4971184
+désirée pethrus engström	christian democrats	R	30981659	http://www.wikidata.org/entity/Q4972645
+saila quicklund	moderate party	R	778919004	http://www.wikidata.org/entity/Q4973765
+jessica rosencrantz	moderate party	R	552630315	http://www.wikidata.org/entity/Q4975481
+karolina skog	green party	L	115011998	http://www.wikidata.org/entity/Q4979119
+maria stockhaus	moderate party	R	47329763	http://www.wikidata.org/entity/Q4980571
+annika strandhäll	swedish social democratic party	L	330178251	http://www.wikidata.org/entity/Q4980750
+elisabeth svantesson	moderate party	R	2829792282	http://www.wikidata.org/entity/Q4981393
+gunilla svantorp	swedish social democratic party	L	551838506	http://www.wikidata.org/entity/Q4981396
+ilona szatmári waldau	left party	L	22465210	http://www.wikidata.org/entity/Q4981700
+cecilie tenfjord-toftby	moderate party	R	108906498	http://www.wikidata.org/entity/Q4982318
+jessika roswall	moderate party	R	237648982	http://www.wikidata.org/entity/Q4984640
+ulrika heie	centre party	R	1214817319899353088	http://www.wikidata.org/entity/Q4987958
+carina ståhl herrstedt	sweden democrats	R	155324976	http://www.wikidata.org/entity/Q4988712
+elin lundgren	swedish social democratic party	L	362339392	http://www.wikidata.org/entity/Q4989123
+camilla waltersson grönvall	moderate party	R	1161300068	http://www.wikidata.org/entity/Q4990177
+cecilia widegren	moderate party	R	339107634	http://www.wikidata.org/entity/Q4990451
+solveig zander	centre party	R	24874309	http://www.wikidata.org/entity/Q4990884
+ann-britt åsebol	moderate party	R	318993474	http://www.wikidata.org/entity/Q4991079
+christer nylander	liberals	R	37419686	http://www.wikidata.org/entity/Q5109199
+jan r. andersson	moderate party	R	25803598	http://www.wikidata.org/entity/Q5554868
+johan andersson	swedish social democratic party	L	19110356	http://www.wikidata.org/entity/Q5554920
+michael anefur	christian democrats	R	2687701688	http://www.wikidata.org/entity/Q5556973
+hanif bali	moderate party	R	104778698	http://www.wikidata.org/entity/Q5564796
+sten bergheden	moderate party	R	2436452542	http://www.wikidata.org/entity/Q5572155
+patrik björck	swedish social democratic party	L	2231927771	http://www.wikidata.org/entity/Q5577436
+carl-oskar bohlin	moderate party	R	24021197	http://www.wikidata.org/entity/Q5580727
+lars beckman	moderate party	R	298744792	http://www.wikidata.org/entity/Q5596130
+andreas carlson	christian democrats	R	39958883	http://www.wikidata.org/entity/Q5602835
+adnan dibrani	swedish social democratic party	L	374186312	http://www.wikidata.org/entity/Q5621490
+hans eklind	christian democrats	R	493903326	http://www.wikidata.org/entity/Q5629994
+johan forssell	moderate party	R	154050557	http://www.wikidata.org/entity/Q5737622
+jakob forssmed	christian democrats	R	362444109	http://www.wikidata.org/entity/Q5737841
+josef fransson	sweden democrats	R	400001248	http://www.wikidata.org/entity/Q5740653
+isak from	swedish social democratic party	L	1564311799	http://www.wikidata.org/entity/Q5745541
+roger haddad	liberals	R	878300089	http://www.wikidata.org/entity/Q5781437
+robert halef	christian democrats	R	18941777	http://www.wikidata.org/entity/Q5783589
+johan hedin	centre party	R	18720634	http://www.wikidata.org/entity/Q5795894
+lars hjälmered	moderate party	R	426071524	http://www.wikidata.org/entity/Q5807932
+johan hultberg	moderate party	R	587216713	http://www.wikidata.org/entity/Q5816436
+magnus jacobsson	christian democrats	R	114281672	http://www.wikidata.org/entity/Q5826586
+mattias bäckström johansson	sweden democrats	R	395542723	http://www.wikidata.org/entity/Q5887149
+ola johansson	centre party	R	46725883	http://www.wikidata.org/entity/Q5887280
+richard jomshof	sweden democrats	R	186533780	http://www.wikidata.org/entity/Q5890031
+anders w. jonsson	centre party	R	161963297	http://www.wikidata.org/entity/Q5891398
+mattias jonsson	swedish social democratic party	L	321522177	http://www.wikidata.org/entity/Q5891875
+mattias karlsson	sweden democrats	R	154116697	http://www.wikidata.org/entity/Q5901848
+martin kinnunen	sweden democrats	R	725896819	http://www.wikidata.org/entity/Q5910434
+emil källström	centre party	R	18694252	http://www.wikidata.org/entity/Q5928457
+dag larsson	swedish social democratic party	L	18837459	http://www.wikidata.org/entity/Q5937190
+göran lindell	centre party	R	1066369514	http://www.wikidata.org/entity/Q5954984
+per lodenius	centre party	R	594930372	http://www.wikidata.org/entity/Q5962258
+fredrik lundh sammeli	swedish social democratic party	L	18778823	http://www.wikidata.org/entity/Q5966830
+david lång	sweden democrats	R	157497762	http://www.wikidata.org/entity/Q5969249
+petter löberg	swedish social democratic party	L	581316692	http://www.wikidata.org/entity/Q5969317
+pyry niemi	swedish social democratic party	L	29401817	http://www.wikidata.org/entity/Q6007973
+ingemar nilsson	swedish social democratic party	L	1701494353	http://www.wikidata.org/entity/Q6010550
+rickard nordin	centre party	R	128176155	http://www.wikidata.org/entity/Q6015398
+mikael oscarsson	christian democrats	R	104943486	http://www.wikidata.org/entity/Q6030080
+johan pehrson	liberals	R	21866399	http://www.wikidata.org/entity/Q6039678
+mats persson	liberals	R	528848733	http://www.wikidata.org/entity/Q6043377
+per ramhorn	sweden democrats	R	796068994054815744	http://www.wikidata.org/entity/Q6062372
+patrick reslow	sweden democrats	R	219266880	http://www.wikidata.org/entity/Q6068516
+edward riedl	moderate party	R	1269314047	http://www.wikidata.org/entity/Q6071900
+fredrik schulte	moderate party	R	182520290	http://www.wikidata.org/entity/Q6169540
+lars-arne staxäng	moderate party	R	2404433921	http://www.wikidata.org/entity/Q6187608
+olle thorell	swedish social democratic party	L	139397687	http://www.wikidata.org/entity/Q6209093
+roland utbult	christian democrats	R	78048238	http://www.wikidata.org/entity/Q6220743
+mattias vepsä	swedish social democratic party	L	131591710	http://www.wikidata.org/entity/Q6223773
+markus wiechel	sweden democrats	R	62018785	http://www.wikidata.org/entity/Q6240455
+niklas wykman	moderate party	R	2435618995	http://www.wikidata.org/entity/Q6247957
+martin ådahl	centre party	R	1356789895	http://www.wikidata.org/entity/Q6254715
+anders åkesson	centre party	R	718855606	http://www.wikidata.org/entity/Q6255521
+per åsling	centre party	R	68945032	http://www.wikidata.org/entity/Q6255956
+johnny skalin	sweden democrats	R	135489572	http://www.wikidata.org/entity/Q6328008
+åsa eriksson	swedish social democratic party	L	2351284124	http://www.wikidata.org/entity/Q9393603
+adam marttinen	sweden democrats	R	334672453	http://www.wikidata.org/entity/Q15963975
+lina nordquist	liberals	R	83792038	http://www.wikidata.org/entity/Q16595953
+kristina yngwe	centre party	R	328995303	http://www.wikidata.org/entity/Q16616153
+niklas karlsson	swedish social democratic party	L	156635362	http://www.wikidata.org/entity/Q16633140
+mattias ottosson	swedish social democratic party	L	1341924050	http://www.wikidata.org/entity/Q16633339
+lorentz tovatt	green party	L	183553683	http://www.wikidata.org/entity/Q16633513
+lars adaktusson	christian democrats	R	2294733241	http://www.wikidata.org/entity/Q17080318
+robert hannah	liberals	R	496050817	http://www.wikidata.org/entity/Q17265833
+teresa carvalho	swedish social democratic party	L	22159604	http://www.wikidata.org/entity/Q18202339
+yasmine bladelius	swedish social democratic party	L	2902295655	http://www.wikidata.org/entity/Q18202336
+monica haider	swedish social democratic party	L	272022187	http://www.wikidata.org/entity/Q18202340
+maria malmer stenergard	moderate party	R	963945493	http://www.wikidata.org/entity/Q18202362
+ida drougge	moderate party	R	119159588	http://www.wikidata.org/entity/Q18202365
+maria strömkvist	swedish social democratic party	L	18900142	http://www.wikidata.org/entity/Q18202390
+lena emilsson	swedish social democratic party	L	2297877809	http://www.wikidata.org/entity/Q18202405
+anna wallentheim	swedish social democratic party	L	776476836	http://www.wikidata.org/entity/Q18202414
+alexandra völker	swedish social democratic party	L	43288429	http://www.wikidata.org/entity/Q18202415
+johanna haraldsson	swedish social democratic party	L	526517939	http://www.wikidata.org/entity/Q18202412
+anna-caren sätherberg	swedish social democratic party	L	906096158	http://www.wikidata.org/entity/Q18202413
+angelika bengtsson	sweden democrats	R	800281172	http://www.wikidata.org/entity/Q18237639
+fredrik christensson	centre party	R	434733395	http://www.wikidata.org/entity/Q18238133
+nooshi dadgostar	left party	L	282532238	http://www.wikidata.org/entity/Q18238235
+sofia damm	christian democrats	R	2163521143	http://www.wikidata.org/entity/Q18238286
+dennis dioukarev	sweden democrats	R	771153540	http://www.wikidata.org/entity/Q18238432
+janine alm ericson	green party	L	302612407	http://www.wikidata.org/entity/Q18238692
+mikael eskilandersson	sweden democrats	R	423559923	http://www.wikidata.org/entity/Q18238731
+mats green	moderate party	R	962966174425341952	http://www.wikidata.org/entity/Q18239250
+annika hirvonen	green party	L	74749621	http://www.wikidata.org/entity/Q18242588
+emma hult	green party	L	1166961122	http://www.wikidata.org/entity/Q18242665
+lotta johnsson fornarve	left party	L	4000970775	http://www.wikidata.org/entity/Q18243097
+maj karlsson	left party	L	2660021067	http://www.wikidata.org/entity/Q18243244
+robert stenkvist	sweden democrats	R	299559374	http://www.wikidata.org/entity/Q18243514
+rasmus ling	green party	L	18781492	http://www.wikidata.org/entity/Q18243853
+daniel riazat	left party	L	1205665777489195010	http://www.wikidata.org/entity/Q18245374
+azadeh rojhan gustafsson	swedish social democratic party	L	3290884595	http://www.wikidata.org/entity/Q18245444
+karin rågsjö	left party	L	292331091	http://www.wikidata.org/entity/Q18245556
+linda westerlund snecker	left party	L	306370816	http://www.wikidata.org/entity/Q18245930
+håkan svenneling	left party	L	32016073	http://www.wikidata.org/entity/Q18246258
+christina tapper östberg	sweden democrats	R	3003988869	http://www.wikidata.org/entity/Q18246550
+roger hedlund	sweden democrats	R	104783793	http://www.wikidata.org/entity/Q18274557
+sanne lennström	swedish social democratic party	L	2315230584	http://www.wikidata.org/entity/Q18448703
+ida karkiainen	swedish social democratic party	L	1175135413	http://www.wikidata.org/entity/Q18451082
+lawen redar	swedish social democratic party	L	921655142	http://www.wikidata.org/entity/Q18451520
+pernilla stålhammar	green party	L	217031152	http://www.wikidata.org/entity/Q18454922
+daniel bäckström	centre party	R	124815970	http://www.wikidata.org/entity/Q18600515
+mikael dahlqvist	swedish social democratic party	L	825739170920484866	http://www.wikidata.org/entity/Q18649252
+jonny cato	centre party	R	139174756	http://www.wikidata.org/entity/Q19976447
+ola möller	swedish social democratic party	L	412945792	http://www.wikidata.org/entity/Q19977055
+erik ottoson	moderate party	R	23308888	http://www.wikidata.org/entity/Q19977128
+johan büser	swedish social democratic party	L	2882613629	http://www.wikidata.org/entity/Q20095387
+björn wiechel	swedish social democratic party	L	301688631	http://www.wikidata.org/entity/Q20156222
+magnus ek	centre party	R	588086188	http://www.wikidata.org/entity/Q20652801
+leif nysmed	swedish social democratic party	L	508586205	http://www.wikidata.org/entity/Q20652878
+per-arne håkansson	swedish social democratic party	L	2369244312	http://www.wikidata.org/entity/Q21531339
+patrik lundqvist	swedish social democratic party	L	2479331902	http://www.wikidata.org/entity/Q21561347
+larry söder	christian democrats	R	19864223	http://www.wikidata.org/entity/Q21578777
+mathias tegnér	swedish social democratic party	L	512403375	http://www.wikidata.org/entity/Q24701062
+peter helander	centre party	R	96089009	http://www.wikidata.org/entity/Q25935880
+tobias andersson	sweden democrats	R	1573085143	http://www.wikidata.org/entity/Q26211839
+lena rådström baastad	swedish social democratic party	L	723049994492731392	http://www.wikidata.org/entity/Q26305110
+joar forssell	liberals	R	424539277	http://www.wikidata.org/entity/Q26305112
+serkan köse	swedish social democratic party	L	47156292	http://www.wikidata.org/entity/Q26710616
+anna vikström	swedish social democratic party	L	18776278	http://www.wikidata.org/entity/Q27107494
+pål jonson	moderate party	R	2253169846	http://www.wikidata.org/entity/Q27299991
+ulrika heindorff	moderate party	R	210742543	http://www.wikidata.org/entity/Q30000205
+patrik engström	swedish social democratic party	L	2187103782	http://www.wikidata.org/entity/Q30000498
+lars püss	moderate party	R	113050485	http://www.wikidata.org/entity/Q30035679
+linus sköld	swedish social democratic party	L	359251517	http://www.wikidata.org/entity/Q30035676
+alexandra anstrell	moderate party	R	512875987	http://www.wikidata.org/entity/Q30035697
+eva lindh	swedish social democratic party	L	477946503	http://www.wikidata.org/entity/Q30035702
+momodou jallow	left party	L	456861006	http://www.wikidata.org/entity/Q37013194
+marlene burwick	swedish social democratic party	L	92840693	http://www.wikidata.org/entity/Q42369058
+josefin malmqvist	moderate party	R	99694673	http://www.wikidata.org/entity/Q42712344
+john widegren	moderate party	R	917115009129435142	http://www.wikidata.org/entity/Q50353136
+yasmine posio nilsson	left party	L	3531494355	http://www.wikidata.org/entity/Q50353141
+henrik vinge	sweden democrats	R	1166694575077056512	http://www.wikidata.org/entity/Q56164156
+leila ali elmi	green party	L	950792761086828544	http://www.wikidata.org/entity/Q56640168
+ebba hermansson	sweden democrats	R	800401356913668096	http://www.wikidata.org/entity/Q56669198
+arman teimouri	liberals	R	19041604	http://www.wikidata.org/entity/Q56743173
+kadir kasirga	swedish social democratic party	L	3398059281	http://www.wikidata.org/entity/Q56923131
+juno blom	liberals	R	2595695194	http://www.wikidata.org/entity/Q57168632
+emma berginger	green party	L	155671138	http://www.wikidata.org/entity/Q57168687
+elisabeth falkhaven	green party	L	104880469	http://www.wikidata.org/entity/Q57168691
+marléne lund kopparklint	moderate party	R	178488783	http://www.wikidata.org/entity/Q57168695
+rebecka le moine	green party	L	2353058792	http://www.wikidata.org/entity/Q57168699
+anna sibinska	green party	L	1571088493	http://www.wikidata.org/entity/Q57168710
+louise meijer	moderate party	R	141609591	http://www.wikidata.org/entity/Q57168719
+helena vilhelmsson	centre party	R	2401494006	http://www.wikidata.org/entity/Q57168726
+ciczie weidby	left party	L	27488286	http://www.wikidata.org/entity/Q57168740
+lorena delgado varas	left party	L	51364163	http://www.wikidata.org/entity/Q57168752
+hanna gunnarsson	left party	L	120152296	http://www.wikidata.org/entity/Q57168756
+elin segerlind	left party	L	1046134136631701504	http://www.wikidata.org/entity/Q57168773
+jessica thunander	left party	L	57291727	http://www.wikidata.org/entity/Q57168779
+jessica wetterling	left party	L	2763926992	http://www.wikidata.org/entity/Q57168784
+jörgen berglund	moderate party	R	1334878842	http://www.wikidata.org/entity/Q57168821
+carina ödebrink	swedish social democratic party	L	893647507	http://www.wikidata.org/entity/Q57168837
+heléne björklund	swedish social democratic party	L	375083796	http://www.wikidata.org/entity/Q57168842
+pia steensland	christian democrats	R	1090533834972712961	http://www.wikidata.org/entity/Q57280146
+magdalena thuresson	moderate party	R	708604647473344513	http://www.wikidata.org/entity/Q58769193
+jonas andersson	sweden democrats	R	497336663	http://www.wikidata.org/entity/Q58837098
+ann-sofie alm	moderate party	R	805067234	http://www.wikidata.org/entity/Q59269310
+jonas andersson	sweden democrats	R	2727928425	http://www.wikidata.org/entity/Q59387749
+viktor wärnick	moderate party	R	339898814	http://www.wikidata.org/entity/Q60732958
+sofia nilsson	centre party	R	38702837	http://www.wikidata.org/entity/Q60823070
+åsa karlsson	swedish social democratic party	L	2289346170	http://www.wikidata.org/entity/Q60823082
+mikael larsson	centre party	R	1397924808	http://www.wikidata.org/entity/Q60823132
+katja nyberg	sweden democrats	R	1248288924	http://www.wikidata.org/entity/Q61103104
+aylin fazelian	swedish social democratic party	L	2365359410	http://www.wikidata.org/entity/Q61122062
+michael rubbestad	sweden democrats	R	291675893	http://www.wikidata.org/entity/Q62745971
+niels paarup-petersen	centre party	R	23932109	http://www.wikidata.org/entity/Q63344500
+hampus hagman	christian democrats	R	357671244	http://www.wikidata.org/entity/Q63869806
+camilla brodin	christian democrats	R	612010812	http://www.wikidata.org/entity/Q63870850
+malin danielsson	liberals	R	23136344	http://www.wikidata.org/entity/Q64404514
+helena storckenfeldt	moderate party	R	606061490	http://www.wikidata.org/entity/Q65130310
+mikael damsgaard	moderate party	R	2478413199	http://www.wikidata.org/entity/Q70407251
+staffan eklöf	sweden democrats	R	3303221458	http://www.wikidata.org/entity/Q70407841
+arin karapet	moderate party	R	1441911019	http://www.wikidata.org/entity/Q70529257
+david josefsson	moderate party	R	300247911	http://www.wikidata.org/entity/Q70574439
+marie-louise hänel sandström	moderate party	R	103696302	http://www.wikidata.org/entity/Q70586981
+mattias karlsson	moderate party	R	974972387522502656	http://www.wikidata.org/entity/Q70588456
+noria manouchi	moderate party	R	141893641	http://www.wikidata.org/entity/Q70589038
+sofia westergren	moderate party	R	2217785466	http://www.wikidata.org/entity/Q70592245
+jon thorbjörnson	left party	L	1307607127	http://www.wikidata.org/entity/Q70611350
+alireza akhondi	centre party	R	254086746	http://www.wikidata.org/entity/Q70621742
+kjell-arne ottosson	christian democrats	R	473898383	http://www.wikidata.org/entity/Q70639708
+clara aranda	sweden democrats	R	728769445	http://www.wikidata.org/entity/Q70886056
+matheus enholm	sweden democrats	R	2892001371	http://www.wikidata.org/entity/Q70899253
+yasmine eriksson	sweden democrats	R	325819753	http://www.wikidata.org/entity/Q70906950
+bo broman	sweden democrats	R	972859466835283969	http://www.wikidata.org/entity/Q70912742
+mats berglund	green party	L	19022833	http://www.wikidata.org/entity/Q70994131
+mats nordberg	sweden democrats	R	1093077452669231104	http://www.wikidata.org/entity/Q71054855
+angelica lundberg	sweden democrats	R	2736504694	http://www.wikidata.org/entity/Q71062310
+ann-sofie lifvenhage	moderate party	R	625446161	http://www.wikidata.org/entity/Q71131299
+ludvig aspling	sweden democrats	R	1321071064923910144	http://www.wikidata.org/entity/Q71131688
+fredrik lindahl	sweden democrats	R	3564528555	http://www.wikidata.org/entity/Q71132556
+ann-christine from utterstedt	sweden democrats	R	1735456736	http://www.wikidata.org/entity/Q71133291
+linda lindberg	sweden democrats	R	794927782518198272	http://www.wikidata.org/entity/Q71137014
+mikael strandman	sweden democrats	R	779242538054127616	http://www.wikidata.org/entity/Q71143822
+charlotte quensel	sweden democrats	R	614979008	http://www.wikidata.org/entity/Q71455806
+denis begic	swedish social democratic party	L	273386509	http://www.wikidata.org/entity/Q71465386
+jörgen grubb	sweden democrats	R	1174608743025319936	http://www.wikidata.org/entity/Q71545861
+per söderlund	sweden democrats	R	2783940618	http://www.wikidata.org/entity/Q71546781
+markus selin	swedish social democratic party	L	514272732	http://www.wikidata.org/entity/Q72922068
+elin gustafsson	swedish social democratic party	L	745028648	http://www.wikidata.org/entity/Q96323985
+johanna öfverbeck	green party	L	1599078954	http://www.wikidata.org/entity/Q96678443
+magnus persson	sweden democrats	R	706669183	http://www.wikidata.org/entity/Q105095611
+sten nordin	moderate party	R	2401631260
+ylva thörn	swedish social democratic party	L	1282558460
+per bill	moderate party	R	111064894
+maria arnholm	liberals	R	1113942241
+anneli hulthén	swedish social democratic party	L	3340938411
+maria larsson	christian democrats	R	83811273
+beatrice ask	moderate party	R	4873946986
+sven-erik österberg	swedish social democratic party	L	22468306
+helene hellmark knutsson	swedish social democratic party	L	867997340
+magdalena andersson	swedish social democratic party	L	1587012835409788928
+berit högman	swedish social democratic party	L	468372148
+carl fredrik graf	moderate party	R	114478251

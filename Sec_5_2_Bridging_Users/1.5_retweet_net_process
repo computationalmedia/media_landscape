@@ -1,0 +1,7 @@
+The global retweet network extracted by `1_global_retweet_net_extraction.py` needs to be further processed to use in the next. 
+The process is similar to what has been done for within-country retweet network.
+
+One need to call `3_retweet_net_merge.py`, `4_nodes_pred_succ.py`, `5_disparity_filter.py` and `6_prep_ls.py` to obtain 
+labels.pickle and graph.pickle
+
+For simplicitiy, these are all skipped here.

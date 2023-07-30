@@ -1,0 +1,552 @@
+daniel dubois	union for french democracy	R	2801956383	http://www.wikidata.org/entity/Q113957
+michel delebarre	socialist party	L	310277581	http://www.wikidata.org/entity/Q129774
+dominique voynet	the greens	L	143918103	http://www.wikidata.org/entity/Q268669
+françois rebsamen	revolutionary communist league; socialist party	L	72276456	http://www.wikidata.org/entity/Q383499
+michel magras	union for a popular movement	R	738028645386702848	http://www.wikidata.org/entity/Q385483
+alain milon	union for a popular movement	R	1565113112	http://www.wikidata.org/entity/Q388399
+claude malhuret	agir; republican party; union for french democracy; union for a popular movement	R	2317343119	http://www.wikidata.org/entity/Q389141
+michel barnier	the republicans; rally for the republic; union for a popular movement	R	17487476	http://www.wikidata.org/entity/Q438465
+pascale gruny	union for a popular movement	R	4061138793	http://www.wikidata.org/entity/Q439732
+fabienne keller	union for french democracy; union for a popular movement	R	83120914	http://www.wikidata.org/entity/Q440151
+roland ries	unified socialist party; socialist party	L	281438650	http://www.wikidata.org/entity/Q469010
+andré reichardt	rally for the republic; union for a popular movement	R	3146968917	http://www.wikidata.org/entity/Q522471
+isabelle debré	rally for the republic; union for a popular movement	R	3352925303	http://www.wikidata.org/entity/Q523632
+jean arthuis	la république en marche; union for french democracy	R	110191018	http://www.wikidata.org/entity/Q528462
+christophe béchu	union for a popular movement	R	1949364050	http://www.wikidata.org/entity/Q544725
+antoine karam	guianese socialist party	L	931698511	http://www.wikidata.org/entity/Q585077
+françois baroin	the republicans; rally for the republic; union for a popular movement	R	96093611	http://www.wikidata.org/entity/Q736013
+jean-pierre chevènement	republicain refoundation; french section of the workers' international; socialist party	L	57116930	http://www.wikidata.org/entity/Q736502
+guy-dominique kennel	the republicans; union for a popular movement	R	1073809153	http://www.wikidata.org/entity/Q761527
+colette mélot	union for a popular movement	R	3159268698	http://www.wikidata.org/entity/Q770524
+gérard larcher	the republicans; rally for the republic; union for a popular movement	R	1134643441	http://www.wikidata.org/entity/Q784021
+alain chatillon	radical party	L	399160049	http://www.wikidata.org/entity/Q927330
+robert hue	french communist party	L	938768311	http://www.wikidata.org/entity/Q937091
+pierre frogier	rally for the republic; union for a popular movement	R	228928632	http://www.wikidata.org/entity/Q960015
+nicole bonnefoy	socialist party	L	3320985255	http://www.wikidata.org/entity/Q962910
+jean-marie bockel	socialist party	L	793641810	http://www.wikidata.org/entity/Q981661
+roger karoutchi	libres; rally for the republic; union for a popular movement	R	519339693	http://www.wikidata.org/entity/Q1059511
+esther benbassa	europe ecology – the greens	L	414024815	http://www.wikidata.org/entity/Q1285501
+gérard longuet	republican party; ordre nouveau; occident; union for french democracy; liberal democracy; union for a popular movement	R	1064507698455240704	http://www.wikidata.org/entity/Q1360173
+alain cadec	union for a popular movement	R	467581610	http://www.wikidata.org/entity/Q1404258
+pierre laurent	french communist party	L	104857771	http://www.wikidata.org/entity/Q2093665
+philippe adnot	administrative meeting for senators not on the list of another group	R	1429780758	http://www.wikidata.org/entity/Q2155506
+simon sutour	unified socialist party; socialist party	L	793859732	http://www.wikidata.org/entity/Q2287847
+valérie létard	union for french democracy	R	102167972	http://www.wikidata.org/entity/Q2321787
+jean-pierre plancade	radical party of the left; socialist party	L	270919379	http://www.wikidata.org/entity/Q2396150
+alain fouché	union for a popular movement	R	539392704	http://www.wikidata.org/entity/Q2403333
+annie le houérou	socialist party	L	2307427774	http://www.wikidata.org/entity/Q2689081
+hubert falco	republican party; union for french democracy; liberal democracy; union for a popular movement	R	2178364993	http://www.wikidata.org/entity/Q2750200
+alain anziani	socialist party	L	52751581	http://www.wikidata.org/entity/Q2829515
+alain houpert	union for a popular movement	R	101817931	http://www.wikidata.org/entity/Q2829913
+alain joyandet	rally for the republic; union for a popular movement	R	485852102	http://www.wikidata.org/entity/Q2829945
+alain néri	socialist party	L	497284658	http://www.wikidata.org/entity/Q2830133
+albéric de montgolfier	union for a popular movement	R	705031944589983744	http://www.wikidata.org/entity/Q2832067
+andré ferrand	union for a popular movement	R	1588386577	http://www.wikidata.org/entity/Q2847751
+andré gattolin	europe ecology – the greens	L	817061142	http://www.wikidata.org/entity/Q2847810
+andré vallini	socialist group in the senate of france	L	588392592	http://www.wikidata.org/entity/Q2848745
+anne emery-dumas	socialist party	L	2292335058	http://www.wikidata.org/entity/Q2851073
+antoine lefèvre	union for a popular movement	R	1303614018	http://www.wikidata.org/entity/Q2854148
+arnaud bazin	the republicans group	R	803284443876167680	http://www.wikidata.org/entity/Q2863048
+bernard cazeau	socialist party	L	1004299262	http://www.wikidata.org/entity/Q2897658
+bruno gilles	rally for the republic; union for a popular movement	R	493589985	http://www.wikidata.org/entity/Q2926806
+bruno sido	the republicans group	R	1310693856	http://www.wikidata.org/entity/Q2926985
+catherine deroche	union for a popular movement	R	1358847770	http://www.wikidata.org/entity/Q2941883
+catherine dumas	union for a popular movement	R	487874704	http://www.wikidata.org/entity/Q2941903
+catherine morin-desailly	union for french democracy	R	291596081	http://www.wikidata.org/entity/Q2942013
+catherine procaccia	union for a popular movement	R	599968486	http://www.wikidata.org/entity/Q2942039
+catherine tasca	unified socialist party; socialist party	L	1883196834	http://www.wikidata.org/entity/Q2942078
+catherine troendlé	union for a popular movement	R	3238415981	http://www.wikidata.org/entity/Q2942086
+christian cambon	union for a popular movement	R	965652683716689920	http://www.wikidata.org/entity/Q2965111
+christophe frassa	union for a popular movement	R	343884304	http://www.wikidata.org/entity/Q2966061
+claudine lepage	socialist party	L	31151087	http://www.wikidata.org/entity/Q2978494
+corinne bouchoux	ecologist group	L	721011307223347201	http://www.wikidata.org/entity/Q2997298
+cécile cukierman	french communist party	L	380298359	http://www.wikidata.org/entity/Q3009722
+david assouline	socialist party	L	61164655	http://www.wikidata.org/entity/Q3017419
+delphine bataille	socialist party	L	1429821697	http://www.wikidata.org/entity/Q3021806
+didier marie	socialist group in the senate of france	L	3316909205	http://www.wikidata.org/entity/Q3027102
+dominique bailly	socialist party	L	269857647	http://www.wikidata.org/entity/Q3034967
+dominique watrin	french communist party	L	1522276066974392320	http://www.wikidata.org/entity/Q3035535
+dominique de legge	union for a popular movement	R	931473840689045506	http://www.wikidata.org/entity/Q3035559
+jean-michel baylet	radical party of the left	L	321291985	http://www.wikidata.org/entity/Q3082745
+françois calvet	republican party; union for french democracy; liberal democracy; union for a popular movement	R	335912997	http://www.wikidata.org/entity/Q3084176
+françoise cartron	socialist group in the senate of france	L	1870599732	http://www.wikidata.org/entity/Q3086428
+françoise laborde	european democratic and social rally	L	1429776210	http://www.wikidata.org/entity/Q3086533
+frédérique espagnac	socialist party	L	504831684	http://www.wikidata.org/entity/Q3090373
+georges labazée	socialist party	L	1310208470	http://www.wikidata.org/entity/Q3102984
+georges patient	socialist party	L	381996181	http://www.wikidata.org/entity/Q3103298
+gilbert roger	socialist party	L	131550749	http://www.wikidata.org/entity/Q3105844
+hervé marseille	social democratic party; union for french democracy; democratic european force	R	884772861524807681	http://www.wikidata.org/entity/Q3134586
+hervé maurey	les centristes; union for french democracy; union of democrats and independents	R	1055771058	http://www.wikidata.org/entity/Q3134596
+hélène conway-mouret	socialist party	L	305575260	http://www.wikidata.org/entity/Q3144735
+jackie pierre	union for a popular movement	R	1266562454	http://www.wikidata.org/entity/Q3157403
+jacques bigot	socialist party	L	76289383	http://www.wikidata.org/entity/Q3158284
+jacques cornano	socialist group in the senate of france	L	521554712	http://www.wikidata.org/entity/Q3158569
+jacques gillot	socialist group in the senate of france	L	2999842084	http://www.wikidata.org/entity/Q3158995
+jacques grosperrin	union for a popular movement	R	579878272	http://www.wikidata.org/entity/Q3159042
+jacques le nay	union of democrats and independents	R	925389347733626880	http://www.wikidata.org/entity/Q3159317
+jacques mézard	radical party of the left	L	865112877438570496	http://www.wikidata.org/entity/Q3159636
+jean-claude luche	union for french democracy; union for a popular movement; union of democrats and independents	R	2891822619	http://www.wikidata.org/entity/Q3165082
+jean-claude requier	radical party of the left	L	2460056485	http://www.wikidata.org/entity/Q3165189
+jean-françois husson	administrative meeting for senators not on the list of another group; union for a popular movement	R	1565130361	http://www.wikidata.org/entity/Q3165673
+jean-jacques lozach	socialist party	L	4783186476	http://www.wikidata.org/entity/Q3166338
+jean-louis tourenne	socialist party	L	577857868	http://www.wikidata.org/entity/Q3167000
+jean-luc fichet	socialist group in the senate of france	L	627584835	http://www.wikidata.org/entity/Q3167146
+jean-léonce dupont	union for french democracy	R	1280517445	http://www.wikidata.org/entity/Q3167301
+jean-marc boyer	rally for the republic	R	973559329264717824	http://www.wikidata.org/entity/Q3167339
+jean-marc todeschini	socialist group in the senate of france	L	2887361529	http://www.wikidata.org/entity/Q3167502
+jean-marie vanlerenberghe	union for french democracy; democratic movement; union of democrats and independents	R	894916010389778433	http://www.wikidata.org/entity/Q3167857
+jean-noël cardoux	union for a popular movement	R	4818724409	http://www.wikidata.org/entity/Q3168236
+jean-noël guérini	socialist party	L	120120335	http://www.wikidata.org/entity/Q3168248
+jean-pierre caffet	socialist party	L	986608590	http://www.wikidata.org/entity/Q3169094
+jean-pierre grand	the republicans; rally for the republic; united republic; union for a popular movement	R	186799138	http://www.wikidata.org/entity/Q3169366
+jean-pierre leleux	republican party; union for french democracy; liberal democracy; union for a popular movement	R	307011829	http://www.wikidata.org/entity/Q3169500
+jean-pierre sueur	socialist group in the senate of france	L	159497172	http://www.wikidata.org/entity/Q3169778
+jean-rené lecerf	rally for the republic; union for a popular movement	R	1309819848; 1215662462	http://www.wikidata.org/entity/Q3169919
+jean-vincent placé	radical party of the left	L	219361536	http://www.wikidata.org/entity/Q3170082
+jean-yves leconte	socialist party	L	1568539644	http://www.wikidata.org/entity/Q3170172
+jean bizet	rally for the republic; union for a popular movement	R	3092837476	http://www.wikidata.org/entity/Q3170787
+jean desessard	radical party of the left	L	2169915501	http://www.wikidata.org/entity/Q3171709
+joël guerriau	les centristes	R	237728444	http://www.wikidata.org/entity/Q3187409
+joël labbé	ecologist group	L	4373116635	http://www.wikidata.org/entity/Q3187426
+joëlle garriaud-maylam	union for a popular movement	R	114998731	http://www.wikidata.org/entity/Q3187497
+jérôme bignon	rally for the republic; union for a popular movement	R	138014656	http://www.wikidata.org/entity/Q3190819
+karine claireaux	socialist party	L	3346341671	http://www.wikidata.org/entity/Q3193276
+ladislas poniatowski	republican party; union for french democracy; union for a popular movement	R	3131026925	http://www.wikidata.org/entity/Q3215951
+laurence cohen	french communist party	L	2862097384	http://www.wikidata.org/entity/Q3218873
+laurence rossignol	socialist party	L	81850356	http://www.wikidata.org/entity/Q3218932
+leila aïchi	europe ecology – the greens	L	562431096	http://www.wikidata.org/entity/Q3229174
+philippe marini	rally for the republic; union for a popular movement	R	1534099902	http://www.wikidata.org/entity/Q3246602
+luc carvounas	socialist party	L	1006325990	http://www.wikidata.org/entity/Q3264768
+marie-françoise pérol-dumont	socialist party	L	3014678867	http://www.wikidata.org/entity/Q3291832
+marie-hélène des esgaulx	rally for the republic; union for a popular movement	R	1429821811	http://www.wikidata.org/entity/Q3291909
+marie-pierre de la gontrie	socialist party	L	48731776	http://www.wikidata.org/entity/Q3292221
+martial bourquin	socialist party	L	3221366699	http://www.wikidata.org/entity/Q3295242
+maryvonne blondin	socialist party	L	1484320729	http://www.wikidata.org/entity/Q3296361
+michel berson	socialist party	L	2587517070	http://www.wikidata.org/entity/Q3309003
+michel bouvard	rally for the republic; union for a popular movement	R	3136411486	http://www.wikidata.org/entity/Q3309098
+michel bécot	union for a popular movement	R	1266543018	http://www.wikidata.org/entity/Q3309141
+michel laugier	union of democrats and independents	R	952933601175367680	http://www.wikidata.org/entity/Q3310109
+michel raison	union for a popular movement	R	586713569	http://www.wikidata.org/entity/Q3310658
+michel savin	republican party; union for french democracy; union for a popular movement	R	800815734163062785	http://www.wikidata.org/entity/Q3310830
+michelle meunier	socialist party	L	383243238	http://www.wikidata.org/entity/Q3311436
+nassimah dindar	rally for the republic; union for a popular movement	R	499445655	http://www.wikidata.org/entity/Q3336265
+patrice joly	socialist group in the senate of france	L	554564134	http://www.wikidata.org/entity/Q3368960
+patricia schillinger	socialist party	L	1264932240942825472	http://www.wikidata.org/entity/Q3369152
+patrick kanner	socialist party	L	1172156371	http://www.wikidata.org/entity/Q3369559
+philippe dominati	administrative meeting for senators not on the list of another group	R	1222348645	http://www.wikidata.org/entity/Q3379746
+philippe kaltenbach	socialist group in the senate of france	L	438422936	http://www.wikidata.org/entity/Q3380089
+pierre charon	union for a popular movement	R	3356979887	http://www.wikidata.org/entity/Q3384384
+rachel mazuir	socialist party	L	4403380517	http://www.wikidata.org/entity/Q3416111
+raymond couderc	union for french democracy; union for a popular movement	R	84071417	http://www.wikidata.org/entity/Q3420774
+raymond vall	radical party of the left	L	956533772022878208	http://www.wikidata.org/entity/Q3421178
+rené-paul savary	the republicans group	R	1731171120	http://www.wikidata.org/entity/Q3425715
+richard yung	la république en marche; unified socialist party; socialist party	L	221688080	http://www.wikidata.org/entity/Q3431340
+robert del picchia	rally for the republic; union for a popular movement	R	1382338958	http://www.wikidata.org/entity/Q3436753
+roland courteau	socialist group in the senate of france	L	890206410088349696	http://www.wikidata.org/entity/Q3440013
+ronan dantec	europe ecology – the greens	L	628475111	http://www.wikidata.org/entity/Q3441589
+rémi féraud	socialist group in the senate of france	L	519390633	http://www.wikidata.org/entity/Q3456022
+rémy pointereau	union for a popular movement	R	810789039410466817	http://www.wikidata.org/entity/Q3456174
+samia ghali	socialist party	L	1435362097	http://www.wikidata.org/entity/Q3470800
+sandrine hurel	socialist party	L	539691398	http://www.wikidata.org/entity/Q3472000
+sophie primas	the republicans group	R	156608013	http://www.wikidata.org/entity/Q3491023
+stéphane artano	union for a popular movement	R	2271972965	http://www.wikidata.org/entity/Q3501568
+stéphane mazars	radical party of the left	L	1429780352	http://www.wikidata.org/entity/Q3501943
+thani mohamed soilihi	socialist group in the senate of france	L	1433793444921724942	http://www.wikidata.org/entity/Q3519563
+thierry repentin	socialist party	L	139711739	http://www.wikidata.org/entity/Q3524492
+vincent capo-canellas	democratic european force	R	3366419188	http://www.wikidata.org/entity/Q3559512
+vincent éblé	socialist party	L	460260217	http://www.wikidata.org/entity/Q3559608
+yannick vaugrenard	socialist group in the senate of france	L	380924724	http://www.wikidata.org/entity/Q3571817
+yves daudigny	socialist group in the senate of france	L	2785271919	http://www.wikidata.org/entity/Q3573595
+yves détraigne	union for french democracy; centrist alliance; democratic movement	R	2224958981	http://www.wikidata.org/entity/Q3573637
+éliane assassi	french communist party	L	81800139	http://www.wikidata.org/entity/Q3587688
+éric bocquet	communist group; french communist party	L	2304676531	http://www.wikidata.org/entity/Q3590999
+évelyne didier	french communist party	L	2931821459	http://www.wikidata.org/entity/Q3592771
+david rachline	national rally	R	189815209	http://www.wikidata.org/entity/Q5238859
+jacques fernique	europe ecology – the greens	L	102088558	http://www.wikidata.org/entity/Q6120603
+jean besson	french section of the workers' international; socialist party	L	78422142	http://www.wikidata.org/entity/Q8343669
+stéphane ravier	reconquête!; national rally	R	1920691543	http://www.wikidata.org/entity/Q15989111
+franck montaugé	socialist party	L	3240601721	http://www.wikidata.org/entity/Q16027060
+éliane giraud	socialist party	L	889352776404414465	http://www.wikidata.org/entity/Q16467660
+teva rohfritsch	tahoera'a huiraatira	R	1067702517163790341	http://www.wikidata.org/entity/Q16679402
+jean-pierre bosino	french communist party	L	2603390226	http://www.wikidata.org/entity/Q16855103
+sylvie robert	socialist group in the senate of france	L	459487511	http://www.wikidata.org/entity/Q16945390
+dominique estrosi sassone	the republicans	R	260970438	http://www.wikidata.org/entity/Q17625821
+anne-catherine loisier	union of democrats and independents	R	2849912087	http://www.wikidata.org/entity/Q18155923
+brigitte micouleau	the republicans	R	585479856	http://www.wikidata.org/entity/Q18202526
+pierre médevielle	agir	R	3169219409	http://www.wikidata.org/entity/Q18202527
+louis-jean de nicolaÿ	the republicans	R	428362848	http://www.wikidata.org/entity/Q18202524
+claude raynal	socialist party	L	1042776566797877248	http://www.wikidata.org/entity/Q18202525
+henri cabanel	socialist party	L	3030599314	http://www.wikidata.org/entity/Q18202530
+jean-baptiste lemoyne	the republicans	R	232511465	http://www.wikidata.org/entity/Q18202528
+olivier cadic	union of democrats and independents	R	356242750	http://www.wikidata.org/entity/Q18202529
+chantal deseyne	the republicans	R	1074982990613229570	http://www.wikidata.org/entity/Q18202534
+annick billon	les centristes	R	1954137931	http://www.wikidata.org/entity/Q18202535
+jean-françois longeot	union of democrats and independents	R	4010038527	http://www.wikidata.org/entity/Q18202532
+jérôme durain	socialist party	L	383161407	http://www.wikidata.org/entity/Q18202533
+michel vaspart	the republicans	R	535228354	http://www.wikidata.org/entity/Q18202537
+bernard lalande	socialist party	L	2584492322	http://www.wikidata.org/entity/Q18202540
+corinne imbert	the republicans	R	2153608734	http://www.wikidata.org/entity/Q18202541
+cyril pellevat	the republicans	R	93213924	http://www.wikidata.org/entity/Q18202546
+éric jeansannetas	socialist party	L	4924232704	http://www.wikidata.org/entity/Q18202548
+gilbert bouchet	the republicans	R	3696307277	http://www.wikidata.org/entity/Q18202549
+jacky deromedi	the republicans	R	147974770	http://www.wikidata.org/entity/Q18202554
+jean-marc gabouty	radical party	L	539001157	http://www.wikidata.org/entity/Q18202556
+michel amiel	socialist party	L	507370066	http://www.wikidata.org/entity/Q18202557
+françois aubey	socialist party	L	2976706774	http://www.wikidata.org/entity/Q18202560
+pascal allizard	the republicans	R	4435960516	http://www.wikidata.org/entity/Q18202561
+agnès canayer	the republicans group	R	1482302382	http://www.wikidata.org/entity/Q18202568
+françoise gatel	union of democrats and independents	R	723157104878444544	http://www.wikidata.org/entity/Q18202579
+jean-yves roux	socialist party	L	782712001	http://www.wikidata.org/entity/Q18202576
+françois bonhomme	the republicans	R	2862090149	http://www.wikidata.org/entity/Q18202577
+michel forissier	the republicans	R	245717764	http://www.wikidata.org/entity/Q18202583
+nicole duranton	union for a popular movement	R	2806015695	http://www.wikidata.org/entity/Q18202594
+didier mandelli	the republicans	R	291264369	http://www.wikidata.org/entity/Q18202593
+jacques genest	the republicans	R	831799769056104448	http://www.wikidata.org/entity/Q18202615
+daniel chasseing	the republicans	R	2849934544	http://www.wikidata.org/entity/Q18202627
+gisèle jourda	socialist party	L	3345477185	http://www.wikidata.org/entity/Q18202624
+patrick chaize	the republicans	R	2862043383	http://www.wikidata.org/entity/Q18214332
+élisabeth doineau	union of democrats and independents	R	549162206	http://www.wikidata.org/entity/Q18214565
+claude kern	union of democrats and independents	R	2914100284	http://www.wikidata.org/entity/Q18215030
+patricia morhet-richaud	the republicans	R	3189823869	http://www.wikidata.org/entity/Q18681585
+loïc hervé	union of democrats and independents	R	252233750	http://www.wikidata.org/entity/Q18744821
+évelyne yonnet	socialist party	L	3128959935	http://www.wikidata.org/entity/Q19628627
+mathieu darnaud	the republicans; union for a popular movement	R	342574994	http://www.wikidata.org/entity/Q19628703
+stéphanie riocreux	socialist party	L	3377371677	http://www.wikidata.org/entity/Q19845565
+lana tetuanui	tahoera'a huiraatira	R	959188827284918272	http://www.wikidata.org/entity/Q19887794
+pascal martin	radical movement; union of democrats and independents	R	3186029572	http://www.wikidata.org/entity/Q19956565
+hugues saury	the republicans group	R	571641300	http://www.wikidata.org/entity/Q19958574
+corinne féret	socialist party	L	4504074316	http://www.wikidata.org/entity/Q20082373
+marie mercier	the republicans group	R	753931063378976768	http://www.wikidata.org/entity/Q20083724
+jean-françois rapin	the republicans group	R	2201623084	http://www.wikidata.org/entity/Q22252744
+frédérique gerbaud	the republicans	R	818847384251887616	http://www.wikidata.org/entity/Q27876654
+jérôme bascher	the republicans	R	3056286285	http://www.wikidata.org/entity/Q33186015
+max brisson	the republicans	R	570754458	http://www.wikidata.org/entity/Q38285283
+jean sol	the republicans	R	942469103205470214	http://www.wikidata.org/entity/Q40896414
+pierre louault	union of democrats and independents	R	1206961903072927749	http://www.wikidata.org/entity/Q40910532
+marta de cidrac	the republicans group	R	405780971	http://www.wikidata.org/entity/Q40912640
+jean-louis lagourgue	miscellaneous right	R	2314280329	http://www.wikidata.org/entity/Q40915163
+frédérique puissat	the republicans	R	1389864102034612225	http://www.wikidata.org/entity/Q40919469
+catherine fournier	union of democrats and independents	R	1068197295051677697	http://www.wikidata.org/entity/Q40950154
+xavier iacovelli	socialist party	L	1205524668	http://www.wikidata.org/entity/Q40954423
+sébastien meurant	the republicans	R	3168973737	http://www.wikidata.org/entity/Q40973813
+catherine conconne	martinican progressive party	L 	2902641773	http://www.wikidata.org/entity/Q41009093
+victoire jasmin	socialist party	L	916515961674625030	http://www.wikidata.org/entity/Q41013798
+rachid temal	socialist party	L	2507651323	http://www.wikidata.org/entity/Q41018122
+ronan le gleut	union for a popular movement	R	17537465	http://www.wikidata.org/entity/Q41018345
+évelyne renaud-garabedian	alliance solidaire des français de l’étranger	R	931551642666852352	http://www.wikidata.org/entity/Q41018380
+christine lavarde	the republicans	R	928162867748237312	http://www.wikidata.org/entity/Q41055355
+martine filleul	socialist party	L	3313073950	http://www.wikidata.org/entity/Q41067415
+anne-marie bertrand	the republicans	R	449591374	http://www.wikidata.org/entity/Q41068005
+sabine van heghe	citizen and republican movement	L	1258115030635155456	http://www.wikidata.org/entity/Q41070006
+martine berthet	the republicans	R	973863455429222400	http://www.wikidata.org/entity/Q41072238
+jocelyne guidez	union of democrats and independents	R	973177200731217922	http://www.wikidata.org/entity/Q41073013
+olivier léonhardt	socialist party	L	1228084252123762690	http://www.wikidata.org/entity/Q41073038
+annie delmont-koropoulis	the republicans	R	919986861703081984	http://www.wikidata.org/entity/Q41075972
+fabien gay	french communist party	L	914080853822754816	http://www.wikidata.org/entity/Q41099326
+michelle gréaume	french communist party	L	922403735812403200	http://www.wikidata.org/entity/Q41099340
+marie-christine chauvin	the republicans	R	1360195596	http://www.wikidata.org/entity/Q41187755
+denise saint-pé	union for french democracy	R	889873028984827909	http://www.wikidata.org/entity/Q41187776
+jean-michel houllegatte	socialist party	L	1062365061719748608	http://www.wikidata.org/entity/Q41227201
+olivier paccaud	the republicans	R	1008619438999040003	http://www.wikidata.org/entity/Q41230511
+stéphane piednoir	the republicans; union for french democracy; union for a popular movement	R	493045528	http://www.wikidata.org/entity/Q41246286
+jean-claude tissot	socialist party	L	1075399879462146050	http://www.wikidata.org/entity/Q41246319
+olivier jacquin	socialist party	L	836286941830197248	http://www.wikidata.org/entity/Q41250063
+jean-marie mizzon	miscellaneous right	R	1072587667974574080	http://www.wikidata.org/entity/Q41253835
+céline boulay-espéronnier	the republicans	R	558460829	http://www.wikidata.org/entity/Q41366302
+bernard jomier	the greens; europe ecology – the greens	L	485777791	http://www.wikidata.org/entity/Q41369983
+pascale bories	the republicans	R	84181632	http://www.wikidata.org/entity/Q41398289
+nathalie delattre	radical party	L	1916605993	http://www.wikidata.org/entity/Q41487488
+nadine grelet-certenais	socialist group in the senate of france	L	2274584218	http://www.wikidata.org/entity/Q41543886
+florence lassarade	the republicans	R	524203251	http://www.wikidata.org/entity/Q41545911
+yves bouloux	union for french democracy	R	510755786	http://www.wikidata.org/entity/Q45936948
+dominique vérien	union of democrats and independents	R	469230315	http://www.wikidata.org/entity/Q45946207
+céline brulin	french communist party	L	3553100656	http://www.wikidata.org/entity/Q54578290
+sylviane noël	the republicans; union for a popular movement	R	1063352742939451393	http://www.wikidata.org/entity/Q54877766
+vincent segouin	the republicans; union for a popular movement	R	1047403179900633088	http://www.wikidata.org/entity/Q55327374
+cathy apourceau-poly	communist group	L	552094323	http://www.wikidata.org/entity/Q55343699
+gérard lahellec	french communist party	L	845881795199614977	http://www.wikidata.org/entity/Q63248665
+hussein bourgi	socialist party	L	498698825	http://www.wikidata.org/entity/Q63411837
+thomas dossus	europe ecology – the greens	L	29466275	http://www.wikidata.org/entity/Q98843199
+raymonde poncet	ecologist group	L	1092406205673287680	http://www.wikidata.org/entity/Q98843204
+daniel salmon	europe ecology – the greens	L	1323947268861472769	http://www.wikidata.org/entity/Q99672266
+lucien stanzione	socialist party	L	138652288	http://www.wikidata.org/entity/Q99674406
+annick petrus	the republicans	R	1310023697454030852	http://www.wikidata.org/entity/Q99675704
+jean-luc mélenchon	socialist group in the senate of france	L	80820758	http://www.wikidata.org/entity/Q5829
+françois-noël buffet	union for a popular movement	R	974131986	http://www.wikidata.org/entity/Q12944
+christiane demontès	socialist party	L	2496041437	http://www.wikidata.org/entity/Q12945
+élisabeth lamure	union for a popular movement	R	1358830140	http://www.wikidata.org/entity/Q12948
+jean-pierre raffarin	the republicans; union for french democracy; liberal democracy; union for a popular movement	R	359979086	http://www.wikidata.org/entity/Q63263
+joël aviragnet	socialist, radical, citizen and miscellaneous left	L	2712326416	http://www.wikidata.org/entity/Q17350680
+maina sage	udi and independents group	R	2851523481	http://www.wikidata.org/entity/Q17350905
+raphaël schellenberger	the republicans group	R	111266206	http://www.wikidata.org/entity/Q30336912
+bénédicte taurine	la france insoumise group	L	870283676898271232	http://www.wikidata.org/entity/Q30339248
+géraldine bannier	democratic movement and democrats affiliated group	R	866695760905154560	http://www.wikidata.org/entity/Q30339354
+nadia essayan	democratic movement and democrats affiliated group	R	531618516	http://www.wikidata.org/entity/Q30349130
+elsa faucillon	democratic and republican left	L	789381772190416896	http://www.wikidata.org/entity/Q30349257
+caroline fiat	la france insoumise group	L	832246158391144448	http://www.wikidata.org/entity/Q30349279
+isabelle florennes	democratic movement and democrats affiliated group	R	864856599021727744	http://www.wikidata.org/entity/Q30349307
+guy bricout	udi and independents group	R	1524389721094381569	http://www.wikidata.org/entity/Q30349651
+philippe latombe	democratic movement and democrats affiliated group	R	560299831	http://www.wikidata.org/entity/Q30349937
+aude luquet	democratic movement and democrats affiliated group	R	864772781858279424	http://www.wikidata.org/entity/Q30376630
+josiane corneloup	the republicans group	R	983695865612251136	http://www.wikidata.org/entity/Q30392574
+paul christophe	udi and independents group	R	616609800	http://www.wikidata.org/entity/Q30433890
+alain david	socialist, radical, citizen and miscellaneous left	L	861853257559420928	http://www.wikidata.org/entity/Q30447134
+jean-carles grelier	the republicans group	R	905713485329391616	http://www.wikidata.org/entity/Q30503939
+pierre vatin	the republicans group	R	1227623274185662464	http://www.wikidata.org/entity/Q30506341
+christophe naegelen	udi and independents group	R	891005764097191938	http://www.wikidata.org/entity/Q30530164
+philippe benassaya	the republicans group	R	1612404397	http://www.wikidata.org/entity/Q62077701
+nathalie serre	the republicans group	R	1286307042014171137	http://www.wikidata.org/entity/Q96463563
+luc geismar	democratic movement and democrats affiliated group	R	865700310131630080	http://www.wikidata.org/entity/Q97704796
+gérard leseul	socialist party	L	369978611	http://www.wikidata.org/entity/Q99627615
+philippe naillet	socialist party	L	1283323346076282880	http://www.wikidata.org/entity/Q22683833
+bernard perrut	the republicans group	R	556754160	http://www.wikidata.org/entity/Q12931
+jean-luc warsmann	udi and independents group	R	94168587	http://www.wikidata.org/entity/Q509407
+charles de la verpillière	the republicans group	R	115003417	http://www.wikidata.org/entity/Q1534217
+christophe bouillon	socialist, radical, citizen and miscellaneous left	L	295304575	http://www.wikidata.org/entity/Q2966121
+david habib	socialist, radical, citizen and miscellaneous left	L	4714098677; 2315203453	http://www.wikidata.org/entity/Q3018028
+francis vercamer	udi and independents group	R	1374214321	http://www.wikidata.org/entity/Q3081737
+gilles lurton	the republicans group	R	516342405	http://www.wikidata.org/entity/Q3106366
+guillaume garot	socialist, radical, citizen and miscellaneous left	L	374055885	http://www.wikidata.org/entity/Q3119861
+guillaume larrivé	the republicans group	R	177662118	http://www.wikidata.org/entity/Q3120008
+michel fanget	democratic movement and democrats affiliated group	R	786149802731986944	http://www.wikidata.org/entity/Q3309604
+olivier falorni	socialist party	L	536485159	http://www.wikidata.org/entity/Q3351009
+pascal brindeau	udi and independents group	R	150607995	http://www.wikidata.org/entity/Q3367309
+régis juanico	socialist, radical, citizen and miscellaneous left	L	230495042	http://www.wikidata.org/entity/Q3455745
+meyer habib	udi and independents group	R	1851724262	http://www.wikidata.org/entity/Q13426765
+valérie bazin-malgras	the republicans group	R	864248206514946048	http://www.wikidata.org/entity/Q30333733
+frédéric petit	democratic movement and democrats affiliated group	R	862575147085164544; 876737384582443008	http://www.wikidata.org/entity/Q30336862
+ugo bernalicis	la france insoumise group	L	152382594	http://www.wikidata.org/entity/Q30339370
+aurélien pradié	the republicans group	R	1855097904	http://www.wikidata.org/entity/Q30351657
+muriel ressiguier	la france insoumise group	L	1572573320	http://www.wikidata.org/entity/Q30386985
+fabien roussel	democratic and republican left	L	1324449588	http://www.wikidata.org/entity/Q30388733
+sabine rubin	la france insoumise group	L	864527846227759104	http://www.wikidata.org/entity/Q30388848
+pierre-henri dumont	the republicans group	R	28214411	http://www.wikidata.org/entity/Q30506365
+marine le pen	national rally	R	217749896	http://www.wikidata.org/entity/Q12927
+sophie auconie	udi and independents group	R	187508945	http://www.wikidata.org/entity/Q439998
+valérie boyer	the republicans group	R	276934698	http://www.wikidata.org/entity/Q465989
+damien abad	the republicans group	R	76584619	http://www.wikidata.org/entity/Q966529
+daniel fasquelle	the republicans group	R	267310445	http://www.wikidata.org/entity/Q3014035
+dino cinieri	the republicans group	R	829686286097211392	http://www.wikidata.org/entity/Q3028388
+jean-christophe lagarde	udi and independents group	R	360680603	http://www.wikidata.org/entity/Q3164758
+jean-louis thiériot	the republicans group	R	998156310	http://www.wikidata.org/entity/Q3166993
+jean-pierre vigier	the republicans group	R	3906442118	http://www.wikidata.org/entity/Q3169815
+jean lassalle	résistons!	R	102722347	http://www.wikidata.org/entity/Q3173022
+thierry benoit	udi and independents group	R	1605436740	http://www.wikidata.org/entity/Q3182341
+marie-noëlle battistel	socialist, radical, citizen and miscellaneous left	L	973480421148291072	http://www.wikidata.org/entity/Q3292159
+nicolas forissier	the republicans group	R	3832713568	http://www.wikidata.org/entity/Q3340330
+philippe berta	democratic movement and democrats affiliated group	R	863333535066836993	http://www.wikidata.org/entity/Q3379341
+vincent rolland	the republicans group	R	844476456164114432	http://www.wikidata.org/entity/Q3559821
+virginie duby-muller	the republicans group	R	531550143	http://www.wikidata.org/entity/Q3560729
+éric coquerel	la france insoumise group	L	311601642	http://www.wikidata.org/entity/Q17485936
+arnaud viala	the republicans group	R	866886606	http://www.wikidata.org/entity/Q20962474
+boris vallaud	socialist, radical, citizen and miscellaneous left	L	881933353435398145	http://www.wikidata.org/entity/Q29021094
+loïc kervran	agir ensemble	R	802997806252388352	http://www.wikidata.org/entity/Q30339229
+fabrice brun	the republicans group	R	2999458558	http://www.wikidata.org/entity/Q30339239
+ian boucard	the republicans group	R	486927132	http://www.wikidata.org/entity/Q30341918
+benoît potterie	renaissance group; agir ensemble	R	863763746027696129	http://www.wikidata.org/entity/Q30343446
+brahim hammouche	democratic movement and democrats affiliated group	R	863383857072140288	http://www.wikidata.org/entity/Q30349429
+vincent bru	democratic movement and democrats affiliated group	R	866255052104769538	http://www.wikidata.org/entity/Q30350683
+alain bruneel	democratic and republican left	L	826026073540481024	http://www.wikidata.org/entity/Q30351244
+emmanuel maquet	the republicans group	R	802848743045402624	http://www.wikidata.org/entity/Q30377460
+jacques cattin	the republicans group	R	858073347581771776	http://www.wikidata.org/entity/Q30414335
+marguerite deprez-audebert	democratic movement and democrats affiliated group	R	920588743	http://www.wikidata.org/entity/Q30450097
+fabien di filippo	the republicans group	R	881156720155930624	http://www.wikidata.org/entity/Q30451909
+stéphane viry	the republicans group	R	4842549479	http://www.wikidata.org/entity/Q30509463
+maud petit	democratic movement and democrats affiliated group	R	866911134837862400	http://www.wikidata.org/entity/Q30511580
+marie-france lorho	southern league	R	902788871460724740	http://www.wikidata.org/entity/Q37946793
+claudia rouaux	socialist, radical, citizen and miscellaneous left	L	4103047462; 1670228138	http://www.wikidata.org/entity/Q63248658
+yves hemedinger	the republicans group	R	4041591748	http://www.wikidata.org/entity/Q63765586
+jean-luc mélenchon	la france insoumise group	L	80820758	http://www.wikidata.org/entity/Q5829
+delphine batho	socialist party	L	263572557	http://www.wikidata.org/entity/Q291385
+bernard reynès	the republicans group	R	76662684	http://www.wikidata.org/entity/Q822671
+éric ciotti	the republicans group	R	87886754	http://www.wikidata.org/entity/Q1844180
+didier quentin	the republicans group	R	2152248747	http://www.wikidata.org/entity/Q2386047
+françois ruffin	la france insoumise group	L	801822323825410049	http://www.wikidata.org/entity/Q3085763
+gilles carrez	the republicans group	R	513300752	http://www.wikidata.org/entity/Q3106149
+luc carvounas	socialist, radical, citizen and miscellaneous left	L	1006325990	http://www.wikidata.org/entity/Q3264768
+marc le fur	the republicans group	R	110459051	http://www.wikidata.org/entity/Q3288193
+olivier faure	socialist, radical, citizen and miscellaneous left	L	213754264	http://www.wikidata.org/entity/Q3351018
+valérie lacroute	the republicans group	R	554183197	http://www.wikidata.org/entity/Q3554274
+éric diard	the republicans group	R	85531381	http://www.wikidata.org/entity/Q3591087
+hervé saulignac	socialist, radical, citizen and miscellaneous left	L	83424512	http://www.wikidata.org/entity/Q19958573
+marine brenier	the republicans group	R	96111834	http://www.wikidata.org/entity/Q20991576
+jérôme nury	the republicans group	R	47626354	http://www.wikidata.org/entity/Q28496177
+jean-hugues ratenon	la france insoumise group	L	791023332674138112	http://www.wikidata.org/entity/Q30334352
+jean-noël barrot	democratic movement and democrats affiliated group	R	865482011523166209	http://www.wikidata.org/entity/Q30339198
+pierre cordier	the republicans group	R	2529855122	http://www.wikidata.org/entity/Q30339222
+emmanuelle anthoine	the republicans group	R	807531084678385665	http://www.wikidata.org/entity/Q30342118
+jean-luc lagleize	democratic movement and democrats affiliated group	R	118977224	http://www.wikidata.org/entity/Q30349870
+matthieu orphelin	ecology democracy solidarity	L	949232324	http://www.wikidata.org/entity/Q30351663
+nicolas turquois	democratic movement and democrats affiliated group	R	864844727828582400	http://www.wikidata.org/entity/Q30392038
+hubert wulfranc	democratic and republican left	L	1414879766201700352	http://www.wikidata.org/entity/Q30392260
+maxime minot	the republicans group	R	2846410672	http://www.wikidata.org/entity/Q30509432
+michèle de vaucouleurs	democratic movement and democrats affiliated group	R	864828415760900097	http://www.wikidata.org/entity/Q30510266
+nicolas meizonnet	non-attached members (france)	R	773854656	http://www.wikidata.org/entity/Q44508694
+michèle victory	socialist, radical, citizen and miscellaneous left	L	1316373931968860163	http://www.wikidata.org/entity/Q44742365
+antoine savignat	the republicans group	R	734819214	http://www.wikidata.org/entity/Q47691216
+édith audibert	union for a popular movement; republican party; the republicans	R	1581186870096035840	http://www.wikidata.org/entity/Q97337111
+chantal jourdan	socialist party	L	1318495091280039936	http://www.wikidata.org/entity/Q97405844
+david corceiro	democratic movement and democrats affiliated group	R	938164497545682946	http://www.wikidata.org/entity/Q97704794
+anne-laure blin	the republicans group	R	89169913	http://www.wikidata.org/entity/Q99627308
+sylvia pinel	radical party of the left	L	358886584	http://www.wikidata.org/entity/Q467943
+michel herbillon	the republicans group	R	1516703761141534723	http://www.wikidata.org/entity/Q924976
+julien aubert	the republicans group	R	520259649	http://www.wikidata.org/entity/Q1457778
+christophe castaner	socialist party; la république en marche	L	125727024	http://www.wikidata.org/entity/Q1726930
+laurence dumont	socialist, radical, citizen and miscellaneous left	L	851502935511101441	http://www.wikidata.org/entity/Q2271318
+alexis corbière	la france insoumise group	L	266215308	http://www.wikidata.org/entity/Q2834481
+brigitte kuster	the republicans group	R	59800834	http://www.wikidata.org/entity/Q2925440
+françois pupponi	socialist party	L	413819531	http://www.wikidata.org/entity/Q3085621
+hélène vainqueur-christophe	socialist, radical, citizen and miscellaneous left	L	586885949	http://www.wikidata.org/entity/Q3144871
+jean-jacques gaultier	the republicans group	R	783216646299193344	http://www.wikidata.org/entity/Q3166272
+jean-louis bricout	socialist, radical, citizen and miscellaneous left	L	3028135792	http://www.wikidata.org/entity/Q3166655
+jean-michel clément	socialist party; la république en marche; place publique	L	393306373	http://www.wikidata.org/entity/Q3167990
+joaquim pueyo	socialist, radical, citizen and miscellaneous left	L	3092785427	http://www.wikidata.org/entity/Q3179736
+laure de la raudière	udi and independents group	R	52764210	http://www.wikidata.org/entity/Q3218809
+marianne dubois	the republicans group	R	459093089	http://www.wikidata.org/entity/Q3291298
+olivier dassault	the republicans group	R	796057206	http://www.wikidata.org/entity/Q3350961
+sébastien jumel	democratic and republican left	L	461022437	http://www.wikidata.org/entity/Q3510156
+pierre-yves bournazel	udi and independents group	R	90409722	http://www.wikidata.org/entity/Q16669934
+julien dive	the republicans group	R	106557131	http://www.wikidata.org/entity/Q23374860
+vincent ledoux	udi and independents group	R	3367383094	http://www.wikidata.org/entity/Q23384045
+david lorion	the republicans group	R	4069983213	http://www.wikidata.org/entity/Q30334974
+delphine bagarry	la république en marche; the new democrats	L	526824153	http://www.wikidata.org/entity/Q30339196
+michel larive	la france insoumise group	L	857153285190537220	http://www.wikidata.org/entity/Q30339323
+philippe bolo	democratic movement and democrats affiliated group	R	2157820581	http://www.wikidata.org/entity/Q30339415
+thibault bazin	the republicans group	R	1970541246	http://www.wikidata.org/entity/Q30342506
+bastien lachaud	la france insoumise group	L	247895631	http://www.wikidata.org/entity/Q30349862
+alain ramadier	the republicans group	R	819329291389431808	http://www.wikidata.org/entity/Q30386100
+sophie mette	democratic movement and democrats affiliated group	R	4309055487	http://www.wikidata.org/entity/Q30490415
+bruno duvergé	democratic movement and democrats affiliated group	R	2910111251	http://www.wikidata.org/entity/Q30493489
+fabien lainé	democratic movement and democrats affiliated group	R	1132247563	http://www.wikidata.org/entity/Q30729390
+manuéla kéclard-mondésir	democratic and republican left	L	1189091159701966849	http://www.wikidata.org/entity/Q54415314
+nicolas dupont-aignan	france arise	R	38170599	http://www.wikidata.org/entity/Q12961
+xavier breton	the republicans group	R	110940366	http://www.wikidata.org/entity/Q427080
+marielle de sarnez	democratic movement and democrats affiliated group	R	303885267	http://www.wikidata.org/entity/Q452173
+bérengère poletti	the republicans group	R	3664828937	http://www.wikidata.org/entity/Q2114685
+michèle tabarot	the republicans group	R	514546669	http://www.wikidata.org/entity/Q2254052
+annie genevard	the republicans group	R	3130755833	http://www.wikidata.org/entity/Q2414678
+françois cornut-gentille	the republicans group	R	568029290	http://www.wikidata.org/entity/Q3084310
+frédérique dumas	union of democrats and independents	R	3772780954	http://www.wikidata.org/entity/Q3090377
+jean-luc reitzer	the republicans group	R	869905383837577216	http://www.wikidata.org/entity/Q3167246
+mansour kamardine	the republicans group	R	986655792089661440	http://www.wikidata.org/entity/Q3286565
+olivier marleix	the republicans group	R	2305186092	http://www.wikidata.org/entity/Q3351188
+sébastien nadot	progressive unitary movement; la république en marche	L	1524756601	http://www.wikidata.org/entity/Q3476900
+valérie rabault	socialist, radical, citizen and miscellaneous left	L	443129202	http://www.wikidata.org/entity/Q3554304
+vincent descœur	the republicans group	R	137338942	http://www.wikidata.org/entity/Q3559584
+véronique louwagie	the republicans group	R	724577257	http://www.wikidata.org/entity/Q3564331
+claude goasguen	the republicans group	R	376252824	http://www.wikidata.org/entity/Q2746785
+bruno joncour	democratic movement and democrats affiliated group	R	2348352426	http://www.wikidata.org/entity/Q2926845
+claude de ganay	the republicans group	R	424117102	http://www.wikidata.org/entity/Q2978334
+cécile untermaier	socialist, radical, citizen and miscellaneous left	L	970250112	http://www.wikidata.org/entity/Q3009791
+philippe gomès	udi and independents group	R	408115726	http://www.wikidata.org/entity/Q3101372
+gisèle biémouret	socialist, radical, citizen and miscellaneous left	L	947822287	http://www.wikidata.org/entity/Q3107809
+huguette bello	democratic and republican left	L	3026493886	http://www.wikidata.org/entity/Q3142774
+louis aliot	national rally	R	316956459	http://www.wikidata.org/entity/Q3261014
+michel vialay	the republicans group	R	1482313339	http://www.wikidata.org/entity/Q3311073
+patrick hetzel	the republicans group	R	4733398756	http://www.wikidata.org/entity/Q3369516
+philippe dunoyer	udi and independents group	R	1536211244553670656	http://www.wikidata.org/entity/Q3379784
+yannick favennec	union for a popular movement; independent republicans	R	16648630	http://www.wikidata.org/entity/Q3571749
+pierre dharréville	democratic and republican left	L	2380233572	http://www.wikidata.org/entity/Q30334188
+nathalie bassire	the republicans group	R	884660403648831488	http://www.wikidata.org/entity/Q30334540
+danièle obono	la france insoumise group	L	858041350494793728	http://www.wikidata.org/entity/Q30335340
+ludovic pajot	national rally	R	496370501	http://www.wikidata.org/entity/Q30337171
+frédérique meunier	the republicans group	R	1894149410	http://www.wikidata.org/entity/Q30339260
+jean-pierre cubertafon	democratic movement and democrats affiliated group	R	912024416271392769	http://www.wikidata.org/entity/Q30339347
+élodie jacquier-laforge	democratic movement and democrats affiliated group	R	107393186	http://www.wikidata.org/entity/Q30339394
+sylvain waserman	democratic movement and democrats affiliated group	R	81371982	http://www.wikidata.org/entity/Q30339476
+cyrille isaac-sibille	democratic movement and democrats affiliated group	R	2279236686	http://www.wikidata.org/entity/Q30342132
+émilie cariou	renaissance group; ecology democracy solidarity	L	813728148	http://www.wikidata.org/entity/Q30342921
+justine benin	democratic movement and democrats affiliated group	R	881887452591517698	http://www.wikidata.org/entity/Q30342954
+isabelle valentin	the republicans group	R	3060130660	http://www.wikidata.org/entity/Q30342993
+sandrine josso	centrist alliance; la république en marche; the new democrats	L	1140962599250661376	http://www.wikidata.org/entity/Q30343090
+sarah el haïry	democratic movement and democrats affiliated group	R	91376641	http://www.wikidata.org/entity/Q30343245
+moetai brotherson	democratic and republican left	L	903517622	http://www.wikidata.org/entity/Q30350575
+philippe michel-kleisbauer	democratic movement and democrats affiliated group	R	294655305	http://www.wikidata.org/entity/Q30378762
+patrick mignola	democratic movement and democrats affiliated group	R	1462132418	http://www.wikidata.org/entity/Q30378878
+stéphane peu	democratic and republican left	L	303112391	http://www.wikidata.org/entity/Q30380891
+laurence vichnievsky	democratic movement and democrats affiliated group	R	85308962	http://www.wikidata.org/entity/Q281455
+andré chassaigne	democratic and republican left	L	532293856	http://www.wikidata.org/entity/Q517765
+jean-louis bourlanges	democratic movement and democrats affiliated group	R	864160956070469633; 861707021661470724	http://www.wikidata.org/entity/Q711098
+bertrand pancher	union of democrats and independents; union for a popular movement	R	436780101	http://www.wikidata.org/entity/Q2899644
+charles de courson	union for french democracy	R	436816838	http://www.wikidata.org/entity/Q2960570
+ericka bareigts	socialist, radical, citizen and miscellaneous left	L	34898575	http://www.wikidata.org/entity/Q3056510
+guillaume peltier	the republicans group	R	239867102	http://www.wikidata.org/entity/Q3120121
+gérard cherpion	the republicans group	R	532466430	http://www.wikidata.org/entity/Q3123839
+jean-paul dufrègne	democratic and republican left	L	2541430148	http://www.wikidata.org/entity/Q3168469
+jean-pierre door	the republicans group	R	492616495	http://www.wikidata.org/entity/Q3169226
+jimmy pahun	democratic movement and democrats affiliated group	R	244026421	http://www.wikidata.org/entity/Q3179100
+martial saddier	the republicans group	R	2769842216	http://www.wikidata.org/entity/Q3295273
+philippe gosselin	the republicans group	R	380373029	http://www.wikidata.org/entity/Q3379940
+sylvie tolmont	socialist, radical, citizen and miscellaneous left	L	456917253	http://www.wikidata.org/entity/Q3507399
+sébastien huyghe	the republicans group	R	85541760	http://www.wikidata.org/entity/Q3510140
+sébastien chenu	union for a popular movement; national rally; rassemblement bleu marine	R	493833484	http://www.wikidata.org/entity/Q21294609
+mohamed laqhila	democratic movement and democrats affiliated group	R	402214102	http://www.wikidata.org/entity/Q30334718
+éric pauget	the republicans group	R	770957104152768512	http://www.wikidata.org/entity/Q30339237
+bruno millienne	democratic movement and democrats affiliated group	R	455602715	http://www.wikidata.org/entity/Q30339356
+valérie beauvais	the republicans group	R	1503236472	http://www.wikidata.org/entity/Q30339364
+josy poueyto	democratic movement and democrats affiliated group	R	1890087739	http://www.wikidata.org/entity/Q30343078
+laurent garcia	democratic movement and democrats affiliated group	R	786575225316110336	http://www.wikidata.org/entity/Q30349328
+lise magnier	udi and independents group	R	847384196074962944	http://www.wikidata.org/entity/Q30377001
+max mathiasin	democratic movement and democrats affiliated group	R	582980672	http://www.wikidata.org/entity/Q30378055
+adrien quatennens	la france insoumise group	L	3023497329	http://www.wikidata.org/entity/Q30385935
+agnès thill	socialist party; la république en marche	L	827581398965944320	http://www.wikidata.org/entity/Q30513192
+stéphane baudu	democratic movement and democrats affiliated group	R	1090991802176413696	http://www.wikidata.org/entity/Q57394735
+éric woerth	the republicans group	R	390156878	http://www.wikidata.org/entity/Q288486
+constance le grip	the republicans group	R	338910451	http://www.wikidata.org/entity/Q510080
+pierre morel-a-l'huissier	udi and independents group	R	110940220	http://www.wikidata.org/entity/Q1192864
+george pau-langevin	socialist, radical, citizen and miscellaneous left	L	81063019	http://www.wikidata.org/entity/Q1321340
+jérôme lambert	socialist, radical, citizen and miscellaneous left	L	449861621	http://www.wikidata.org/entity/Q2385796
+patricia lemoine	udi and independents group	R	1065527514242654208	http://www.wikidata.org/entity/Q57394738
+patrick loiseau	democratic movement and democrats affiliated group	R	1174627465307840512	http://www.wikidata.org/entity/Q65458502
+sandra boëlle	the republicans	R	2366839787	http://www.wikidata.org/entity/Q95680122
+karine lebon	democratic and republican left	L	1349674527219982336	http://www.wikidata.org/entity/Q99670641
+guy teissier	the republicans group	R	570703871	http://www.wikidata.org/entity/Q3090
+patrice verchère	the republicans group	R	3648866671	http://www.wikidata.org/entity/Q12930
+serge letchimy	socialist, radical, citizen and miscellaneous left	L	470370230	http://www.wikidata.org/entity/Q608242
+bernard deflesselles	the republicans group	R	4826853935	http://www.wikidata.org/entity/Q892174
+christine pirès-beaune	socialist, radical, citizen and miscellaneous left	L	938843677	http://www.wikidata.org/entity/Q2413788
+andré villiers	udi and independents group	R	2527880803; 866589563023749120	http://www.wikidata.org/entity/Q2848786
+antoine herth	udi and independents group	R	377992263	http://www.wikidata.org/entity/Q2854054
+clémentine autain	la france insoumise group	L	491343921	http://www.wikidata.org/entity/Q2980738
+dominique potier	socialist, radical, citizen and miscellaneous left	L	450644069	http://www.wikidata.org/entity/Q3035399
+franck marlin	the republicans group	R	380990041	http://www.wikidata.org/entity/Q3082207
+gabriel serville	democratic and republican left	L	882350664	http://www.wikidata.org/entity/Q3093959
+jean-charles taugourdeau	the republicans group	R	214110691	http://www.wikidata.org/entity/Q3164701
+jean-claude bouchet	the republicans group	R	224265528	http://www.wikidata.org/entity/Q3164854
+jean-marie sermier	the republicans group	R	2197399406; 753210819379421185	http://www.wikidata.org/entity/Q3167821
+marietta karamanli	socialist, radical, citizen and miscellaneous left	L	509948730	http://www.wikidata.org/entity/Q3293018
+michel zumkeller	udi and independents group	R	441892644	http://www.wikidata.org/entity/Q3311135
+paul molac	miscellaneous left	L	450968514	http://www.wikidata.org/entity/Q3371854
+éric straumann	the republicans group	R	54132631	http://www.wikidata.org/entity/Q3591368
+bruno bilde	national rally	R	1635233568	http://www.wikidata.org/entity/Q19606880
+emmanuelle ménard	national rally	R	1073939057552576517	http://www.wikidata.org/entity/Q29896234
+loïc prud’homme	la france insoumise group	L	864595354578300928	http://www.wikidata.org/entity/Q30339287
+sébastien leclerc	the republicans group	R	827139373913223168	http://www.wikidata.org/entity/Q30339344
+émilie bonnivard	the republicans group	R	550352602	http://www.wikidata.org/entity/Q30339419
+mathilde panot	la france insoumise group	L	2370188558	http://www.wikidata.org/entity/Q30343128
+erwan balanant	democratic movement and democrats affiliated group	R	17137760	http://www.wikidata.org/entity/Q30348579
+olivier becht	udi and independents group	R	1019559283774644224	http://www.wikidata.org/entity/Q30348845
+jean-jacques ferrara	the republicans group	R	725260365135765504	http://www.wikidata.org/entity/Q30349168
+agnès firmin-le bodo	udi and independents group	R	1979469114	http://www.wikidata.org/entity/Q30349300
+jean-paul mattei	democratic movement and democrats affiliated group	R	985802003149402113	http://www.wikidata.org/entity/Q30378193
+richard ramos	democratic movement and democrats affiliated group	R	863039952401170433	http://www.wikidata.org/entity/Q30386268
+robin reda	the republicans group	R	41844495	http://www.wikidata.org/entity/Q30386710
+nathalie élimas	democratic movement and democrats affiliated group	R	304899435	http://www.wikidata.org/entity/Q30511578
+bruno fuchs	democratic movement and democrats affiliated group	R	115715214	http://www.wikidata.org/entity/Q30526465
+nathalie porte	the republicans group	R	3025488213	http://www.wikidata.org/entity/Q63313474
+brigitte klinkert	union for french democracy; centre of social democrats; the republicans	R	135158345	http://www.wikidata.org/entity/Q63764562
+laurent wauquiez	the republicans	R	19438626
+marie-guite dufay	socialist party	L	2913763599
+loïg chesnais-girard	socialist party	L	379083235
+françois bonneau	socialist party	L	80337820
+jean-guy talamoni	corsica libera	L	36176733
+rodolphe alexandre	miscellaneous left	L	837833816
+jean rottner	the republicans	R	30216608
+valérie pécresse	soyons libres	R	49969223
+carole delga	socialist party	L	518368742
+claude lise	martinican democratic rally	L	4060308435
+xavier bertrand	miscellaneous right	R	17172319
+alain rousset	socialist party	L	469126890
+christelle morançais	the republicans	R	154629579
+renaud muselier	the republicans	R	185976655
+didier robert	miscellaneous right	R	3322970356

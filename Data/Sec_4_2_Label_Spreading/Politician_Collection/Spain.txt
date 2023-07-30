@@ -1,0 +1,542 @@
+pilar llop	spanish socialist workers' party	L	1206536558351994882	http://www.wikidata.org/entity/Q55496545
+francisco de la torre prados	union of the democratic centre; people's party	R	212170817	http://www.wikidata.org/entity/Q255442
+javier arenas bocanegra	people's party	R	4047307155	http://www.wikidata.org/entity/Q2089386
+cristina narbona	spanish socialist workers' party	L	447260411	http://www.wikidata.org/entity/Q2984396
+rafael simancas	spanish socialist workers' party	L	402219133	http://www.wikidata.org/entity/Q3417279
+antonio sanz	people's party	R	21189779	http://www.wikidata.org/entity/Q4776970
+francisco josé alcaraz	vox	R	266066285	http://www.wikidata.org/entity/Q5866375
+ignacio cosidó	people's party	R	83936918	http://www.wikidata.org/entity/Q5913172
+josé cepeda	spanish socialist workers' party	L	7064212	http://www.wikidata.org/entity/Q5938944
+manuel cruz	spanish socialist workers' party	L	1102891902108618753	http://www.wikidata.org/entity/Q5992712
+pedro saura	spanish socialist workers' party	L	538336743	http://www.wikidata.org/entity/Q6070133
+antonio gutiérrez limones	spanish socialist workers' party	L	1089488659	http://www.wikidata.org/entity/Q8201260
+francisco javier de lucas martín	spanish socialist workers' party	L	540143028	http://www.wikidata.org/entity/Q8962443
+joseba azkarraga	eusko alkartasuna; basque nationalist party	L	1615986402	http://www.wikidata.org/entity/Q9012997
+pilar gonzález	adelante andalucía; andalusian spring; andalusian party	L	255666243	http://www.wikidata.org/entity/Q9059628
+francisco jorquera	galician nationalist bloc	L	305449141	http://www.wikidata.org/entity/Q11055661
+josé manuel barreiro	people's party	R	4331425708	http://www.wikidata.org/entity/Q11705405
+antoni poveda zapata	unified socialist party of catalonia; socialists' party of catalonia	L	3043196495	http://www.wikidata.org/entity/Q14042691
+josep maria cervera pinart	junts per catalunya; catalan european democratic party; democratic convergence of catalonia	R	25165268	http://www.wikidata.org/entity/Q14075822
+josep lluís cleries i gonzàlez	junts per catalunya; catalan european democratic party; democratic convergence of catalonia	R	57297008	http://www.wikidata.org/entity/Q16188807
+cosme bonet bonet	spanish socialist workers' party	L	117379607	http://www.wikidata.org/entity/Q17028914
+marta pascal i capdevila	partit nacionalista de catalunya; catalan european democratic party; democratic convergence of catalonia	R	112508872	http://www.wikidata.org/entity/Q17033177
+susana sumelzo jordán	spanish socialist workers' party	L	520609496	http://www.wikidata.org/entity/Q17563522
+joaquín luis ramírez rodríguez	people's party	R	138913188	http://www.wikidata.org/entity/Q17635360
+ramon antoni socias puig	spanish socialist workers' party	L	2805487358	http://www.wikidata.org/entity/Q19289058
+sara vilà galan	catalunya en comú; initiative for catalonia greens	L	198978368	http://www.wikidata.org/entity/Q19301856
+alberto casero ávila	people's party	R	250702520	http://www.wikidata.org/entity/Q19688958
+ramón espinar merino	podemos	L	394266186	http://www.wikidata.org/entity/Q20671645
+lorena roldán	ciudadanos; people's party	R	3127325711	http://www.wikidata.org/entity/Q20725437
+carles mulet garcia	valencian people's initiative; united left of the valencian country	L	250031399	http://www.wikidata.org/entity/Q21074910
+laura berja	spanish socialist workers' party	L	269472408	http://www.wikidata.org/entity/Q21089383
+óscar guardingo martínez	en comú podem	L	211387334	http://www.wikidata.org/entity/Q22337904
+ana maría surra spadea	republican left of catalonia	L	181749304	http://www.wikidata.org/entity/Q22337939
+josé julián gregorio lópez	people's party	R	278230295	http://www.wikidata.org/entity/Q23413342
+miguel ángel viso diéguez	people's party	R	4349709262	http://www.wikidata.org/entity/Q25509632
+laura castel i fort	republican left of catalonia	L	470507637	http://www.wikidata.org/entity/Q26159887
+xavier castellana i gamisans	republican left of catalonia	L	235714269	http://www.wikidata.org/entity/Q26234874
+maría del carmen hernández bento	people's party	R	4203496689	http://www.wikidata.org/entity/Q27755653
+juan maría vázquez rojas	people's party	R	66700781	http://www.wikidata.org/entity/Q27756162
+josé ortiz galván	andalusian people's party	R	724965496391634944	http://www.wikidata.org/entity/Q27999151
+robert masih nahar	republican left of catalonia	L	2517136509	http://www.wikidata.org/entity/Q28729078
+idoia villanueva ruiz	podemos	L	610146315	http://www.wikidata.org/entity/Q28802997
+juan luis soto burillo	spanish socialist workers' party	L	1916660826	http://www.wikidata.org/entity/Q28840750
+riansares serrano morales	spanish socialist workers' party	L	1930293110	http://www.wikidata.org/entity/Q28872621
+andrés gil garcía	spanish socialist workers' party	L	18806761	http://www.wikidata.org/entity/Q28872654
+josep maria matamala	junts per catalunya; catalan european democratic party; democratic convergence of catalonia	R	1107913989718200321	http://www.wikidata.org/entity/Q51026174
+adelina escandell grases	communists of catalonia; party of the communists of catalonia; united and alternative left	L	979974314	http://www.wikidata.org/entity/Q63118397
+assumpció castellví auví	junts per catalunya; catalan european democratic party; democratic convergence of catalonia	R	363568931	http://www.wikidata.org/entity/Q97487972
+concha andreu	spanish socialist workers' party	L	277018118	http://www.wikidata.org/entity/Q20014173
+albert botran	poble lliure	L	2978274629	http://www.wikidata.org/entity/Q21081299
+sofía castañón	confederal parliamentary group of unidas podemos-in comú podem-galicia in común	L	3495603017	http://www.wikidata.org/entity/Q21293215
+mireia vehí i cantenys	popular unity candidacy	L	312297259	http://www.wikidata.org/entity/Q22043292
+maría del carmen navarro lacoba	popular parliamentary group	R	4172373034	http://www.wikidata.org/entity/Q27032053
+teodoro garcía egea	popular parliamentary group	R	224074203	http://www.wikidata.org/entity/Q27756136
+maría tamara raya rodríguez	socialist parliamentary group	L	3082102098	http://www.wikidata.org/entity/Q27758345
+jon iñarritu garcía	amaiur; aralar party; euskal herria bildu	L	402593346	http://www.wikidata.org/entity/Q28872724
+pilar marcos domínguez	popular parliamentary group	R	144981542	http://www.wikidata.org/entity/Q41672846
+sara giménez	parliamentary group citizens	R	479740555	http://www.wikidata.org/entity/Q52005725
+norma pujol i farré	republican parliamentary group	L	109332337	http://www.wikidata.org/entity/Q56808173
+omar anguita	socialist parliamentary group	L	875222185	http://www.wikidata.org/entity/Q62589840
+inés granollers i cunillera	republican parliamentary group	L	357586041	http://www.wikidata.org/entity/Q63372854
+manuel mariscal zabala	vox parliamentary group	R	257669729	http://www.wikidata.org/entity/Q63442032
+marcos de quinto romero	parliamentary group citizens	R	183178222	http://www.wikidata.org/entity/Q63861537
+ricardo chamorro delmo	vox parliamentary group	R	279233001	http://www.wikidata.org/entity/Q64787957
+maría de los reyes romero vilches	vox parliamentary group	R	3074491774	http://www.wikidata.org/entity/Q65146324
+helena caballero gutiérrez	socialist parliamentary group	L	2177035457	http://www.wikidata.org/entity/Q66663387
+josé carlos durán peralta	socialist parliamentary group	L	222048521	http://www.wikidata.org/entity/Q66663409
+cristina alicia esteban calonje	vox parliamentary group	R	1193908437362577408	http://www.wikidata.org/entity/Q66663410
+maribel garcía lópez	socialist parliamentary group	L	864392892	http://www.wikidata.org/entity/Q66663420
+ariagona gonzález pérez	socialist parliamentary group	L	3221713971	http://www.wikidata.org/entity/Q66663428
+maría guijarro ceballos	socialist parliamentary group	L	270901461	http://www.wikidata.org/entity/Q66663429
+elena máñez rodríguez	socialist parliamentary group	L	204882362	http://www.wikidata.org/entity/Q66663455
+noemí villagrasa quero	socialist parliamentary group	L	146397973	http://www.wikidata.org/entity/Q66663521
+beatriz álvarez fanjul	popular parliamentary group	R	320145391	http://www.wikidata.org/entity/Q81764989
+juan luis pedreño molina	popular parliamentary group	R	3208501132	http://www.wikidata.org/entity/Q81765003
+ana prieto	socialist parliamentary group	L	289844440	http://www.wikidata.org/entity/Q65275040
+josé ángel alonso pérez	popular parliamentary group	R	386439973	http://www.wikidata.org/entity/Q106523293
+julio navalpotro gómez	spanish socialist workers' party	L	409108065	http://www.wikidata.org/entity/Q115983273
+alejandro soler mur	socialist parliamentary group	L	251096605	http://www.wikidata.org/entity/Q2893371
+odón elorza gonzález	socialist parliamentary group	L	284488502	http://www.wikidata.org/entity/Q4892191
+juan josé aizcorbe torra	vox parliamentary group	R	2832034762	http://www.wikidata.org/entity/Q5950140
+lourdes méndez monasterio	vox parliamentary group	R	1108432169054208001	http://www.wikidata.org/entity/Q5981562
+valentín garcía gómez	socialist parliamentary group	L	353808961	http://www.wikidata.org/entity/Q6158878
+ana oramas	canarian coalition	R	479394745	http://www.wikidata.org/entity/Q8198110
+teresa jiménez-becerril	popular parliamentary group	R	1106640378193678339	http://www.wikidata.org/entity/Q9357304
+jaime de olano	popular parliamentary group	R	1637483929	http://www.wikidata.org/entity/Q12390812
+néstor rego	galician nationalist bloc; galician people's union	L	435720619	http://www.wikidata.org/entity/Q12394038
+josé maría espejo-saavedra conesa	parliamentary group citizens	R	405430824	http://www.wikidata.org/entity/Q13859913
+adriana lastra	socialist parliamentary group	L	200194757	http://www.wikidata.org/entity/Q17620225
+josé zaragoza alonso	socialist parliamentary group	L	715890348569010176	http://www.wikidata.org/entity/Q19828092
+jaume asens llodrà	confederal parliamentary group of unidas podemos-in comú podem-galicia in común	L	212377097	http://www.wikidata.org/entity/Q20160095
+gabriel rufián	republican parliamentary group	L	2904896141	http://www.wikidata.org/entity/Q20876620
+agustín almodóbar barceló	popular parliamentary group	R	155350950	http://www.wikidata.org/entity/Q21001076
+patricia blanquer alcaraz	socialist parliamentary group	L	399278810	http://www.wikidata.org/entity/Q21001113
+xavier eritja i ciuró	republican parliamentary group	L	243593550	http://www.wikidata.org/entity/Q21479962
+pedro requejo novoa	vox parliamentary group	R	301733012	http://www.wikidata.org/entity/Q21573600
+irene montero	confederal parliamentary group of unidas podemos-in comú podem-galicia in común	L	372812630	http://www.wikidata.org/entity/Q21706297
+antón gómez-reino	confederal parliamentary group of unidas podemos-in comú podem-galicia in común	L	365392319	http://www.wikidata.org/entity/Q21857951
+míriam nogueras i camero	catalan european democratic party; junts per catalunya	R	343507680	http://www.wikidata.org/entity/Q22337925
+zaida cantera de castro	socialist parliamentary group	L	2610041328	http://www.wikidata.org/entity/Q27701606
+maría del carmen gonzález guinda	popular parliamentary group	R	4385137295	http://www.wikidata.org/entity/Q27755804
+guillermo díaz gómez	parliamentary group citizens	R	851719544615968768	http://www.wikidata.org/entity/Q27756547
+esther peña camarero	socialist parliamentary group	L	266683385	http://www.wikidata.org/entity/Q27758382
+pilar garrido gutiérrez	confederal parliamentary group of unidas podemos-in comú podem-galicia in común	L	3377815605	http://www.wikidata.org/entity/Q28872546
+tomás cabezón casas	popular parliamentary group	R	516834154	http://www.wikidata.org/entity/Q28872682
+javier ortega smith-molina	vox parliamentary group	R	1118941682	http://www.wikidata.org/entity/Q50824635
+carolina telechea i lozano	republican parliamentary group	L	2234780184	http://www.wikidata.org/entity/Q55767141
+laura lópez i domínguez	confederal parliamentary group of unidas podemos-in comú podem-galicia in común	L	193228093	http://www.wikidata.org/entity/Q62018287
+maria das graças carvalho dantas	republican parliamentary group	L	87042194	http://www.wikidata.org/entity/Q62092107
+francisco josé contreras peláez	vox parliamentary group	R	192834709	http://www.wikidata.org/entity/Q63381182
+pablo sáez alonso-muñumer	vox parliamentary group	R	559273864	http://www.wikidata.org/entity/Q65146321
+maría márquez guerrero	confederal parliamentary group of unidas podemos-in comú podem-galicia in común	L	220943320	http://www.wikidata.org/entity/Q66661637
+mariana de gracia canales duque	socialist parliamentary group	L	844285125248651264	http://www.wikidata.org/entity/Q66663395
+roberto garcía morís	socialist parliamentary group	L	917967385	http://www.wikidata.org/entity/Q66663423
+fuensanta lima cid	socialist parliamentary group	L	256656869	http://www.wikidata.org/entity/Q66663441
+andrés lorite lorite	popular parliamentary group	R	222267978	http://www.wikidata.org/entity/Q66663449
+esther padilla ruiz	socialist parliamentary group	L	202540944	http://www.wikidata.org/entity/Q66663481
+germán renau martínez	socialist parliamentary group	L	153563085	http://www.wikidata.org/entity/Q66663492
+marisol sánchez jódar	socialist parliamentary group	L	613233224	http://www.wikidata.org/entity/Q66663505
+patricia de la heras fernández	vox parliamentary group	R	1086595769833017344	http://www.wikidata.org/entity/Q74579112
+pablo juan calvo liste	vox parliamentary group	R	1183315635863994373	http://www.wikidata.org/entity/Q74579119
+concepció cañadell i salvia	catalan european democratic party	R	2867230876	http://www.wikidata.org/entity/Q80082826
+pedro navarro lópez	popular parliamentary group	R	116701487	http://www.wikidata.org/entity/Q81765000
+juan lópez de uralde	confederal parliamentary group of unidas podemos-in comú podem-galicia in común	L	69060709	http://www.wikidata.org/entity/Q3324701
+alberto garzón	confederal parliamentary group of unidas podemos-in comú podem-galicia in común	L	11904592	http://www.wikidata.org/entity/Q3327963
+pedro sánchez	socialist parliamentary group	L	68740712	http://www.wikidata.org/entity/Q6070218
+joaquín garcía díez	popular parliamentary group	R	267248683	http://www.wikidata.org/entity/Q9012236
+vicent sarrià morell	socialist parliamentary group	L	615560129	http://www.wikidata.org/entity/Q11954626
+inés arrimadas	parliamentary group citizens	R	552561770	http://www.wikidata.org/entity/Q13786674
+juan antonio callejas cano	popular parliamentary group	R	403536088	http://www.wikidata.org/entity/Q14069628
+diego movellán	popular parliamentary group	R	96331240	http://www.wikidata.org/entity/Q14085515
+alberto casero ávila	popular parliamentary group	R	250702520	http://www.wikidata.org/entity/Q19688958
+sergi miquel valentí	democratic convergence of catalonia; catalan european democratic party; centrem	R	176191893	http://www.wikidata.org/entity/Q19801137
+miquel àngel jerez juan	popular parliamentary group	R	385882186	http://www.wikidata.org/entity/Q20877110
+carolina españa reina	popular parliamentary group	R	700630213462401024	http://www.wikidata.org/entity/Q27755547
+guillermo mariscal anaya	popular parliamentary group	R	196204374	http://www.wikidata.org/entity/Q27755671
+noelia vera	confederal parliamentary group of unidas podemos-in comú podem-galicia in común	L	225138968	http://www.wikidata.org/entity/Q27756448
+juan luis soto burillo	socialist parliamentary group	L	1916660826	http://www.wikidata.org/entity/Q28840750
+ana beltrán	popular parliamentary group	R	2300055003	http://www.wikidata.org/entity/Q29819207
+pedro fernández hernández	vox parliamentary group	R	805508913261146112	http://www.wikidata.org/entity/Q61415391
+iván espinosa de los monteros de simón	vox parliamentary group	R	48976307	http://www.wikidata.org/entity/Q61481949
+marta rosique	republican parliamentary group	L	572925673	http://www.wikidata.org/entity/Q62107513
+arnau ramírez carner	socialist parliamentary group	L	92407680	http://www.wikidata.org/entity/Q62574792
+fernando adolfo gutiérrez díaz de otazu	popular parliamentary group	R	983101658	http://www.wikidata.org/entity/Q64784895
+josé maría figaredo álvarez-sala	vox parliamentary group	R	1113036780813672448; 2799483719	http://www.wikidata.org/entity/Q65146316
+maría ángeles marra domínguez	socialist parliamentary group	L	487856790	http://www.wikidata.org/entity/Q66663457
+juan francisco serrano martínez	socialist parliamentary group	L	337929140	http://www.wikidata.org/entity/Q66663510
+tomás fernández ríos	vox parliamentary group	R	799971934201085954	http://www.wikidata.org/entity/Q74579117
+ana pastor julián	popular parliamentary group	R	307570052	http://www.wikidata.org/entity/Q433215
+sergio gutiérrez prieto	socialist parliamentary group	L	162055437	http://www.wikidata.org/entity/Q2273109
+joan baldoví i roda	compromís; valencian nationalist bloc	L	378944786	http://www.wikidata.org/entity/Q2754094
+luis carlos sahuquillo	socialist parliamentary group	L	364183185	http://www.wikidata.org/entity/Q2880726
+rafael simancas	socialist parliamentary group	L	402219133	http://www.wikidata.org/entity/Q3417279
+rosa romero sánchez	popular parliamentary group	R	253968932	http://www.wikidata.org/entity/Q3442092
+josé luis ábalos meco	socialist parliamentary group	L	202372417	http://www.wikidata.org/entity/Q3820056
+maría jesús montero cuadrado	socialist parliamentary group	L	310187114	http://www.wikidata.org/entity/Q6003983
+emilio del valle	vox parliamentary group	R	1122839391096004608	http://www.wikidata.org/entity/Q8775589
+ana belén vázquez	popular parliamentary group	R	397867366	http://www.wikidata.org/entity/Q12382952
+marta gonzález vázquez	popular parliamentary group	R	3436686957	http://www.wikidata.org/entity/Q12392976
+alfredo sancho guardia	socialist parliamentary group	L	1373591724	http://www.wikidata.org/entity/Q14084448
+maría dolores narváez bandera	socialist parliamentary group	L	467682272	http://www.wikidata.org/entity/Q14089251
+ferran bel accensi	democratic convergence of catalonia; catalan european democratic party	R	352930189	http://www.wikidata.org/entity/Q14122374
+joan ruiz i carbonell	socialist parliamentary group	L	163541727	http://www.wikidata.org/entity/Q17036717
+íñigo errejón	podemos; más país	L	482389606	http://www.wikidata.org/entity/Q17045132
+pilar vallugera	republican parliamentary group	L	1724984834	http://www.wikidata.org/entity/Q19301601
+guillermo meijón	socialist parliamentary group	L	118033828	http://www.wikidata.org/entity/Q20535078
+maría del mar garcía puig	confederal parliamentary group of unidas podemos-in comú podem-galicia in común	L	2921983427	http://www.wikidata.org/entity/Q22227974
+lidia guinart	socialist parliamentary group	L	440281129	http://www.wikidata.org/entity/Q22337905
+txema guijarro garcía	confederal parliamentary group of unidas podemos-in comú podem-galicia in común	L	752439542859304960	http://www.wikidata.org/entity/Q22964625
+marta martín llaguno	parliamentary group citizens	R	65325998	http://www.wikidata.org/entity/Q22964690
+eloy suárez	popular parliamentary group	R	241080178	http://www.wikidata.org/entity/Q27755620
+jesús postigo quintana	popular parliamentary group	R	2457797184	http://www.wikidata.org/entity/Q27755857
+víctor valentín píriz maya	popular parliamentary group	R	807001880220073988	http://www.wikidata.org/entity/Q27756197
+francisco aranda vargas	socialist parliamentary group	L	76285597	http://www.wikidata.org/entity/Q62027401
+pablo montesinos aguayo	popular parliamentary group	R	326735453	http://www.wikidata.org/entity/Q62129170
+ignacio garriga vaz de conceição	vox parliamentary group	R	2876878144	http://www.wikidata.org/entity/Q62585987
+ángel lópez maraver	vox parliamentary group	R	1039475426651979781	http://www.wikidata.org/entity/Q63946040
+rocío de meer méndez	vox parliamentary group	R	4525423215	http://www.wikidata.org/entity/Q66661047
+josé luis aceves galindo	socialist parliamentary group	L	132666884	http://www.wikidata.org/entity/Q66663372
+mario garcés sanagustín	popular parliamentary group	R	808948514155855872	http://www.wikidata.org/entity/Q66663416
+antonia jover díaz	confederal parliamentary group of unidas podemos-in comú podem-galicia in común	L	230807056	http://www.wikidata.org/entity/Q66663439
+maría marrodán funes	socialist parliamentary group	L	372816654	http://www.wikidata.org/entity/Q66663460
+maría magdalena nevado del campo	vox parliamentary group	R	274481242	http://www.wikidata.org/entity/Q74579114
+sebastián jesús ledesma martín	popular parliamentary group	R	1179187428	http://www.wikidata.org/entity/Q81764996
+maría de la o redondo calvillo	popular parliamentary group	R	3083771273	http://www.wikidata.org/entity/Q81765004
+enrique santiago	confederal parliamentary group of unidas podemos-in comú podem-galicia in común	L	293012562	http://www.wikidata.org/entity/Q5573261
+alfonso rodríguez gómez de celis	socialist parliamentary group	L	22473944	http://www.wikidata.org/entity/Q5667136
+pablo casado blanco	popular parliamentary group	R	523386042	http://www.wikidata.org/entity/Q6055866
+pedro quevedo iturbe	new canaries	L	250740163	http://www.wikidata.org/entity/Q6069900
+macarena montesinos de miguel	popular parliamentary group	R	1197128623364423680	http://www.wikidata.org/entity/Q11934485
+tristana moraleja	popular parliamentary group	R	789723368	http://www.wikidata.org/entity/Q12401411
+rafael mayoral	confederal parliamentary group of unidas podemos-in comú podem-galicia in común	L	1269484171	http://www.wikidata.org/entity/Q19753565
+gerardo pisarello	confederal parliamentary group of unidas podemos-in comú podem-galicia in común	L	3039268715	http://www.wikidata.org/entity/Q19936193
+isabel borrego cortés	popular parliamentary group	R	803628460350509056	http://www.wikidata.org/entity/Q21001117
+joan margall sastre	republican parliamentary group	L	15071264	http://www.wikidata.org/entity/Q21789607
+gloria elizo	confederal parliamentary group of unidas podemos-in comú podem-galicia in común	L	301403189	http://www.wikidata.org/entity/Q22081467
+alberto rodríguez rodríguez	confederal parliamentary group of unidas podemos-in comú podem-galicia in común	L	3380065859	http://www.wikidata.org/entity/Q22087667
+aina vidal sáez	confederal parliamentary group of unidas podemos-in comú podem-galicia in común	L	53350394	http://www.wikidata.org/entity/Q22227976
+pere joan pons	socialist parliamentary group	L	22079985	http://www.wikidata.org/entity/Q24050483
+sonia ferrer tesoro	socialist parliamentary group	L	264761667	http://www.wikidata.org/entity/Q27756341
+javier sánchez serna	confederal parliamentary group of unidas podemos-in comú podem-galicia in común	L	300969753	http://www.wikidata.org/entity/Q27999129
+begoña nasarre oliva	socialist parliamentary group	L	88802757	http://www.wikidata.org/entity/Q27999286
+maría carmen riolobos regadera	popular parliamentary group	R	106811959	http://www.wikidata.org/entity/Q28502373
+valentina martínez ferro	popular parliamentary group	R	9242202	http://www.wikidata.org/entity/Q44519807
+pau marí-klose	socialist parliamentary group	L	1165362025	http://www.wikidata.org/entity/Q59714815
+genís boadella esteve	democratic convergence of catalonia; partit per la independència; catalan european democratic party	R	541483505	http://www.wikidata.org/entity/Q63147924
+marina ortega	socialist parliamentary group	L	1018172530224492544	http://www.wikidata.org/entity/Q65275304
+beatriz carrillo	socialist parliamentary group	L	621790334	http://www.wikidata.org/entity/Q66116008
+joaquín robles lópez	vox parliamentary group	R	1133273163884826624	http://www.wikidata.org/entity/Q66661355
+ignacio lópez cano	socialist parliamentary group	L	224199272	http://www.wikidata.org/entity/Q66662460
+eva patricia bueno campanario	socialist parliamentary group	L	2675863029	http://www.wikidata.org/entity/Q66663385
+ismael cortés gómez	confederal parliamentary group of unidas podemos-in comú podem-galicia in común	L	1109063639024189452	http://www.wikidata.org/entity/Q66663400
+luc andre diouf dioh	socialist parliamentary group	L	4276393785	http://www.wikidata.org/entity/Q66663407
+pedro antonio honrubia hurtado	confederal parliamentary group of unidas podemos-in comú podem-galicia in común	L	302024398	http://www.wikidata.org/entity/Q66663436
+roser maestro moliner	confederal parliamentary group of unidas podemos-in comú podem-galicia in común	L	118453663	http://www.wikidata.org/entity/Q66663452
+luis gestoso de miguel	vox parliamentary group	R	932321656416108544	http://www.wikidata.org/entity/Q74579123
+antidio fagúndez campo	socialist parliamentary group	L	1228373473	http://www.wikidata.org/entity/Q81769140
+pedro casares hontañón	socialist parliamentary group	L	378525757	http://www.wikidata.org/entity/Q81769144
+indalecio gutiérrez	socialist parliamentary group	L	293944355	http://www.wikidata.org/entity/Q83978919
+ana botella gómez	socialist parliamentary group	L	4258411577	http://www.wikidata.org/entity/Q431461
+cuca gamarra	popular parliamentary group	R	83573034	http://www.wikidata.org/entity/Q2223490
+inés sabanés	united left; verdes equo; socialist action party; ahora madrid	L	110442665	http://www.wikidata.org/entity/Q5919721
+manuel mestre barea	vox parliamentary group	R	93471453	http://www.wikidata.org/entity/Q5993770
+edurne uriarte	popular parliamentary group	R	250092838	http://www.wikidata.org/entity/Q8772477
+susana ros	socialist parliamentary group	L	365957901	http://www.wikidata.org/entity/Q11950567
+belén hoyo	popular parliamentary group	R	239779545	http://www.wikidata.org/entity/Q12156127
+maría de los llanos de luna tobarra	popular parliamentary group	R	1128589504682569733	http://www.wikidata.org/entity/Q13231315
+pablo iglesias turrión	confederal parliamentary group of unidas podemos-in comú podem-galicia in común	L	158342368	http://www.wikidata.org/entity/Q13989269
+herminio rufino sancho iñiguez	socialist parliamentary group	L	711969278149308416	http://www.wikidata.org/entity/Q14124051
+carmen andrés añón	socialist parliamentary group	L	372852334	http://www.wikidata.org/entity/Q14948188
+cayetana álvarez de toledo	popular parliamentary group	R	303168830	http://www.wikidata.org/entity/Q16297359
+elvira ramón	socialist parliamentary group	L	390217747	http://www.wikidata.org/entity/Q19824341
+césar ramos esteban	socialist parliamentary group	L	11086042	http://www.wikidata.org/entity/Q26162484
+josé alberto herrero bono	popular parliamentary group	R	2849798849	http://www.wikidata.org/entity/Q27755608
+ana maría zurita expósito	popular parliamentary group	R	518445571	http://www.wikidata.org/entity/Q27755679
+isabel franco	confederal parliamentary group of unidas podemos-in comú podem-galicia in común	L	302453497	http://www.wikidata.org/entity/Q27756490
+david serrada pariente	socialist parliamentary group	L	271436089	http://www.wikidata.org/entity/Q27999092
+diego gago	popular parliamentary group	R	267707645	http://www.wikidata.org/entity/Q28911979
+maría auxiliadora pérez díaz	popular parliamentary group	R	192883412	http://www.wikidata.org/entity/Q30727238
+miguel ángel gonzález caballero	socialist parliamentary group	L	3391734845	http://www.wikidata.org/entity/Q58832808
+javier alfonso-cendón	socialist parliamentary group	L	901414373050241024	http://www.wikidata.org/entity/Q62054182
+patricia rueda perelló	vox parliamentary group	R	2613310915	http://www.wikidata.org/entity/Q65146326
+eva bravo barco	socialist parliamentary group	L	1116022190154113030	http://www.wikidata.org/entity/Q66663384
+marisa saavedra muñoz	confederal parliamentary group of unidas podemos-in comú podem-galicia in común	L	897945036402327552	http://www.wikidata.org/entity/Q66663500
+maría teresa lópez álvarez	vox parliamentary group	R	2286278800	http://www.wikidata.org/entity/Q74579137
+miguel ángel castellón rubio	popular parliamentary group	R	265938163	http://www.wikidata.org/entity/Q79428679
+elena castillo lópez	popular parliamentary group	R	793518916005990400	http://www.wikidata.org/entity/Q81765009
+patxi lópez	socialist parliamentary group	L	16084460	http://www.wikidata.org/entity/Q465161
+elvira rodríguez	popular parliamentary group	R	1184610201812590593	http://www.wikidata.org/entity/Q3051830
+oskar matute	parliamentary group eh bildu	L	27675374	http://www.wikidata.org/entity/Q3826664
+antonio gonzález terol	popular parliamentary group	R	164274777	http://www.wikidata.org/entity/Q5698518
+josé ignacio echániz	popular parliamentary group	R	1110628846242594820	http://www.wikidata.org/entity/Q5940494
+maría luisa carcedo	socialist parliamentary group	L	925676922838929408	http://www.wikidata.org/entity/Q6004169
+jordi salvador i duch	republican parliamentary group	L	326105216	http://www.wikidata.org/entity/Q21480157
+alicia garcía rodríguez	popular parliamentary group	R	495288613	http://www.wikidata.org/entity/Q22999280
+ione belarra	confederal parliamentary group of unidas podemos-in comú podem-galicia in común	L	344739325	http://www.wikidata.org/entity/Q24524789
+óscar gamazo micó	popular parliamentary group	R	170340172	http://www.wikidata.org/entity/Q26806177
+isidro manuel martínez oblanca	people's party; asturias forum	R	3108277737	http://www.wikidata.org/entity/Q27755637
+miguel ángel paniagua núñez	popular parliamentary group	R	90467570	http://www.wikidata.org/entity/Q27755812
+maria luz martínez seijo	socialist parliamentary group	L	270356445	http://www.wikidata.org/entity/Q27758403
+javier antón cacho	socialist parliamentary group	L	119170897	http://www.wikidata.org/entity/Q27999091
+josé ortiz galván	popular parliamentary group	R	724965496391634944	http://www.wikidata.org/entity/Q27999151
+montse bassa	republican parliamentary group	L	1084408297	http://www.wikidata.org/entity/Q62007391
+paloma gázquez	popular parliamentary group	R	1107072258294669313	http://www.wikidata.org/entity/Q62566102
+edmundo bal francés	parliamentary group citizens	R	1099251922152931329	http://www.wikidata.org/entity/Q63861758
+andrea fernández benéitez	socialist parliamentary group	L	702298741651447808	http://www.wikidata.org/entity/Q64213621
+macarena olona choclán	vox parliamentary group	R	1109573601995440129	http://www.wikidata.org/entity/Q64569137
+josé ramírez del río	vox parliamentary group	R	1113813322170863616	http://www.wikidata.org/entity/Q65146312
+víctor manuel sánchez del real	vox parliamentary group	R	53517943	http://www.wikidata.org/entity/Q65146315
+belén fernández casero	socialist parliamentary group	L	2718789058	http://www.wikidata.org/entity/Q65275034
+cristina lópez zamora	socialist parliamentary group	L	1254790806780678144	http://www.wikidata.org/entity/Q66498271
+pablo cambronero piqueras	parliamentary group citizens	R	2679135387	http://www.wikidata.org/entity/Q66663393
+santos cerdán león	socialist parliamentary group	L	141183245	http://www.wikidata.org/entity/Q66663396
+maría soledad cruz-guzmán garcía	popular parliamentary group	R	789120175	http://www.wikidata.org/entity/Q66663402
+juan cuatrecasas asua	socialist parliamentary group	L	295686450; 1111604643409391624	http://www.wikidata.org/entity/Q66663404
+héctor gómez hernández	socialist parliamentary group	L	60114737	http://www.wikidata.org/entity/Q66663427
+maría carmen martínez granados	parliamentary group citizens	R	1056227988180795393	http://www.wikidata.org/entity/Q66663461
+lucía muñoz dalda	confederal parliamentary group of unidas podemos-in comú podem-galicia in común	L	2578198139	http://www.wikidata.org/entity/Q66663475
+margarita prohens rigo	popular parliamentary group	R	361322719	http://www.wikidata.org/entity/Q66663490
+yolanda seva ruiz	socialist parliamentary group	L	4409892215	http://www.wikidata.org/entity/Q66663512
+martina velarde gómez	confederal parliamentary group of unidas podemos-in comú podem-galicia in común	L	3300574151	http://www.wikidata.org/entity/Q66663516
+juan luis steegmann olmedillas	vox parliamentary group	R	593952938; 900446435111579648	http://www.wikidata.org/entity/Q74579099
+carlos hugo fernández-roca suárez	vox parliamentary group	R	3512934022	http://www.wikidata.org/entity/Q74579105
+georgina trías gil	vox parliamentary group	R	1118102485053399041	http://www.wikidata.org/entity/Q74579107
+inés maría cañizares pacheco	vox parliamentary group	R	2561709684	http://www.wikidata.org/entity/Q74579128
+rodrigo jiménez revuelta	vox parliamentary group	R	1681133749	http://www.wikidata.org/entity/Q74579131
+víctor guido gonzález coello de portugal	vox parliamentary group	R	49607100	http://www.wikidata.org/entity/Q74579135
+pablo hispán iglesias de ussel	popular parliamentary group	R	3095873030	http://www.wikidata.org/entity/Q81764991
+javier merino martínez	popular parliamentary group	R	82652418	http://www.wikidata.org/entity/Q81764999
+eduardo carazo hermoso	popular parliamentary group	R	242430168	http://www.wikidata.org/entity/Q81765006
+pedro duque	socialist parliamentary group	L	311979693	http://www.wikidata.org/entity/Q448547
+iñaki ruiz de pinedo undiano	basque nationalist party; people's socialist revolutionary party; euskal herria bildu; herri batasuna; euskal herritarrok	L	596531845	http://www.wikidata.org/entity/Q3753758
+carlos rojas garcía	popular parliamentary group	R	158846236	http://www.wikidata.org/entity/Q5751614
+joan josep nuet	republican parliamentary group	L	17199998	http://www.wikidata.org/entity/Q5931440
+meritxell batet	socialist parliamentary group	L	725700028392689664; 1013701195414810626	http://www.wikidata.org/entity/Q9031777
+mertxe aizpurua	parliamentary group eh bildu	L	555326714	http://www.wikidata.org/entity/Q12263472
+sergio sayas	navarrese people's union	R	144600462	http://www.wikidata.org/entity/Q12267336
+celso delgado	popular parliamentary group	R	755798880118243328	http://www.wikidata.org/entity/Q12385903
+oscar clavell lopez	popular parliamentary group	R	540111388	http://www.wikidata.org/entity/Q14066524
+rafaela crespín rubio	socialist parliamentary group	L	3348787462	http://www.wikidata.org/entity/Q14085870
+santiago abascal conde	vox parliamentary group	R	260788584	http://www.wikidata.org/entity/Q11703587
+carmelo romero hernández	popular parliamentary group	R	461900036	http://www.wikidata.org/entity/Q14084185
+javier bas corugeira	popular parliamentary group	R	1103313372479672320	http://www.wikidata.org/entity/Q14101365
+pablo echenique	confederal parliamentary group of unidas podemos-in comú podem-galicia in común	L	25555639	http://www.wikidata.org/entity/Q17177501
+felipe sicilia	socialist parliamentary group	L	246982544	http://www.wikidata.org/entity/Q19826434
+marc lamuà estañol	socialist parliamentary group	L	171506399	http://www.wikidata.org/entity/Q22337915
+mercè perea	socialist parliamentary group	L	214794461	http://www.wikidata.org/entity/Q22337927
+daniel viondi	socialist parliamentary group	L	15667049	http://www.wikidata.org/entity/Q23009749
+pilar cancela rodríguez	socialist parliamentary group	L	1042939466	http://www.wikidata.org/entity/Q25509804
+maría jesús moro almaraz	popular parliamentary group	R	2365318187	http://www.wikidata.org/entity/Q27755821
+rafa lomana	vox parliamentary group	R	821157253	http://www.wikidata.org/entity/Q27908505
+vicente tirado ochoa	popular parliamentary group	R	1096467320468312066	http://www.wikidata.org/entity/Q44589138
+josé maría mazón ramos	regionalist party of cantabria	L	1109041676042018816	http://www.wikidata.org/entity/Q49842104
+agustín rosety fernández de castro	vox parliamentary group	R	1115297214325194755	http://www.wikidata.org/entity/Q63438404
+maría de la cabeza ruiz solás	vox parliamentary group	R	3368070699	http://www.wikidata.org/entity/Q63862107
+carla toscano de balbín	vox parliamentary group	R	3050371833	http://www.wikidata.org/entity/Q63862138
+roberto uriarte torrealday	confederal parliamentary group of unidas podemos-in comú podem-galicia in común	L	3019568698	http://www.wikidata.org/entity/Q64211015
+pablo arangüena fernández	socialist parliamentary group	L	788864262483615745	http://www.wikidata.org/entity/Q66663376
+maría montserrat garcía chavarría	socialist parliamentary group	L	837874657	http://www.wikidata.org/entity/Q66663419
+montse mínguez garcía	socialist parliamentary group	L	847169983	http://www.wikidata.org/entity/Q66663464
+maría muñoz vidal	parliamentary group citizens	R	316058009	http://www.wikidata.org/entity/Q66663477
+adolfo pérez abellás	socialist parliamentary group	L	1006180942237626368; 3630263955	http://www.wikidata.org/entity/Q66663483
+mireia borrás pabón	vox parliamentary group	R	2348453556	http://www.wikidata.org/entity/Q74579100
+carlos zambrano garcía-raez	vox parliamentary group	R	2385882402	http://www.wikidata.org/entity/Q74579116
+rubén silvano manso olivar	vox parliamentary group	R	386796948	http://www.wikidata.org/entity/Q74579120
+carmen calvo poyato	socialist parliamentary group	L	933309177623121921	http://www.wikidata.org/entity/Q2614472
+juan carlos campo moreno	socialist parliamentary group	L	4580450962	http://www.wikidata.org/entity/Q2877730
+yolanda díaz pérez	confederal parliamentary group of unidas podemos-in comú podem-galicia in común	L	761862806	http://www.wikidata.org/entity/Q3393973
+francisco josé alcaraz	vox parliamentary group	R	266066285	http://www.wikidata.org/entity/Q5866375
+magdalena valerio cordero	socialist parliamentary group	L	258439147	http://www.wikidata.org/entity/Q5989717
+maría pilar ramallo vázquez	popular parliamentary group	R	1184508781595627521	http://www.wikidata.org/entity/Q12393048
+josé antonio rodríguez salas	socialist parliamentary group	L	21361705	http://www.wikidata.org/entity/Q14078814
+josé luis ramos rodríguez	socialist parliamentary group	L	1097807109239029762	http://www.wikidata.org/entity/Q14084151
+isabel garcía tejerina	popular parliamentary group	R	1107968827013427200	http://www.wikidata.org/entity/Q16300520
+susana sumelzo jordán	socialist parliamentary group	L	520609496	http://www.wikidata.org/entity/Q17563522
+joan mena i arca	confederal parliamentary group of unidas podemos-in comú podem-galicia in común	L	61822734	http://www.wikidata.org/entity/Q19299933
+sofia hernanz costa	socialist parliamentary group	L	393300798	http://www.wikidata.org/entity/Q20877108
+laura berja	socialist parliamentary group	L	269472408	http://www.wikidata.org/entity/Q21089383
+luis tudanca fernández	spanish socialist workers' party	L	323182230	http://www.wikidata.org/entity/Q17987578
+alfonso fernando fernández mañueco	people's party	R	218094642	http://www.wikidata.org/entity/Q5666820
+miguel ángel garcía nieto	people's party	R	1094528401451438080	http://www.wikidata.org/entity/Q13982821
+ángel ibáñez hernando	people's party	R	1207241093655531521	http://www.wikidata.org/entity/Q62030004
+francisco igea arisqueta	ciudadanos	R	493242970	http://www.wikidata.org/entity/Q22083531
+laura domínguez arroyo	united left; podemos; podemos castile and león	L	2977966979	http://www.wikidata.org/entity/Q64177328
+pablo fernández santos	podemos; podemos castile and león	L	221406410	http://www.wikidata.org/entity/Q22999398
+luis mariano santos reyero	leonese people's union	L	2288546025	http://www.wikidata.org/entity/Q28501890
+francisco vázquez requero	people's party	R	1087686027211407362	http://www.wikidata.org/entity/Q46998475
+maría teresa pardo reinaldos	parliamentary group citizens	R	3053673549	http://www.wikidata.org/entity/Q108527615
+ángeles férriz gómez	spanish socialist workers' party of andalusia	L	256214610	http://www.wikidata.org/entity/Q115702604
+ángela mulas belizón	vox	R	1081042786961555456	http://www.wikidata.org/entity/Q63953277
+daniel serrano coronado	people's party of catalonia parliamentary subgroup	R	2952905309	http://www.wikidata.org/entity/Q19950623
+marc sanglas i alcantarilla	republican parliamentary group	L	266793262	http://www.wikidata.org/entity/Q20005585
+jordi terrades i santacreu	socialists and united to advance parliamentary group	L	116508123	http://www.wikidata.org/entity/Q20876742
+josep lluís salvadó i tenesa	republican parliamentary group	L	279138983	http://www.wikidata.org/entity/Q21001459
+marina bravo sobrino	citizens group of the parliament of catalonia	R	408758124	http://www.wikidata.org/entity/Q21479839
+francisco javier domínguez serrano	citizens group of the parliament of catalonia	R	1169719280	http://www.wikidata.org/entity/Q21479945
+carlos sánchez martín	citizens group of the parliament of catalonia	R	3438231191	http://www.wikidata.org/entity/Q21480161
+irene fornós i curto	republican parliamentary group	L	911929524178341888	http://www.wikidata.org/entity/Q43439940
+susana segovia sánchez	catalunya en comú podem parliamentary group	L	308162189	http://www.wikidata.org/entity/Q46485816
+josep riera i font	junts per catalunya parliamentary group	R	247431930	http://www.wikidata.org/entity/Q46564524
+david bertran román	citizens group of the parliament of catalonia	R	756074519979327488	http://www.wikidata.org/entity/Q47499676
+maialen fernández cabezas	citizens group of the parliament of catalonia	R	931950889438470144	http://www.wikidata.org/entity/Q56923564
+blanca victoria navarro pacheco	citizens group of the parliament of catalonia	R	345847004	http://www.wikidata.org/entity/Q57561919
+manuel rodríguez de l'hotellerie de fallois	citizens group of the parliament of catalonia	R	83417882	http://www.wikidata.org/entity/Q57585876
+assumpció laïlla i jou	republican parliamentary group	L	40445161	http://www.wikidata.org/entity/Q5840612
+lluís guinó subirós	junts per catalunya parliamentary group	R	193739395	http://www.wikidata.org/entity/Q14074180
+alfons jaume montserrat esteller	republican parliamentary group	L	2300484656	http://www.wikidata.org/entity/Q14121298
+albert batet i canadell	junts per catalunya parliamentary group	R	249137277	http://www.wikidata.org/entity/Q14122426
+sergi sabrià i benito	republican parliamentary group	L	19982905	http://www.wikidata.org/entity/Q17036852
+ferran civit i martí	republican parliamentary group	L	386664971	http://www.wikidata.org/entity/Q20731424
+esther niubó cidoncha	socialists and united to advance parliamentary group	L	786658802	http://www.wikidata.org/entity/Q20876464
+ferran pedret i santos	socialists and united to advance parliamentary group	L	306905016	http://www.wikidata.org/entity/Q21001393
+alícia romero llano	socialists and united to advance parliamentary group	L	112559150	http://www.wikidata.org/entity/Q21001447
+esperanza garcía gonzález	people's party of catalonia parliamentary subgroup	R	700985948075642881	http://www.wikidata.org/entity/Q21402415
+pol gibert horcas	socialists and united to advance parliamentary group	L	196967858	http://www.wikidata.org/entity/Q21402417
+rut ribas i martí	republican parliamentary group	L	560245816	http://www.wikidata.org/entity/Q43314899
+martín eusebio barra lópez	citizens group of the parliament of catalonia	R	2937490251	http://www.wikidata.org/entity/Q46633948
+mònica sales de la cruz	junts per catalunya parliamentary group	R	285533583	http://www.wikidata.org/entity/Q46955723
+raquel sans i guerra	republican parliamentary group	L	173824539	http://www.wikidata.org/entity/Q56855939
+lucas silvano ferro solé	catalunya en comú podem parliamentary group	L	222515841	http://www.wikidata.org/entity/Q56884609
+maría del camino fernández riol	citizens group of the parliament of catalonia	R	417868278	http://www.wikidata.org/entity/Q56992086
+martí  pachamé barrera	citizens group of the parliament of catalonia	R	393028955	http://www.wikidata.org/entity/Q57578984
+mercè escofet sala	citizens group of the parliament of catalonia	R	740529353495355392	http://www.wikidata.org/entity/Q64222286
+aurora carbonell i abella	republican parliamentary group	L	306772489	http://www.wikidata.org/entity/Q65961396
+miquel iceta i llorens	socialists and united to advance parliamentary group	L	74205573	http://www.wikidata.org/entity/Q3315737
+josep puig i boix	junts per catalunya parliamentary group	R	155691183	http://www.wikidata.org/entity/Q11928872
+carlos carrizosa torres	citizens group of the parliament of catalonia	R	268927636	http://www.wikidata.org/entity/Q13787544
+nuria picas albets	republican parliamentary group	L	1021859154	http://www.wikidata.org/entity/Q15110703
+josep maria forné i febrer	junts per catalunya parliamentary group	R	902451863534043136	http://www.wikidata.org/entity/Q20876148
+sergi sanz jiménez	citizens group of the parliament of catalonia	R	144858381	http://www.wikidata.org/entity/Q21480198
+héctor amelló montiu	citizens group of the parliament of catalonia	R	278794076	http://www.wikidata.org/entity/Q21787580
+eusebi campdepadrós	junts per catalunya parliamentary group	R	931452270260183043	http://www.wikidata.org/entity/Q43373960
+imma gallardo barceló	junts per catalunya parliamentary group	R	1415441509	http://www.wikidata.org/entity/Q43376768
+natàlia sànchez i dipp	popular unity candidates - constituent call parliamentary subgroup	L	318065268	http://www.wikidata.org/entity/Q43963838
+gemma geis i carreras	junts per catalunya parliamentary group	R	19141079	http://www.wikidata.org/entity/Q44717119
+salwa el garbhi	junts per catalunya parliamentary group	R	721652745426636801	http://www.wikidata.org/entity/Q47510644
+xavier quinquillà durich	junts per catalunya parliamentary group	R	484621726	http://www.wikidata.org/entity/Q47515554
+maria elena fort i cisneros	junts per catalunya parliamentary group	R	223981374	http://www.wikidata.org/entity/Q53104486
+concepción abellán carretero	catalunya en comú podem parliamentary group	L	2729354019	http://www.wikidata.org/entity/Q63947500
+joan antoni caballol i angelats	socialists and united to advance parliamentary group	L	2354405445	http://www.wikidata.org/entity/Q99455197
+ferran mascarell i canalda	junts per catalunya parliamentary group	R	194080489	http://www.wikidata.org/entity/Q8961453
+marc solsona aixalà	junts per catalunya parliamentary group	R	444509156	http://www.wikidata.org/entity/Q11935220
+matías alonso ruiz	citizens group of the parliament of catalonia	R	93370246	http://www.wikidata.org/entity/Q11936228
+roger torrent i ramió	republican parliamentary group	L	218583772	http://www.wikidata.org/entity/Q14076596
+bernat solé i barril	republican parliamentary group	L	242905582	http://www.wikidata.org/entity/Q14087414
+montserrat fornells solé	republican parliamentary group	L	382564267	http://www.wikidata.org/entity/Q14088217
+jenn díaz	republican parliamentary group	L	281025578	http://www.wikidata.org/entity/Q16941873
+eva granados	socialists and united to advance parliamentary group	L	210607838	http://www.wikidata.org/entity/Q20791378
+òscar ordeig i molist	socialists and united to advance parliamentary group	L	14088368	http://www.wikidata.org/entity/Q20876479
+elisabeth valencia mimbrero	citizens group of the parliament of catalonia	R	1144143464	http://www.wikidata.org/entity/Q21479958
+antonio espinosa cerrato	citizens group of the parliament of catalonia	R	229588734	http://www.wikidata.org/entity/Q21479968
+sonia sierra infante	citizens group of the parliament of catalonia	R	94413714	http://www.wikidata.org/entity/Q21480200
+jorge soler gonzález	citizens group of the parliament of catalonia	R	350402862	http://www.wikidata.org/entity/Q21480205
+nacho martín blanco	citizens group of the parliament of catalonia	R	852681528	http://www.wikidata.org/entity/Q28708135
+adriana delgado i herreros	republican parliamentary group	L	227619782	http://www.wikidata.org/entity/Q39301757
+aurora madaula i giménez	junts per catalunya parliamentary group	R	285318787	http://www.wikidata.org/entity/Q43439924
+josep costa i rosselló	junts per catalunya parliamentary group	R	49449999	http://www.wikidata.org/entity/Q46564243
+lluïsa llop i fernàndez	republican parliamentary group	L	879971580	http://www.wikidata.org/entity/Q56578185
+munia fernández-jordán celorio	citizens group of the parliament of catalonia	R	2863327574	http://www.wikidata.org/entity/Q56996200
+montserrat macià i gou	junts per catalunya parliamentary group	R	976099982003580928	http://www.wikidata.org/entity/Q57358182
+marc parés	catalunya en comú podem parliamentary group	L	275570491	http://www.wikidata.org/entity/Q61835012
+josé rodríguez fernández	republican parliamentary group	L	11990122	http://www.wikidata.org/entity/Q64223485
+rafel bruguera i batalla	socialists and united to advance parliamentary group	L	440781648	http://www.wikidata.org/entity/Q16180762
+marta ribas frías	catalunya en comú podem parliamentary group	L	278972006	http://www.wikidata.org/entity/Q17036459
+alejandro fernández álvarez	people's party of catalonia parliamentary subgroup	R	241043904	http://www.wikidata.org/entity/Q19626527
+eduardo reyes pino	republican parliamentary group	L	299062519	http://www.wikidata.org/entity/Q20679992
+susana beltrán garcía	citizens group of the parliament of catalonia	R	483990093	http://www.wikidata.org/entity/Q20876728
+assumpta escarp gibert	socialists and united to advance parliamentary group	L	497099474	http://www.wikidata.org/entity/Q21402402
+joan garcía gonzález	citizens group of the parliament of catalonia	R	233974069	http://www.wikidata.org/entity/Q21480007
+carles riera i albert	popular unity candidates - constituent call parliamentary subgroup	L	117563598	http://www.wikidata.org/entity/Q28708197
+jordi albert i caballero	republican parliamentary group	L	202997663	http://www.wikidata.org/entity/Q46631240
+manuel losada seivane	citizens group of the parliament of catalonia	R	4491907223	http://www.wikidata.org/entity/Q63313611
+jorge feijóo suñol	citizens group of the parliament of catalonia	R	306696210	http://www.wikidata.org/entity/Q64222330
+ferran roquer padrosa	junts per catalunya parliamentary group	R	235049340	http://www.wikidata.org/entity/Q14074303
+jordi munell garcia	junts per catalunya parliamentary group	R	168223078	http://www.wikidata.org/entity/Q14075956
+david pérez i ibáñez	socialists and united to advance parliamentary group	L	132550511	http://www.wikidata.org/entity/Q17563120
+marta moreta rovira	socialists and united to advance parliamentary group	L	213348926	http://www.wikidata.org/entity/Q21402444
+david mejía ayra	citizens group of the parliament of catalonia	R	206778272	http://www.wikidata.org/entity/Q21479939
+alfonso sánchez fisac	citizens group of the parliament of catalonia	R	82099602	http://www.wikidata.org/entity/Q21480160
+marta madrenas i mir	junts per catalunya parliamentary group	R	287905892	http://www.wikidata.org/entity/Q23016204
+teresa pallarès piqué	junts per catalunya parliamentary group	R	335861414	http://www.wikidata.org/entity/Q43371415
+maria sirvent i escrig	popular unity candidates - constituent call parliamentary subgroup	L	2366894494	http://www.wikidata.org/entity/Q43375166
+josé maría cano navarro	citizens group of the parliament of catalonia	R	2865383410	http://www.wikidata.org/entity/Q46852623
+francesc xavier ten i costa	junts per catalunya parliamentary group	R	1485507679	http://www.wikidata.org/entity/Q46856555
+narcís clara i lloret	junts per catalunya parliamentary group	R	4705026242	http://www.wikidata.org/entity/Q47515164
+dimas gragera velaz	citizens group of the parliament of catalonia	R	3080351291	http://www.wikidata.org/entity/Q50379598
+ernest maragall i mira	republican parliamentary group	L	165480860	http://www.wikidata.org/entity/Q1032587
+carles castillo rosique	socialists and united to advance parliamentary group	L	227830236	http://www.wikidata.org/entity/Q21402385
+raúl moreno montaña	socialists and united to advance parliamentary group	L	296121999	http://www.wikidata.org/entity/Q21402456
+jean castel sucarrat	citizens group of the parliament of catalonia	R	2587983419	http://www.wikidata.org/entity/Q21479899
+javier rivas escamilla	citizens group of the parliament of catalonia	R	3075319017	http://www.wikidata.org/entity/Q21480150
+laura vílchez sánchez	citizens group of the parliament of catalonia	R	553948677	http://www.wikidata.org/entity/Q21480239
+anna erra i solà	junts per catalunya parliamentary group	R	817462562	http://www.wikidata.org/entity/Q22337869
+elsa artadi i vila	junts per catalunya parliamentary group	R	305839468	http://www.wikidata.org/entity/Q25847824
+francesc de dalmases i thió	junts per catalunya parliamentary group	R	53039753	http://www.wikidata.org/entity/Q30275146
+najat driouech ben moussa	republican parliamentary group	L	3578250322	http://www.wikidata.org/entity/Q43439902
+francesc viaplana i manresa	republican parliamentary group	L	2574169157	http://www.wikidata.org/entity/Q43439948
+mònica palacín i parís	republican parliamentary group	L	2156266720	http://www.wikidata.org/entity/Q46632220
+anna geli españa	junts per catalunya parliamentary group	R	2149753153	http://www.wikidata.org/entity/Q50875981
+yolanda lópez fernández	catalunya en comú podem parliamentary group	L	934013579803660288	http://www.wikidata.org/entity/Q57353715
+ramon espadaler parcerisas	socialists and united to advance parliamentary group	L	556913417	http://www.wikidata.org/entity/Q9066280
+anna tarrés i campà	junts per catalunya parliamentary group	R	3193961667	http://www.wikidata.org/entity/Q8200133
+carmen de rivera i pla	citizens group of the parliament of catalonia	R	146558892	http://www.wikidata.org/entity/Q8338698
+santiago rodríguez serra	people's party of catalonia parliamentary subgroup	R	25096894	http://www.wikidata.org/entity/Q11947686
+antoni morral i berenguer	junts per catalunya parliamentary group	R	326665548	http://www.wikidata.org/entity/Q17034246
+maria senserrich i guitart	junts per catalunya parliamentary group	R	22655766	http://www.wikidata.org/entity/Q19301093
+manuel reyes	people's party of catalonia parliamentary subgroup	R	48648927	http://www.wikidata.org/entity/Q19665905
+anna caula i paretas	republican parliamentary group	L	721696957853483008	http://www.wikidata.org/entity/Q20875398
+jéssica albiach	catalunya en comú podem parliamentary group	L	208167029	http://www.wikidata.org/entity/Q20876623
+rosa maria ibarra ollé	socialists and united to advance parliamentary group	L	761868620	http://www.wikidata.org/entity/Q21402467
+noemí de la calle sifré	citizens group of the parliament of catalonia	R	245392058	http://www.wikidata.org/entity/Q21479852
+jordi orobitg i solé	republican parliamentary group	L	132977636	http://www.wikidata.org/entity/Q21480091
+josep maria jové i lladó	republican parliamentary group	L	1073550674066051072	http://www.wikidata.org/entity/Q22337913
+ruben wagensberg	republican parliamentary group	L	226640033	http://www.wikidata.org/entity/Q29514945
+david cid	catalunya en comú podem parliamentary group	L	229510101	http://www.wikidata.org/entity/Q43178505
+eduard pujol	junts per catalunya parliamentary group	R	769612830563790848	http://www.wikidata.org/entity/Q43287265
+vidal aragonés i chicharro	popular unity candidates - constituent call parliamentary subgroup	L	3038722858	http://www.wikidata.org/entity/Q43963991
+maría francisca valle fuentes	citizens group of the parliament of catalonia	R	341372806	http://www.wikidata.org/entity/Q55560451
+glòria freixa i vilardell	junts per catalunya parliamentary group	R	563511866	http://www.wikidata.org/entity/Q64223402
+antoni castellà i clavé	republican parliamentary group	L	978825445	http://www.wikidata.org/entity/Q11905816
+miquel buch moya	junts per catalunya parliamentary group	R	19466026	http://www.wikidata.org/entity/Q14041863
+marta vilalta i torres	republican parliamentary group	L	15254216	http://www.wikidata.org/entity/Q20005836
+lorena roldán	citizens group of the parliament of catalonia	R	3127325711	http://www.wikidata.org/entity/Q20725437
+sol sánchez	united left; unidas podemos	L	977027892	http://www.wikidata.org/entity/Q22240377
+eduardo fernández rubiño	podemos; más madrid	L	360612491	http://www.wikidata.org/entity/Q26232737
+juan trinidad martos	ciudadanos	R	2609822834	http://www.wikidata.org/entity/Q51954661
+david erguido cano	people's party	R	197532463	http://www.wikidata.org/entity/Q66603868
+ignacio aguado	ciudadanos	R	143538142	http://www.wikidata.org/entity/Q19839312
+isabel serra	podemos	L	529634658	http://www.wikidata.org/entity/Q47490746
+diego cruz torrijos	spanish socialist workers' party; communist party of spain	L	69619514	http://www.wikidata.org/entity/Q55553301
+modesto nolla	spanish socialist workers' party	L	311608135	http://www.wikidata.org/entity/Q50761751
+jorge moruno	podemos; más madrid	L	331020996	http://www.wikidata.org/entity/Q52095637
+maría acín	más madrid	L	376234233	http://www.wikidata.org/entity/Q58007634
+borja cabezón royo	spanish socialist workers' party	L	133624933	http://www.wikidata.org/entity/Q63980424
+ángel gabilondo	spanish socialist workers' party	L	3042094893	http://www.wikidata.org/entity/Q251625
+david pérez garcía	people's party	R	6692562	http://www.wikidata.org/entity/Q5800291
+josé cepeda	spanish socialist workers' party	L	7064212	http://www.wikidata.org/entity/Q5938944
+jazmín beirak	podemos; más madrid	L	95312797	http://www.wikidata.org/entity/Q23009455
+alejandro sánchez pérez	verdes equo; más madrid	L	267447988	http://www.wikidata.org/entity/Q5665536
+isabel díaz ayuso	people's party	R	140034129	http://www.wikidata.org/entity/Q50634772
+raquel huerta	más madrid	L	378493989	http://www.wikidata.org/entity/Q50637878
+agustín vinagre	spanish socialist workers' party	L	179948581	http://www.wikidata.org/entity/Q51879465
+rocío monasterio	vox	R	2216589010	http://www.wikidata.org/entity/Q59609771
+carla antonelli	spanish socialist workers' party	L	64223584	http://www.wikidata.org/entity/Q2480827
+pilar sánchez acera	spanish socialist workers' party	L	28373425	http://www.wikidata.org/entity/Q50737549
+pilar llop	spanish socialist workers' party	L	1206536558351994882	http://www.wikidata.org/entity/Q55496545
+vanessa lillo	united left; unidas podemos	L	403447729	http://www.wikidata.org/entity/Q61848460
+héctor tejero	más madrid	L	756446502852190208	http://www.wikidata.org/entity/Q64176215
+jacinto morano	unidas podemos	L	2983139333	http://www.wikidata.org/entity/Q23682886
+alicia sánchez-camacho	people's party	R	518335085	http://www.wikidata.org/entity/Q117023
+emilio delgado orgaz	united left; castilian left; podemos; más madrid	L	494095630	http://www.wikidata.org/entity/Q47512830
+yolanda ibarrola	people's party	R	1011259950579044352	http://www.wikidata.org/entity/Q54972842
+clara ramas san miguel	más madrid	L	986535680632291328	http://www.wikidata.org/entity/Q61935781
+mónica garcía gómez	podemos; más madrid	L	561857372	http://www.wikidata.org/entity/Q62591710
+hugo martínez abarca	más madrid	L	17138110	http://www.wikidata.org/entity/Q66603906
+santiago eduardo gutiérrez benito	más madrid	L	3050763708	http://www.wikidata.org/entity/Q66603981
+beatriz gimeno	podemos; unidas podemos	L	315119037	http://www.wikidata.org/entity/Q3278485
+carlos carnero	spanish socialist workers' party	L	1171012847645732865	http://www.wikidata.org/entity/Q3497915
+ander rodriguez lejarza	euskal herria bildu	L	340967841	http://www.wikidata.org/entity/Q12253472
+maddalen iriarte	euskal herria bildu	L	293711934	http://www.wikidata.org/entity/Q12262821
+jasone agirre garitaonandia	euskal herria bildu	L	2858841658	http://www.wikidata.org/entity/Q30335984
+eraitz saez de egilaz	euskal herria bildu	L	576364637	http://www.wikidata.org/entity/Q97145256
+miren gorrotxategi	elkarrekin podemos	L	4876136170	http://www.wikidata.org/entity/Q28872545
+juan manuel moreno	people's party	R	278955879
+pere aragonès	republican left of catalonia	L	12824222
+quim torra	together for catalonia	R	4703390322
+isabel díaz ayuso	people's party	R	140034129
+ximo puig	spanish socialist workers' party	L	280405370
+alberto núñez feijóo	people's party	R	579741408
+alfonso fernández mañueco	people's party	R	218094642
+emiliano garcía-page	spanish socialist workers' party	L	162409872
+ángel víctor torres	spanish socialist workers' party	L	484049273
+fernando lópez miras	people's party	R	252203942
+javier lambán	spanish socialist workers' party	L	2350951542
+guillermo fernández vara	spanish socialist workers' party	L	158658247
+francina armengol	spanish socialist workers' party	L	466593375
+adrián barbón	spanish socialist workers' party	L	211250630
+maría chivite	spanish socialist workers' party	L	121173499
+miguel ángel revilla	regionalist party of cantabria	L	516405086
+concha andreu	spanish socialist workers' party	L	277018118
+eduardo de castro	parliamentary group citizens	R	42852127
+juan jesús vivas	people's party	R	1595135294373826560

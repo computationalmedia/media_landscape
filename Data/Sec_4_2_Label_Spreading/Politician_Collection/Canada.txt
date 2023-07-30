@@ -1,0 +1,192 @@
+kerry diotte	conservative party of canada	R	140960578	http://www.wikidata.org/entity/Q16187047
+mario beaulieu	bloc québécois	L	161748431	http://www.wikidata.org/entity/Q17174697
+françois-philippe champagne	liberal party of canada	L	1707636642	http://www.wikidata.org/entity/Q21159815
+raj saini	liberal party of canada	L	1166076919701487617; 2667603834	http://www.wikidata.org/entity/Q22096931
+pam damoff	liberal party of canada	L	205786669	http://www.wikidata.org/entity/Q22277495
+michael levitt	liberal party of canada	L	31764814	http://www.wikidata.org/entity/Q22278851
+salma zahid	liberal party of canada	L	2344419362	http://www.wikidata.org/entity/Q22282385
+chrystia freeland	liberal party of canada	L	203132018	http://www.wikidata.org/entity/Q4492815
+francis scarpaleggia	liberal party of canada	L	200100603	http://www.wikidata.org/entity/Q955143
+alexandre boulerice	new democratic party	L	196717787	http://www.wikidata.org/entity/Q2833494
+dan albas	conservative party of canada	R	16278177	http://www.wikidata.org/entity/Q3013003
+don davies	new democratic party	L	16189107	http://www.wikidata.org/entity/Q3035763
+justin trudeau	liberal party of canada	L	14260960; 14713836; 14713787	http://www.wikidata.org/entity/Q3099714
+joyce murray	liberal party of canada	L	16180205	http://www.wikidata.org/entity/Q3187235
+judy sgro	liberal party of canada	L	1390883714	http://www.wikidata.org/entity/Q3188045
+michael chong	conservative party of canada	R	2223489614	http://www.wikidata.org/entity/Q3308109
+omar alghabra	liberal party of canada	L	20199202	http://www.wikidata.org/entity/Q3351821
+scott reid	conservative party of canada	R	283179858	http://www.wikidata.org/entity/Q3476240
+tim uppal	conservative party of canada	R	195820437	http://www.wikidata.org/entity/Q3528703
+alice wong	conservative party of canada	R	271343342	http://www.wikidata.org/entity/Q4726162
+yvonne jones	liberal party of canada	L	240786249	http://www.wikidata.org/entity/Q8062466
+carol hughes	new democratic party	L	60916234	http://www.wikidata.org/entity/Q16192760
+yvan baker	liberal party of canada	L	47692251	http://www.wikidata.org/entity/Q17180515
+john barlow	conservative party of canada	R	270570153	http://www.wikidata.org/entity/Q17305669
+majid jowhari	liberal party of canada	L	2229187188	http://www.wikidata.org/entity/Q21156165
+gary anandasangaree	liberal party of canada	L	1899063048	http://www.wikidata.org/entity/Q21160212
+steve mackinnon	liberal party of canada	L	165812196	http://www.wikidata.org/entity/Q21266477
+bardish chagger	liberal party of canada	L	2696723713	http://www.wikidata.org/entity/Q21402871
+karina gould	liberal party of canada	L	61521038	http://www.wikidata.org/entity/Q21716260
+leona alleslev	conservative party of canada	R	2445479707	http://www.wikidata.org/entity/Q22003106
+neil ellis	liberal party of canada	L	122247581	http://www.wikidata.org/entity/Q22004200
+julie dzerowicz	liberal party of canada	L	1942107584	http://www.wikidata.org/entity/Q22086204
+ruby sahota	liberal party of canada	L	49160271	http://www.wikidata.org/entity/Q22096924
+cathay wagantall	conservative party of canada	R	1626700808	http://www.wikidata.org/entity/Q22116843
+william amos	liberal party of canada	L	919714903	http://www.wikidata.org/entity/Q22276800
+todd doherty	conservative party of canada	R	2988907684	http://www.wikidata.org/entity/Q22277600
+rosemarie falk	conservative party of canada	R	4876239438	http://www.wikidata.org/entity/Q42666524
+alexis brunelle-duceppe	bloc québécois	L	803381983	http://www.wikidata.org/entity/Q72194331
+mark strahl	conservative party of canada	R	274831602	http://www.wikidata.org/entity/Q771878
+charlie angus	new democratic party	L	215632349	http://www.wikidata.org/entity/Q2960818
+emmanuel dubourg	liberal party of canada	L	1881004363	http://www.wikidata.org/entity/Q3052684
+geoff regan	liberal party of canada	L	76143039	http://www.wikidata.org/entity/Q3101057
+kirsty duncan	liberal party of canada	L	271073165	http://www.wikidata.org/entity/Q3197422
+wayne easter	liberal party of canada	L	65624152	http://www.wikidata.org/entity/Q3566825
+seamus o'regan	liberal party of canada	L	22849568	http://www.wikidata.org/entity/Q7440780
+ahmed hussen	liberal party of canada	L	2891740872	http://www.wikidata.org/entity/Q16211070
+francis drouin	liberal party of canada	L	743129088	http://www.wikidata.org/entity/Q21155044
+gudie hutchings	liberal party of canada	L	21687438	http://www.wikidata.org/entity/Q22005483
+scott duvall	new democratic party	L	535820788	http://www.wikidata.org/entity/Q22277646
+marilyn gladu	conservative party of canada	R	791282631006621696	http://www.wikidata.org/entity/Q22277949
+bryan may	liberal party of canada	L	52080359	http://www.wikidata.org/entity/Q22279113
+kate young	liberal party of canada	L	2763372632	http://www.wikidata.org/entity/Q22811363
+mumilaaq qaqqaq	new democratic party	L	1172345859905871872	http://www.wikidata.org/entity/Q71942614
+annie koutrakis	liberal party of canada	L	1170770038208565248	http://www.wikidata.org/entity/Q72012050
+adam van koeverden	liberal party of canada	L	112815157	http://www.wikidata.org/entity/Q81496
+andrew scheer	conservative party of canada	R	256360738	http://www.wikidata.org/entity/Q2846724
+david mcguinty	liberal party of canada	L	272903688	http://www.wikidata.org/entity/Q3018407
+navdeep bains	liberal party of canada	L	234395010	http://www.wikidata.org/entity/Q3337237
+sean casey	liberal party of canada	L	256775505	http://www.wikidata.org/entity/Q3476701
+sukh dhaliwal	liberal party of canada	L	38625077	http://www.wikidata.org/entity/Q3503377
+tom lukiwski	conservative party of canada	R	271042651	http://www.wikidata.org/entity/Q3530781
+anthony housefather	liberal party of canada	L	1646334073	http://www.wikidata.org/entity/Q4772746
+ted falk	conservative party of canada	R	2228891196	http://www.wikidata.org/entity/Q15300563
+david yurdiga	conservative party of canada	R	2285856702	http://www.wikidata.org/entity/Q17513253
+peter fragiskatos	liberal party of canada	L	593944500	http://www.wikidata.org/entity/Q21642488
+sean fraser	liberal party of canada	L	1072270926	http://www.wikidata.org/entity/Q21642492
+ken hardie	liberal party of canada	L	3358671	http://www.wikidata.org/entity/Q22004772
+angelo iacono	liberal party of canada	L	991710411945857024	http://www.wikidata.org/entity/Q22080847
+terry sheehan	liberal party of canada	L	3363252329	http://www.wikidata.org/entity/Q22096449
+bernadette jordan	liberal party of canada	L	2729561810	http://www.wikidata.org/entity/Q22278440
+sonia sidhu	liberal party of canada	L	3188558830	http://www.wikidata.org/entity/Q22770988
+bernard généreux	conservative party of canada	R	3136229996	http://www.wikidata.org/entity/Q2898026
+bruce stanton	conservative party of canada	R	272183541	http://www.wikidata.org/entity/Q2926478
+candice bergen	conservative party of canada	R	833988769	http://www.wikidata.org/entity/Q2936261
+earl dreeshen	conservative party of canada	R	272617171	http://www.wikidata.org/entity/Q3046379
+mark holland	liberal party of canada	L	85428184	http://www.wikidata.org/entity/Q3294109
+peter julian	new democratic party	L	19557595	http://www.wikidata.org/entity/Q3376681
+phil mccoleman	conservative party of canada	R	271959297	http://www.wikidata.org/entity/Q7182163
+marie-france lalonde	liberal party of canada	L	417524720	http://www.wikidata.org/entity/Q17180720
+greg fergus	liberal party of canada	L	45848808	http://www.wikidata.org/entity/Q21281905
+michel boudrias	bloc québécois	L	2972038637	http://www.wikidata.org/entity/Q21428260
+michael cooper	conservative party of canada	R	2149496034	http://www.wikidata.org/entity/Q21642395
+vance badawey	liberal party of canada	L	1002181382	http://www.wikidata.org/entity/Q22276923
+marc miller	liberal party of canada	L	1882871270	http://www.wikidata.org/entity/Q22279214
+marc serré	liberal party of canada	L	159655782	http://www.wikidata.org/entity/Q22442799
+mary ng	liberal party of canada	L	29754743	http://www.wikidata.org/entity/Q29139548
+erin o'toole	conservative party of canada	R	296553576	http://www.wikidata.org/entity/Q1840895
+carolyn bennett	liberal party of canada	L	40550119	http://www.wikidata.org/entity/Q2403422
+ben lobb	conservative party of canada	R	1851503720	http://www.wikidata.org/entity/Q2895501
+cheryl gallant	conservative party of canada	R	43545966	http://www.wikidata.org/entity/Q2962814
+david sweet	conservative party of canada	R	68452445	http://www.wikidata.org/entity/Q3018841
+ed fast	conservative party of canada	R	2459904061	http://www.wikidata.org/entity/Q3047171
+mike lake	conservative party of canada	R	129395750	http://www.wikidata.org/entity/Q3313399
+pierre poilievre	conservative party of canada	R	242827267	http://www.wikidata.org/entity/Q3386636
+randall garrison	new democratic party	L	266855812	http://www.wikidata.org/entity/Q3418804
+yves-françois blanchet	bloc québécois	L	38262290	http://www.wikidata.org/entity/Q3573412
+bob zimmer	conservative party of canada	R	176207343	http://www.wikidata.org/entity/Q4934493
+jack harris	new democratic party	L	274231222	http://www.wikidata.org/entity/Q6112959
+jagmeet singh	new democratic party	L	253340075	http://www.wikidata.org/entity/Q6122681
+jim carr	liberal party of canada	L	2322580746	http://www.wikidata.org/entity/Q6194065
+marci ien	liberal party of canada	L	47338701	http://www.wikidata.org/entity/Q6757065
+michael mcleod	liberal party of canada	L	3242606862	http://www.wikidata.org/entity/Q6832752
+randy hoback	conservative party of canada	R	35018890	http://www.wikidata.org/entity/Q7292236
+pierre paul-hus	conservative party of canada	R	412708728	http://www.wikidata.org/entity/Q21158711
+gabriel ste-marie	bloc québécois	L	3356795013	http://www.wikidata.org/entity/Q21177259
+richard cannings	new democratic party	L	814078628	http://www.wikidata.org/entity/Q21228464
+marco mendicino	liberal party of canada	L	312759403	http://www.wikidata.org/entity/Q21336208
+marie-claude bibeau	liberal party of canada	L	911471588	http://www.wikidata.org/entity/Q21356553
+patty hajdu	liberal party of canada	L	1005090338	http://www.wikidata.org/entity/Q21573510
+fayçal el-khoury	liberal party of canada	L	3315017505	http://www.wikidata.org/entity/Q22278594
+lloyd longfield	liberal party of canada	L	579377522	http://www.wikidata.org/entity/Q22278896
+gagan sikand	liberal party of canada	L	236395551	http://www.wikidata.org/entity/Q22704271
+mona fortier	liberal party of canada	L	631988630	http://www.wikidata.org/entity/Q29138522
+jean yip	liberal party of canada	L	2513973205	http://www.wikidata.org/entity/Q45311888
+taylor bachrach	new democratic party	L	175259033	http://www.wikidata.org/entity/Q71936994
+brian masse	new democratic party	L	19750015	http://www.wikidata.org/entity/Q529968
+marc garneau	liberal party of canada	L	80702644	http://www.wikidata.org/entity/Q703321
+chris warkentin	conservative party of canada	R	45923631	http://www.wikidata.org/entity/Q2964888
+dave mackenzie	conservative party of canada	R	897770628	http://www.wikidata.org/entity/Q3017193
+dean allison	conservative party of canada	R	243709627	http://www.wikidata.org/entity/Q3020613
+john mckay	liberal party of canada	L	245954929	http://www.wikidata.org/entity/Q3182063
+kevin lamoureux	liberal party of canada	L	208750527	http://www.wikidata.org/entity/Q3195738
+peter kent	conservative party of canada	R	1449320024	http://www.wikidata.org/entity/Q3376692
+rob moore	conservative party of canada	R	237281828	http://www.wikidata.org/entity/Q3434216
+scott simms	liberal party of canada	L	171977015	http://www.wikidata.org/entity/Q3476307
+adam vaughan	liberal party of canada	L	2194707954	http://www.wikidata.org/entity/Q4679921
+kelly block	conservative party of canada	R	28804785	http://www.wikidata.org/entity/Q6385949
+larry maguire	conservative party of canada	R	1686740173	http://www.wikidata.org/entity/Q6490735
+peter fonseca	liberal party of canada	L	4269886099	http://www.wikidata.org/entity/Q7174026
+mélanie joly	liberal party of canada	L	25227444	http://www.wikidata.org/entity/Q15054353
+david lametti	liberal party of canada	L	1360838234	http://www.wikidata.org/entity/Q21064615
+diane lebouthillier	liberal party of canada	L	3142614406	http://www.wikidata.org/entity/Q21336098
+chris bittle	liberal party of canada	L	417389780	http://www.wikidata.org/entity/Q21572835
+anju dhillon	liberal party of canada	L	2874772780	http://www.wikidata.org/entity/Q21572945
+terry beech	liberal party of canada	L	16279532	http://www.wikidata.org/entity/Q21716242
+darren fisher	liberal party of canada	L	408072407	http://www.wikidata.org/entity/Q22004363
+jean-yves duclos	liberal party of canada	L	2848993491	http://www.wikidata.org/entity/Q1685302
+blake richards	conservative party of canada	R	24171225	http://www.wikidata.org/entity/Q2905842
+larry bagnell	liberal party of canada	L	126233342	http://www.wikidata.org/entity/Q3218024
+michelle rempel garner	conservative party of canada	R	14538949	http://www.wikidata.org/entity/Q3311457
+bill blair	liberal party of canada	L	3196494064	http://www.wikidata.org/entity/Q4908168
+bob bratina	liberal party of canada	L	2982975394	http://www.wikidata.org/entity/Q4931915
+dan vandal	liberal party of canada	L	234550882	http://www.wikidata.org/entity/Q5214525
+kyle seeback	conservative party of canada	R	1198299741060239360	http://www.wikidata.org/entity/Q6451430
+ali ehsassi	liberal party of canada	L	1895316878	http://www.wikidata.org/entity/Q21156200
+marilène gill	bloc québécois	L	3402128080	http://www.wikidata.org/entity/Q21167969
+andy fillmore	liberal party of canada	L	158458133	http://www.wikidata.org/entity/Q21174009
+carla qualtrough	liberal party of canada	L	2852899113	http://www.wikidata.org/entity/Q21384927
+julie dabrusin	liberal party of canada	L	382949896	http://www.wikidata.org/entity/Q21572925
+luc berthold	conservative party of canada	R	268832287	http://www.wikidata.org/entity/Q21891834
+john brassard	conservative party of canada	R	38100599	http://www.wikidata.org/entity/Q22003456
+shannon stubbs	conservative party of canada	R	2963597856	http://www.wikidata.org/entity/Q22114010
+peter schiefke	liberal party of canada	L	342258692	http://www.wikidata.org/entity/Q22121196
+chandra arya	liberal party of canada	L	2327530022	http://www.wikidata.org/entity/Q22276872
+shaun chen	liberal party of canada	L	2937436849	http://www.wikidata.org/entity/Q22277334
+ryan turnbull	liberal party of canada	L	1140090941195325440	http://www.wikidata.org/entity/Q71929780
+sébastien lemire	bloc québécois	L	216469057	http://www.wikidata.org/entity/Q72177965
+alexandra mendès	liberal party of canada	L	249221867	http://www.wikidata.org/entity/Q2833301
+cathy mcleod	conservative party of canada	R	68995519	http://www.wikidata.org/entity/Q2942205
+hedy fry	liberal party of canada	L	25127782	http://www.wikidata.org/entity/Q3129348
+james bezan	conservative party of canada	R	44718864	http://www.wikidata.org/entity/Q3160939
+lawrence macaulay	liberal party of canada	L	493488747	http://www.wikidata.org/entity/Q3219913
+niki ashton	new democratic party	L	18654401	http://www.wikidata.org/entity/Q3341504
+pablo rodríguez	liberal party of canada	L	2242940071	http://www.wikidata.org/entity/Q3359999
+lenore zann	liberal party of canada	L	1646161106	http://www.wikidata.org/entity/Q4355859
+helena jaczek	liberal party of canada	L	290162716	http://www.wikidata.org/entity/Q5703595
+claude carignan	conservative party of canada	R	252351829	http://www.wikidata.org/entity/Q2977137
+dennis dawson	senate liberal caucus; liberal party of canada	L	140163731	http://www.wikidata.org/entity/Q3023150
+judith seidman	conservative party of canada	R	544537289	http://www.wikidata.org/entity/Q3188008
+leo housakos	progressive conservative party of canada; canadian alliance; conservative party of canada	R	4430660543	http://www.wikidata.org/entity/Q3229562
+patrick brazeau	independent conservative	R	3001554169	http://www.wikidata.org/entity/Q3369280
+percy downe	senate liberal caucus; liberal party of canada	L	149212376	http://www.wikidata.org/entity/Q3375189
+pierre-hugues boisvenu	conservative party of canada	R	3110433357	http://www.wikidata.org/entity/Q3383128
+david wells	conservative party of canada	R	78596808	http://www.wikidata.org/entity/Q5240957
+denise batters	conservative party of canada	R	2422634642	http://www.wikidata.org/entity/Q5257618
+diane bellemare	conservative party of canada	R	1426402920	http://www.wikidata.org/entity/Q5271402
+don plett	conservative party of canada	R	1395906121	http://www.wikidata.org/entity/Q5293328
+doug black	conservative party of canada	R	373543624	http://www.wikidata.org/entity/Q5300309
+elaine mccoy	progressive conservative association of alberta; progressive conservative party of canada	R	34010100	http://www.wikidata.org/entity/Q5353253
+grant mitchell	senate liberal caucus	L	69719296	http://www.wikidata.org/entity/Q5596353
+jean-guy dagenais	conservative party of canada	R	522532843	http://www.wikidata.org/entity/Q6169316
+jim cowan	senate liberal caucus; liberal party of canada	L	1112540888	http://www.wikidata.org/entity/Q6194381
+jim munson	senate liberal caucus; liberal party of canada	L	309215071	http://www.wikidata.org/entity/Q6197083
+joseph a. day	senate liberal caucus; liberal party of canada	L	781524939748900864	http://www.wikidata.org/entity/Q6280781
+linda frum	conservative party of canada	R	171606833	http://www.wikidata.org/entity/Q6551575
+mobina jaffer	senate liberal caucus	L	163981893	http://www.wikidata.org/entity/Q6887337
+raynell andreychuk	progressive conservative party of canada; conservative party of canada	R	902575098	http://www.wikidata.org/entity/Q7299317
+salma ataullahjan	conservative party of canada	R	498059173	http://www.wikidata.org/entity/Q7405355
+thanh hai ngo	conservative party of canada	R	780401389742809088	http://www.wikidata.org/entity/Q7710334
+victor oh	conservative party of canada	R	791109855658569728	http://www.wikidata.org/entity/Q7926201
+george furey	senate liberal caucus; liberal party of canada	L	1965099534	http://www.wikidata.org/entity/Q5539530
+judy foote	liberal party of canada	L	2471250308
