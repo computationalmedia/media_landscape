@@ -1,0 +1,49 @@
+SELECT
+    ("AR" AS ?countryCode)
+    (?personLabel AS ?name)
+    (?person AS ?wikidataID)
+    (?genderLabel AS ?gender)
+    (GROUP_CONCAT(DISTINCT LCASE(?twitterScreenname); SEPARATOR=" || ") AS ?twitterScreenname)
+    (GROUP_CONCAT(DISTINCT STR(?twitterID); SEPARATOR=" || ") AS ?twitterID)
+    (GROUP_CONCAT(DISTINCT ?posHeldLabel; SEPARATOR=" || ") AS ?positionHeld)
+    (GROUP_CONCAT(DISTINCT ?groupLabel; SEPARATOR=" || ") AS ?group)
+    (GROUP_CONCAT(DISTINCT ?groupStateLabel; SEPARATOR=" || ") AS ?groupFromState)
+WHERE {
+  # retrieving positions held, and statement properties
+  ?person p:P39 ?posHeldStatement.
+  ?posHeldStatement ps:P39 ?posHeld .
+
+  {?posHeld wdt:P279* wd:Q18229570 .}
+    
+  #retrieving gender if specified
+  OPTIONAL {?person wdt:P21 ?gender .}
+  
+  ?person p:P2002 ?twitterstatement.
+
+  ?twitterstatement ps:P2002 ?twitterScreenname.
+
+  {?twitterstatement pq:P6552 ?twitterID. FILTER (!regex(STR(?twitterID), "http://www.wikidata.org/") ) .}
+  
+  #retrieving group if specified
+  OPTIONAL {?person wdt:P102 ?group .}
+
+  #retrieving group from the statement if specified, this should be the primary one for reference
+  OPTIONAL {?posHeldStatement pq:P4100 ?groupFromState .}
+
+  MINUS {?posHeldStatement pq:P582 ?endTime. FILTER( (YEAR(?endTime) = 2020 && MONTH(?endTime) < 3) || (YEAR(?endTime) <= 2019) ) .}
+  
+  MINUS {?posHeldStatement pq:P580 ?startTime. FILTER( (YEAR(?startTime) = 2020 && MONTH(?startTime) = 12 ) || (YEAR(?startTime) >= 2021) ).}
+  
+  MINUS {?person wdt:P570 ?death. FILTER( (YEAR(?death) = 2020 && MONTH(?death) < 3) || (YEAR(?death) <= 2019) ) .}
+  
+  #adding human readable labels
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en". 
+                          ?posHeld rdfs:label ?posHeldLabel.
+                          ?group rdfs:label ?groupLabel.
+                          ?groupFromState rdfs:label ?groupStateLabel.
+                          ?person rdfs:label ?personLabel.
+                          ?gender rdfs:label ?genderLabel.
+                         }
+}
+GROUP BY ?person ?personLabel ?genderLabel
+ORDER BY ?positionHeld

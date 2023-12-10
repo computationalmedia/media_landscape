@@ -1,0 +1,61 @@
+SELECT
+    ("US" AS ?countryCode)
+    (?personLabel AS ?name)
+    (?person AS ?wikidataID)
+    (?genderLabel AS ?gender)
+    (GROUP_CONCAT(DISTINCT LCASE(?twitterScreenname); SEPARATOR=" || ") AS ?twitterScreenname)
+    (GROUP_CONCAT(DISTINCT STR(?twitterID); SEPARATOR=" || ") AS ?twitterID)
+    (GROUP_CONCAT(DISTINCT ?posHeldLabel; SEPARATOR=" || ") AS ?positionHeld)
+    (GROUP_CONCAT(DISTINCT ?groupLabel; SEPARATOR=" || ") AS ?group)
+    (GROUP_CONCAT(DISTINCT ?groupStateLabel; SEPARATOR=" || ") AS ?groupFromState)
+    (GROUP_CONCAT(DISTINCT ?districtLabel; SEPARATOR=" || ") AS ?district)
+WHERE {
+  # retrieving positions held, and statement properties
+  ?person p:P39 ?posHeldStatement.
+  ?posHeldStatement ps:P39 ?posHeld .
+
+  # position is US Senator
+  {?posHeld wdt:P279* wd:Q4416090 .}
+  
+  # position held during 116th Congress
+  ?posHeldStatement pq:P2937 wd:Q28227688 .
+  
+  OPTIONAL {?posHeldStatement pq:P768 ?district .}
+  # retrieving gender if specified
+  OPTIONAL {?person wdt:P21 ?gender .}
+  
+  # retrieving twitter related statements
+  ?person p:P2002 ?twitterstatement.
+
+  # further retrieving screennames
+  ?twitterstatement ps:P2002 ?twitterScreenname.
+
+  # further retrieving twitter IDs, filtered by unknown values
+  # unknown values, when converted to strings, are in a form of URLs beginning with http://www.wikidata.org/
+  {?twitterstatement pq:P6552 ?twitterID. FILTER (!regex(STR(?twitterID), "http://www.wikidata.org/") ) .}
+  
+  # retrieving group if specified
+  OPTIONAL {?person wdt:P102 ?group .}
+
+  # retrieving group from the statement if specified, this one can be empty.
+  # when it is empty, use the line above for party info; otherwise use this line
+  OPTIONAL {?posHeldStatement pq:P4100 ?groupFromState .}
+
+  # remove politicians with present end time, and end time before 2020-03
+  MINUS {?posHeldStatement pq:P582 ?endTime. FILTER( (YEAR(?endTime) = 2020 && MONTH(?endTime) < 3) || (YEAR(?endTime) <= 2019) ) .}
+  # remove politicians with preswent start time, and start time after 2020-12
+  MINUS {?posHeldStatement pq:P580 ?startTime. FILTER( (YEAR(?startTime) = 2020 && MONTH(?startTime) = 12 ) || (YEAR(?startTime) >= 2021) ).}
+
+
+  #adding human readable labels
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en". 
+                          ?posHeld rdfs:label ?posHeldLabel.
+                          ?district rdfs:label ?districtLabel.
+                          ?group rdfs:label ?groupLabel.
+                          ?groupFromState rdfs:label ?groupStateLabel.
+                          ?person rdfs:label ?personLabel.
+                          ?gender rdfs:label ?genderLabel.
+                         }
+}
+GROUP BY ?person ?personLabel ?genderLabel
+ORDER BY ?positionHeld

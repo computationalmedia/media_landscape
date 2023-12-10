@@ -1,0 +1,108 @@
+SELECT
+    ("ES" AS ?countryCode)
+    (?personLabel AS ?name)
+    (?person AS ?wikidataID)
+    (?genderLabel AS ?gender)
+    (GROUP_CONCAT(DISTINCT LCASE(?twitterScreenname); SEPARATOR=" || ") AS ?twitterScreenname)
+    (GROUP_CONCAT(DISTINCT STR(?twitterID); SEPARATOR=" || ") AS ?twitterID)
+    (GROUP_CONCAT(DISTINCT ?posHeldLabel; SEPARATOR=" || ") AS ?positionHeld)
+    (GROUP_CONCAT(DISTINCT ?groupLabel; SEPARATOR=" || ") AS ?group)
+    (GROUP_CONCAT(DISTINCT ?groupStateLabel; SEPARATOR=" || ") AS ?groupFromState)
+WHERE {
+  # retrieving positions held, and statement properties
+  ?person p:P39 ?posHeldStatement.
+  ?posHeldStatement ps:P39 ?posHeld .
+
+  {?posHeld wdt:P279* wd:Q18171345 .}
+  UNION
+  {?posHeld wdt:P279* wd:Q18714088 .}
+  UNION
+  {?posHeld wdt:P279* wd:Q20177806 .}
+  UNION
+  {?posHeld wdt:P279* wd:Q42407451 .} # 10th Cortes of Aragon is missing
+  UNION
+  {?posHeld wdt:P279* wd:Q63760146 .} 
+  UNION
+  {?posHeld wdt:P279* wd:Q28137076 .} # 10th Parliament of the Balearic Islands is missing
+  UNION
+  {?posHeld wdt:P279* wd:Q28778415 .}
+  UNION
+  {?posHeld wdt:P279* wd:Q58337991 .} # 10th Parliament of the Canary Islands is missing
+  UNION
+  {?posHeld wdt:P279* wd:Q43183194 .} # 10th Parliament of Cantabria is missing
+  UNION
+  {?posHeld wdt:P279* wd:Q22998960 .}
+  UNION
+  {?posHeld wdt:P279* wd:Q22998723 .} # 10th Cortes of Castilla–La Mancha is missing
+  UNION
+  {?posHeld wdt:P279* wd:Q22998436 .}
+  UNION
+  {?posHeld wdt:P279* wd:Q22999968 .} # 10th Assembly of Extremadura is missing
+  UNION
+  {?posHeld wdt:P279* wd:Q43198218 .} # 10th and 11th Parliament of Galicia is missing
+  UNION
+  {?posHeld wdt:P279* wd:Q45901806 .}
+  UNION
+  {?posHeld wdt:P279* wd:Q60226157 .} # 10th Parliament of Navarre is missing
+  UNION
+  {?posHeld wdt:P279* wd:Q29996650 .} 
+  UNION
+  {?posHeld wdt:P279* wd:Q21609684 .}
+  UNION
+  {?posHeld wdt:P279* wd:Q96324141 .}
+  UNION
+  {?posHeld wdt:P279* wd:Q96324146 .}
+  
+  
+  {?posHeldStatement pq:P2937 wd:Q77871368 .}
+  UNION
+  {?posHeldStatement pq:P2937 wd:Q47034616 .}
+  UNION
+  {?posHeldStatement pq:P2937 wd:Q59554879 .}
+  UNION
+  {?posHeldStatement pq:P2937 wd:Q85719611 .}
+  UNION
+  {?posHeldStatement pq:P2937 wd:Q28495640 .} # 11th Parliament of the Basque
+  UNION
+  {?posHeldStatement pq:P2937 wd:Q97728937 .} # 12th Parliament of the Basque
+  UNION
+  {?posHeldStatement pq:P2937 wd:Q65125645 .}
+  UNION
+  {?posHeldStatement pq:P2937 wd:Q64549247 .}
+  UNION
+  {?posHeldStatement pq:P2937 wd:Q65126849 .}
+  
+  
+  
+  
+  #retrieving gender if specified
+  OPTIONAL {?person wdt:P21 ?gender .}
+  
+  ?person p:P2002 ?twitterstatement.
+
+  ?twitterstatement ps:P2002 ?twitterScreenname.
+
+  {?twitterstatement pq:P6552 ?twitterID. FILTER (!regex(STR(?twitterID), "http://www.wikidata.org/") ) .}
+  
+  #retrieving group if specified
+  OPTIONAL {?person wdt:P102 ?group .}
+
+  #retrieving group from the statement if specified, this should be the primary one for reference
+  OPTIONAL {?posHeldStatement pq:P4100 ?groupFromState .}
+
+  MINUS {?posHeldStatement pq:P582 ?endTime. FILTER( (YEAR(?endTime) = 2020 && MONTH(?endTime) < 3) || (YEAR(?endTime) <= 2019) ) .}
+  
+  MINUS {?posHeldStatement pq:P580 ?startTime. FILTER( (YEAR(?startTime) = 2020 && MONTH(?startTime) = 12 ) || (YEAR(?startTime) >= 2021) ).}
+  
+
+  #adding human readable labels
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en". 
+                          ?posHeld rdfs:label ?posHeldLabel.
+                          ?group rdfs:label ?groupLabel.
+                          ?groupFromState rdfs:label ?groupStateLabel.
+                          ?person rdfs:label ?personLabel.
+                          ?gender rdfs:label ?genderLabel.
+                         }
+}
+GROUP BY ?person ?personLabel ?genderLabel
+ORDER BY ?positionHeld
