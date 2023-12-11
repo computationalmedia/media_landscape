@@ -24,9 +24,11 @@ The data output of this work:
 
 - COVID2020: To comply with Twitter’s content redistribution policy, we only release the tweet IDs of the collected tweets. Our dataset can be downloaded on [SOMAR](https://socialmediaarchive.org/record/51), containing 999,040,035 tweet IDs. Details of our dataset can be found in the paper. Reproduction of results requires re-collection of these tweets, and the full data shall be left under `COVID2020/` folder (assuming each file is named by date).
 
-- Politician list: we release curated politician lists in the eight selected countries, along with each politician’s name, party affiliation, political position, Twitter accounts, and corresponding Wikidata page (if available). It can be found under `Data/Sec_4_2_Label_Spreading/Politician_Collection/`
+- Politician list: we release curated politician lists in the eight selected countries, along with each politician’s name, party affiliation, political position, Twitter accounts, and corresponding Wikidata page (if available). It can be found under `Data/Sec_4_2_Label_Spreading/Politician_Collection/`.
 
-- Media domain audience reach & bias score: we also release the audience reach metrics and average audience leaning scores for all media domains as computed in Section 5.3 in the paper. It can be found under `Data/Sec_5_3_Media_Domain_Bias/domain_bias.csv`
+- Wikidata query: we also release the Wikidata SPARQL queries used for fetching Twitter handles of governors and legislators. It can be found under `Data/Sec_4_2_Label_Spreading/Wikidata_Query/`.
+
+- Media domain audience reach & bias score: we also release the audience reach metrics and average audience leaning scores for all media domains as computed in Section 5.3 in the paper. It can be found under `Data/Sec_5_3_Media_Domain_Bias/domain_bias.csv`.
 
 
 # Section 3 A New COVID2020 Tweet Dataset
